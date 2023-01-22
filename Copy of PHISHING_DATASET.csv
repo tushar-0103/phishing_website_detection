@@ -1,0 +1,1787 @@
+URL_IDENTIFICATION,URL_LENGTH,CHARACTER_SET,SPECIAL_CHARACTERS,SERVER,CONTENT_LENGTH,COUNTRY,STATE,REGISTRATION_DATE,UPDATED_DATE,TCP_PACKETS_EXCHANGE,PORTS_DETECTED,REMOTE_IP,BYTES_TRANSFERRED,REMOTE_APP_PACKETS,SOURCE_APP_PACKETS,REMOTE_APP_BYTES,SOURCE_APP_BYTES,IP_PACKETS,DNS_PACKETS,WEBSITE_TYPE
+A0_71,21,ISO-8859-1,7,Apache/2.4.23 (Unix) OpenSSL/1.0.1e-fips mod_bwlimited/1.4,957,United Kingdom,NaN,16 July 2000,04 July 2015,7,0,1,717,10,11,1011,1960,11,4,1
+A0_97,21,iso-8859-1,7,nginx,686,Russia,Novosibirskaya obl.,25 May 2013,23 May 2016,6,0,2,603,9,8,745,1580,8,2,1
+M0_2303,21,us-ascii,6,Microsoft-HTTPAPI/2.0,324,NaN,NaN,09 August 1999,10 February 2015,7,7,3,618,9,7,618,562,7,0,0
+M0_584,21,utf-8,6,nginx,15025,NaN,NaN,NaN,NaN,13,1,5,1099,17,15,1243,15476,15,2,0
+M0_2122,22,iso-8859-1,6,nginx,318,America,Tennessee,02 November 2003,29 June 2015,8,6,6,696,10,8,696,636,8,0,0
+M0_2176,22,iso-8859-1,6,Apache/2.2.22,224,NaN,NaN,12 August 2008,13 July 2016,4,3,2,420,6,4,420,372,4,0,0
+A0_69,22,us-ascii,7,Microsoft-HTTPAPI/2.0,324,America,CO,15 September 2013,25 February 2017,9,0,4,850,9,11,994,1354,11,2,1
+M0_161,22,utf-8,6,openresty/1.11.2.1,NaN,America,CA,03 July 1999,07 August 2015,39,29,6,3833,42,43,4125,22495,43,4,0
+M0_569,22,utf-8,7,Apache/2.4.7 (Ubuntu),4421,Australia,Vi,21 May 2009,15 May 2016,12,0,2,2259,12,16,2559,5165,16,4,0
+M0_601,22,UTF-8,6,nginx/1.12.0,NaN,America,FL,01 August 2002,22 March 2016,6,0,3,650,10,10,950,1417,10,4,0
+M0_884,22,ISO-8859-1,6,Apache,441,America,OR,13 January 2005,02 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_905,22,ISO-8859-1,6,nginx/1.12.0,NaN,America,Texas,18 May 2005,19 May 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_916,22,utf-8,6,nginx,6671,Canada,ALBERTA,04 January 2001,03 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_102,23,utf-8,6,Apache,NaN,America,FL,28 February 2008,14 February 2017,16,3,11,1696,20,18,1844,13422,18,2,0
+M0_1130,23,iso-8859-1,6,Apache/2.4.12 (Unix) OpenSSL/1.0.1e-fips mod_bwlimited/1.4,434,Panama,PANAMA,08 December 2006,14 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_241,23,UTF-8,6,NaN,NaN,GB,NaN,09 May 2008,27 November 2015,19,14,6,1980,25,23,2276,5737,23,4,0
+M0_285,23,UTF-8,6,NaN,NaN,America,WI,23 April 1999,25 July 2016,4,0,1,519,8,8,823,1138,8,4,0
+M0_869,20,ISO-8859-1,7,Apache/2.2.15 (Red Hat),13054,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0
+M0_465,23,UTF-8,6,cloudflare-nginx,NaN,America,Oregon,04 February 1997,08 November 2014,10,0,5,1186,15,14,1476,1900,14,4,0
+M0_599,23,ISO-8859-1,6,nginx/1.12.0,NaN,India,Andhra Pradesh,13 February 2003,14 February 2017,43,4,4,5738,50,47,6046,56926,47,4,0
+M0_614,23,iso-8859-1,6,Apache,240,America,CA,17 May 2008,18 May 2016,8,0,2,723,11,10,871,1837,10,2,0
+M0_622,23,ISO-8859-1,6,Apache,3985,Canada,AB,30 May 2002,31 May 2016,40,17,16,3285,45,46,3729,12003,46,6,0
+M0_790,23,us-ascii,6,Microsoft-HTTPAPI/2.0,324,NaN,NaN,20 October 2005,30 September 2016,0,0,0,0,0,0,0,0,0,0,0
+A0_175,24,ISO-8859-1,8,nginx/1.6.2,6173,NaN,NaN,NaN,NaN,2,0,1,132,5,2,132,318,2,0,1
+A0_89,24,iso-8859-1,9,Apache,319,India,Tamil Nadu,NaN,NaN,7,0,2,720,10,9,868,1269,9,2,1
+M0_108,24,utf-8,6,openresty,NaN,Luxembourg,NaN,07 January 2006,14 December 2016,84,54,5,10490,106,96,11482,106925,96,12,0
+M0_126,24,ISO-8859-1,6,NaN,34,America,VA,05 March 1996,27 May 2016,65,3,5,6286,75,69,6596,90508,69,4,0
+M0_171,24,utf-8,7,nginx,NaN,America,NY,23 March 1995,03 March 2017,14,6,6,1907,18,18,2171,5601,18,4,0
+M0_2301,24,utf-8,6,Heptu web server,1778,NaN,NaN,10 January 1998,11 November 2012,7,7,3,618,9,7,618,562,7,0,0
+M0_2313,24,utf-8,6,Pepyaka/1.11.3,NaN,NaN,NaN,27 April 2016,29 April 2017,6,3,2,528,4,6,528,244,6,0,0
+M0_2315,24,us-ascii,6,Microsoft-HTTPAPI/2.0,324,Canada,quebec,07 April 2011,08 April 2017,6,4,4,564,8,6,564,508,6,0,0
+M0_282,24,iso-8859-1,8,Apache/2.2.22,224,America,MA,26 February 2009,06 January 2017,19,2,4,2131,23,23,2441,9471,23,4,0
+M0_321,24,utf-8,6,nginx/1.8.0,NaN,Canada,ON,03 July 2002,02 July 2016,12,2,7,984,16,16,1292,1839,16,4,0
+M0_326,24,iso-8859-1,7,Apache,318,NaN,NaN,NaN,NaN,21,1,8,1606,13,25,1914,1276,25,4,0
+M0_483,24,utf-8,7,nginx/1.10.1 + Phusion Passenger 5.0.30,NaN,NaN,NaN,21 February 1995,19 February 2017,16,6,8,2279,22,22,2729,2562,22,6,0
+M0_543,24,iso-8859-1,6,Apache/2,345,America,New Mexico,04 July 2007,05 July 2016,19,5,9,1390,25,21,1540,3890,21,2,0
+M0_656,24,UTF-8,6,Apache,756,Panama,PANAMA,02 July 1998,06 February 2017,23,3,15,2485,28,27,2799,9332,27,4,0
+M0_1163,25,utf-8,6,Apache/2.2.29 (Amazon),NaN,Canada,British Columbia,10 March 2005,04 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1308,25,utf-8,7,nginx,NaN,America,NY,23 March 1995,03 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1347,25,UTF-8,6,nginx,14839,America,NY,15 December 2004,13 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_2127,25,us-ascii,6,Microsoft-IIS/7.5,324,America,Massachusetts,25 February 2008,26 February 2017,5,2,4,474,4,5,474,250,5,0,0
+M0_2224,25,UTF-8,6,LiteSpeed,NaN,NaN,NaN,27 January 2005,15 November 2013,6,5,2,564,7,6,564,442,6,0,0
+M0_468,25,UTF-8,6,Apache,NaN,America,California,14 September 2006,09 September 2016,12,0,5,1327,17,16,1615,14050,16,4,0
+M0_568,25,UTF-8,6,nginx,658,NaN,NaN,NaN,NaN,11,3,4,1232,16,15,1530,9806,15,4,0
+M0_577,25,UTF-8,6,NaN,NaN,Thailand,bangkok,30 April 2010,12 March 2017,18,7,9,1586,17,22,1898,1735,22,4,0
+M0_704,25,ISO-8859-1,6,Apache,NaN,America,CA,22 April 1997,22 February 2017,36,17,9,4737,35,42,5173,10343,42,6,0
+M0_781,25,UTF-8,6,Apache,195,GB,WEST MIDLANDS,16 July 2016,22 December 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_786,25,us-ascii,6,Microsoft-HTTPAPI/2.0,324,America,CO,27 November 2016,01 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_886,25,ISO-8859-1,6,Apache,NaN,America,California,30 October 2009,27 October 2016,0,0,0,0,0,0,0,0,0,0,0
+A0_111,26,UTF-8,8,nginx,NaN,NaN,NaN,12 March 2009,NaN,12,0,2,1052,14,14,1204,11935,14,2,1
+A0_15,26,utf-8,8,nginx,NaN,NaN,NaN,09 March 2000,NaN,9,1,2,878,12,11,1018,2242,11,2,1
+A0_171,26,ISO-8859-1,7,nginx/1.12.0,4166,America,TEXAS,30 May 2008,30 May 2016,24,0,3,2508,30,30,2992,21098,30,6,1
+A0_68,26,ISO-8859-1,7,Apache/2.4.23 (Unix) OpenSSL/1.0.1e-fips mod_bwlimited/1.4,962,GB,WC1N,25 September 2000,18 July 2016,9,0,4,842,12,11,994,2101,11,2,1
+A0_70,26,ISO-8859-1,7,Apache/2.4.23 (Unix) OpenSSL/1.0.1e-fips mod_bwlimited/1.4,962,GB,WC1N,09 April 2002,10 April 2017,7,0,2,722,10,11,1016,2000,11,4,1
+A0_72,26,ISO-8859-1,7,Apache/2.4.23 (Unix) OpenSSL/1.0.1e-fips mod_bwlimited/1.4,962,GB,WC1N,09 April 2002,10 April 2017,7,0,2,722,9,11,1036,1913,11,4,1
+M0_1125,26,utf-8,6,nginx,2688,America,Kentucky,11 January 1997,30 April 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1205,26,UTF-8,7,cloudflare-nginx,NaN,America,MD,11 June 2000,03 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1321,26,UTF-8,6,nginx,NaN,Canada,ON,13 February 2002,23 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1374,26,iso-8859-1,6,Apache,199,Panama,PANAMA,19 December 2007,21 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_159,26,UTF-8,6,Apache/2.4.25 (cPanel) OpenSSL/1.0.1e-fips mod_bwlimited/1.4,3548,NaN,NaN,06 November 1997,06 November 2016,13,0,1,1378,19,19,1856,6226,19,6,0
+M0_173,26,utf-8,7,nginx,NaN,America,NY,23 March 1995,03 March 2017,26,19,5,2727,19,30,2991,5765,30,4,0
+M0_179,26,NaN,6,tsa_c,0,America,CA,21 January 2000,08 November 2016,43,39,3,6325,50,53,7063,32025,53,10,0
+M0_2027,26,ISO-8859-1,6,nginx/1.12.0,5426,America,NEW YORK,27 April 2009,27 February 2017,9,7,4,702,10,9,702,696,9,0,0
+M0_2152,26,utf-8,7,Apache/2.2.0 (Fedora),NaN,NaN,NaN,11 October 2000,12 December 2016,11,9,7,882,9,11,882,562,11,0,0
+M0_2293,26,UTF-8,6,NaN,NaN,Canada,British Columbia,04 August 1998,10 April 2017,4,3,2,396,6,4,396,482,4,0,0
+M0_256,26,iso-8859-1,6,Apache/2,345,America,FL,31 May 2000,02 April 2014,43,0,2,3252,47,47,3564,60076,47,4,0
+M0_258,26,utf-8,7,nginx,NaN,America,NY,23 March 1995,03 March 2017,46,12,11,3783,18,50,4047,5605,50,4,0
+M0_297,26,utf-8,7,nginx,NaN,America,NY,23 March 1995,03 March 2017,21,8,9,2373,27,25,2637,6199,25,4,0
+M0_660,26,utf-8,6,cloudflare-nginx,NaN,America,Washington,23 October 1999,13 August 2016,7,0,2,984,12,11,1300,1650,11,4,0
+M0_793,26,ISO-8859-1,6,nginx/1.12.0,NaN,America,Colorado,23 June 2010,23 April 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_859,26,us-ascii,6,NaN,324,America,TX,09 March 2000,13 February 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_883,26,UTF-8,6,cloudflare-nginx,NaN,America,PA,13 April 1994,13 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1185,23,us-ascii,6,Microsoft-HTTPAPI/2.0,324,Sweden,NaN,16 June 2000,18 May 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1369,23,utf-8,6,nginx,13001,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0
+M0_1412,23,ISO-8859-1,7,Oracle-iPlanet-Web-Server/7.0,3257,NaN,NaN,13 October 2000,27 April 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_2217,23,ISO-8859-1,6,NaN,6748,America,Arizona,31 December 1999,09 April 2017,7,4,5,630,4,7,630,244,7,0,0
+M0_2240,23,UTF-8,7,nginx,NaN,NaN,NaN,NaN,NaN,24,5,8,1740,11,24,1740,696,24,0,0
+M0_23,23,NaN,6,NaN,NaN,America,TX,30 July 1996,04 July 2016,19,7,6,2404,20,23,2684,6179,23,4,0
+M0_928,26,UTF-8,6,nginx,NaN,America,LA,09 June 2010,21 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_982,26,utf-8,6,nginx/1.12.0,NaN,America,Arizona,29 April 2009,08 March 2017,0,0,0,0,0,0,0,0,0,0,0
+A0_67,27,UTF-8,7,Apache/2.2.22 (Debian),8756,GB,WC1N,16 June 2000,16 February 2016,38,0,3,4207,45,44,4679,39662,44,6,1
+A0_75,27,UTF-8,7,Apache,193,America,PA,19 January 2015,03 March 2017,9,0,1,1838,13,11,1992,4524,11,2,1
+M0_1209,27,UTF-8,8,nginx,NaN,America,WA,11 November 2015,13 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1353,27,us-ascii,6,Microsoft-HTTPAPI/2.0,324,America,CO,22 March 2017,23 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_2085,27,utf-8,6,openresty/1.11.2.1,NaN,America,TEXAS,03 November 2009,04 March 2017,3,3,1,366,5,3,366,306,3,0,0
+M0_362,27,UTF-8,6,Apache/2.2.15 (CentOS),NaN,Australia,Queensland,19 July 2010,20 September 2016,40,13,14,3781,44,46,4253,34101,46,6,0
+M0_453,27,UTF-8,6,Apache/2.4.25,7967,NaN,NaN,28 April 1997,24 April 2017,6,0,4,631,11,8,787,812,8,2,0
+M0_2182,28,ISO-8859-1,7,cloudflare-nginx,NaN,Netherlands,P,30 November 1999,06 March 2017,8,4,6,696,10,8,696,634,8,0,0
+M0_2228,28,us-ascii,6,Microsoft-IIS/7.5,324,America,Pennsylvania,11 November 1996,27 April 2015,5,3,3,474,6,5,474,364,5,0,0
+M0_229,28,utf-8,7,Apache,8578,Canada,ON,02 October 1995,30 September 2016,21,7,5,2830,25,29,3400,6137,29,8,0
+M0_2309,28,UTF-8,6,Apache,10576,India,UTTAR PRADESH,28 June 2011,02 March 2017,14,9,2,2094,12,14,2094,8019,14,0,0
+M0_310,28,us-ascii,7,Microsoft-IIS/7.5,324,NaN,NaN,16 August 2016,26 March 2017,17,1,7,1848,24,23,2322,2167,23,6,0
+M0_332,28,UTF-8,7,Apache/2.4.25 (Amazon) PHP/7.0.14,12846,America,NC,09 May 2000,11 October 2016,17,12,3,2314,27,23,2740,21419,23,6,0
+M0_438,28,UTF-8,7,GSE,6666,America,CA,31 July 2000,29 June 2016,66,5,11,6311,64,70,6633,63634,70,4,0
+M0_563,28,iso-8859-1,6,Apache/2.4.23 (Unix) OpenSSL/0.9.8e-fips-rhel5 mod_bwlimited/1.4,445,America,FL,14 May 1999,02 April 2014,28,5,8,2324,33,30,2482,24662,30,2,0
+M0_638,28,UTF-8,8,Apache,NaN,America,Arizona,24 April 2009,18 March 2017,6,0,3,632,8,8,776,593,8,2,0
+M0_695,28,us-ascii,7,Microsoft-HTTPAPI/2.0,324,NaN,NaN,NaN,NaN,33,26,4,3590,48,39,4064,30057,39,6,0
+M0_835,28,utf-8,6,Pepyaka/1.11.3,NaN,America,NY,06 August 1998,07 November 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_96,28,utf-8,6,NaN,NaN,America,CA,22 February 1996,16 January 2015,26,19,3,2632,36,30,2916,27404,30,4,0
+M0_981,28,UTF-8,6,nginx,18438,America,California,15 June 2007,12 May 2015,0,0,0,0,0,0,0,0,0,0,0
+A0_106,29,ISO-8859-1,7,Apache,7314,America,MD,21 September 2009,09 August 2016,34,0,2,2934,40,40,3416,34995,40,6,1
+A0_74,29,us-ascii,7,Microsoft-HTTPAPI/2.0,324,Uganda,kireka,09 April 2002,18 April 2017,5,0,2,593,8,7,751,1128,7,2,1
+M0_1044,29,ISO-8859-1,6,Apache,NaN,America,CA,22 April 1997,22 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1051,29,NaN,6,tsa_c,0,America,CA,21 January 2000,08 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1095,29,ISO-8859-1,8,Apache,9136,America,CA,20 January 1995,22 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1096,29,UTF-8,6,Apache,5019,America,IL,28 March 2006,24 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1117,29,utf-8,7,nginx,NaN,America,NY,23 March 1995,03 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1154,29,iso-8859-1,6,Apache/2.4.25 (Amazon) OpenSSL/1.0.1k-fips,210,America,Missouri,28 September 2007,28 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1287,29,UTF-8,6,Apache/2.2.22 (Debian),8654,Japan,Osaka,04 February 2017,04 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1408,29,iso-8859-1,7,Apache/2.2.22 (Ubuntu),238,Canada,QC,07 March 1996,09 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_170,29,ISO-8859-1,6,Apache,26856,NaN,NaN,04 April 2003,05 April 2017,26,6,5,2519,30,30,2851,22379,30,4,0
+M0_2024,29,us-ascii,6,Microsoft-HTTPAPI/2.0,324,America,Michigan,26 August 2015,26 August 2016,12,8,6,900,9,12,900,568,12,0,0
+M0_2089,29,UTF-8,7,Apache/2.2.22,NaN,Canada,AB,22 July 2004,23 June 2016,709,708,3,2362906,837,709,2362906,83056,709,0,0
+M0_2123,29,UTF-8,6,Apache,10210,America,CA,30 November 2004,07 March 2017,5,4,2,486,7,5,486,542,5,0,0
+M0_2128,29,ISO-8859-1,6,Apache,13684,America,Maryland,05 March 2008,14 April 2016,15,8,7,1134,9,15,1134,605,15,0,0
+M0_2166,29,us-ascii,6,NaN,324,Canada,Ontario,08 May 2003,09 May 2016,3,3,1,366,5,3,366,306,3,0,0
+M0_2242,29,iso-8859-1,6,nginx/1.12.0,770,America,South Carolina,02 November 2010,20 October 2015,5,3,3,486,7,5,486,436,5,0,0
+M0_2266,29,UTF-8,8,Apache/2.4.25,6813,America,Texas,23 May 2006,13 July 2016,17,9,10,1249,15,17,1249,1062,17,0,0
+M0_259,29,us-ascii,6,Microsoft-HTTPAPI/2.0,324,NaN,NaN,02 July 1998,05 July 2016,34,9,6,2861,26,38,3229,15260,38,4,0
+M0_44,29,ISO-8859-1,6,NaN,34,America,California,02 December 1998,02 December 2016,10,2,9,612,14,12,772,918,12,2,0
+M0_448,29,ISO-8859-1,7,Apache,NaN,America,CA,22 April 1997,22 February 2017,32,21,8,4561,36,38,4997,10429,38,6,0
+M0_499,29,UTF-8,8,GSE,20404,America,CA,31 July 2000,29 June 2016,33,6,5,3533,35,37,3859,46688,37,4,0
+M0_626,29,UTF-8,8,Tengine,NaN,China,Zhejiang,15 April 1999,20 June 2012,28,0,5,3183,33,36,3777,24455,36,8,0
+M0_642,29,UTF-8,6,Apache/2.4.18 (Unix) OpenSSL/0.9.8e-fips-rhel5 mod_bwlimited/1.4,7159,America,Arizona,30 May 2003,10 July 2015,21,6,11,1515,18,23,1675,1334,23,2,0
+M0_726,29,utf-8,6,Apache/2.2.15 (CentOS),NaN,America,New Mexico,10 January 2002,26 February 2014,24,1,3,2195,30,29,2515,55576,29,4,0
+M0_887,29,iso-8859-1,6,Apache,388,America,New York,17 March 2006,14 August 2013,0,0,0,0,0,0,0,0,0,0,0
+M0_894,29,ISO-8859-1,6,Apache/2,199,NaN,NaN,01 March 1999,07 March 2013,0,0,0,0,0,0,0,0,0,0,0
+M0_920,29,us-ascii,8,Microsoft-HTTPAPI/2.0,324,Australia,QLD,01 July 2015,04 March 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_942,29,ISO-8859-1,6,nginx/1.12.0,NaN,Canada,ON,22 January 2006,22 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_978,29,utf-8,6,NaN,NaN,America,CA,22 February 1996,16 January 2015,0,0,0,0,0,0,0,0,0,0,0
+A0_112,30,iso-8859-1,8,Apache,177,NaN,NaN,NaN,NaN,7,0,2,666,9,9,826,1094,9,2,1
+M0_1052,30,utf-8,6,Apache/2.4.10 (Debian),NaN,Sweden,NaN,06 March 1996,28 October 2013,0,0,0,0,0,0,0,0,0,0,0
+M0_1388,30,iso-8859-1,6,Apache/2.4.6 (CentOS) PHP/5.6.8,199,America,MA,08 February 2013,15 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_160,30,utf-8,7,nginx,NaN,America,NY,23 March 1995,03 March 2017,14,9,3,1918,17,18,2182,5546,18,4,0
+M0_169,30,ISO-8859-1,6,NaN,NaN,America,CA,29 March 1997,29 November 2016,62,52,12,8974,69,76,10006,30726,76,14,0
+M0_209,30,ISO-8859-1,6,Apache,NaN,America,CA,22 April 1997,22 February 2017,22,17,2,3914,27,28,4350,9833,28,6,0
+M0_2097,30,ISO-8859-1,6,Sun-ONE-Web-Server/6.1,NaN,NaN,NaN,15 April 2003,19 February 2016,18,17,5,1188,19,18,1188,1451,18,0,0
+M0_2206,30,NaN,6,Apache/2.4.18 (Unix) OpenSSL/1.0.2e Communique/4.1.10,NaN,America,WI,24 October 1996,19 October 2016,6,4,4,552,9,6,552,564,6,0,0
+M0_2282,30,UTF-8,6,Apache,14703,America,Texas,04 August 1998,04 September 2013,2,2,1,276,4,2,276,250,2,0,0
+M0_330,30,UTF-8,6,nginx,8751,America,FL,30 April 2016,04 October 2016,15,2,6,1528,17,19,1860,5586,19,4,0
+M0_348,30,us-ascii,6,Microsoft-HTTPAPI/2.0,324,America,NJ,30 December 1999,08 January 2016,90,6,14,8646,100,92,8808,95659,92,2,0
+M0_369,30,ISO-8859-1,7,Apache,NaN,America,CA,22 April 1997,22 February 2017,31,26,2,4412,37,37,4848,27412,37,6,0
+M0_560,30,utf-8,6,NaN,NaN,America,CA,22 February 1996,16 January 2015,31,23,3,3605,41,39,4183,34388,39,8,0
+M0_639,30,ISO-8859-1,6,NaN,NaN,America,CA,29 March 1997,29 November 2016,76,47,12,9007,44,88,9891,23985,88,12,0
+M0_711,30,utf-8,7,AmazonS3,350,America,Arizona,13 July 2001,26 April 2015,23,1,10,1902,26,27,2194,2764,27,4,0
+M0_73,30,ISO-8859-1,7,Apache/1.3.37 (Unix) mod_perl/1.29 mod_ssl/2.8.28 OpenSSL/0.9.7e-p1,NaN,America,GA,29 May 1996,21 March 2017,48,3,6,3418,48,52,3706,57377,52,4,0
+M0_824,30,UTF-8,8,cloudflare-nginx,NaN,America,CA,25 February 2004,16 January 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_891,30,utf-8,6,NaN,NaN,America,CA,22 February 1996,16 January 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_931,30,ISO-8859-1,7,Apache,NaN,America,CA,22 April 1997,22 February 2017,0,0,0,0,0,0,0,0,0,0,0
+A0_73,31,us-ascii,7,Microsoft-IIS/7.5,324,America,CA,09 April 2002,20 March 2017,7,0,2,707,11,11,1031,1018,11,4,1
+M0_1028,31,utf-8,8,ATS,604,America,CA,18 January 1995,26 August 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1114,31,iso-8859-1,7,Apache/2.2.27 (CentOS),287,NaN,NaN,25 October 2014,26 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1127,31,ISO-8859-1,7,Apache,NaN,America,CA,22 April 1997,22 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1241,31,utf-8,8,Apache,65815,America,MO,20 May 1996,24 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_140,31,ISO-8859-1,6,NaN,NaN,America,CA,29 March 1997,29 November 2016,65,53,14,8568,70,77,9452,26049,77,12,0
+M0_2158,31,UTF-8,6,Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1e-fips DAV/2 mod_bwlimited/1.4,NaN,NaN,NaN,14 July 2000,22 March 2017,9,3,7,738,12,9,738,766,9,0,0
+M0_2278,31,utf-8,7,CherryPy/3.6.0,4075,Canada,ON,01 December 1996,30 November 2016,4,3,2,432,6,4,432,372,4,0,0
+M0_263,31,iso-8859-1,8,Apache/2.2.15 (CentOS),287,India,HR,11 November 2000,03 May 2012,5,0,1,593,9,9,929,955,9,4,0
+M0_501,31,utf-8,7,nginx,NaN,America,NY,23 March 1995,03 March 2017,28,13,13,2773,32,32,3037,6566,32,4,0
+M0_504,31,UTF-8,7,Apache/2.2.15 (Red Hat),5132,America,FL,04 September 2004,24 August 2016,27,0,3,2743,33,33,3181,43878,33,6,0
+M0_597,31,us-ascii,6,Microsoft-IIS/7.5,324,America,Missouri,09 September 2005,10 September 2016,23,1,4,2262,28,29,2736,16553,29,6,0
+M0_966,27,ISO-8859-1,7,Apache,11506,America,FL,04 March 1996,07 January 2015,0,0,0,0,0,0,0,0,0,0,0
+A0_21,28,UTF-8,9,Apache/2.2.15 (CentOS),NaN,Russia,MOSCOW,24 October 2007,22 October 2016,5,0,1,592,9,7,732,1062,7,2,1
+A0_94,28,us-ascii,7,Microsoft-HTTPAPI/2.0,324,America,FL,21 October 2004,14 October 2014,5,0,2,556,9,9,860,1154,9,4,1
+M0_1020,28,utf-8,8,nginx,39036,[u'GB'; u'United Kingdom'],UK,2002-03-20T23:59:59.0Z,2017-03-07T22:02:38.0Z,0,0,0,0,0,0,0,0,0,0,0
+M0_1038,28,ISO-8859-1,6,NaN,NaN,America,CA,29 March 1997,29 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1357,28,iso-8859-1,7,Apache,NaN,France,NaN,10 June 2008,09 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1413,28,ISO-8859-1,7,cloudflare-nginx,NaN,Netherlands,P,30 November 1999,06 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_2061,28,us-ascii,7,NaN,NaN,America,NH,30 August 2004,18 August 2016,6,4,3,552,8,6,552,612,6,0,0
+M0_65,31,us-ascii,6,Microsoft-HTTPAPI/2.0,324,NaN,NaN,NaN,NaN,18,14,3,2201,23,22,2543,7756,22,4,0
+M0_658,31,ISO-8859-1,6,Apache,NaN,NaN,NaN,22 April 1997,22 February 2017,23,17,3,3981,27,29,4417,9867,29,6,0
+M0_698,31,us-ascii,8,Microsoft-HTTPAPI/2.0,324,America,FL,07 August 1996,14 May 2015,103,0,3,7073,113,105,7217,179439,105,2,0
+M0_705,31,UTF-8,6,Apache,NaN,America,MD,30 December 2005,05 November 2015,13,8,8,1355,16,16,1519,1145,16,2,0
+M0_761,31,ISO-8859-1,7,NaN,NaN,America,CA,29 March 1997,29 November 2016,57,45,12,8136,64,69,9020,25686,69,12,0
+M0_850,31,utf-8,7,Apache,22004,America,CA,04 April 2006,03 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_945,31,ISO-8859-1,6,Apache,NaN,America,CA,22 April 1997,22 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_992,31,iso-8859-1,7,Apache/2,345,America,Texas,25 May 2000,24 May 2016,0,0,0,0,0,0,0,0,0,0,0
+A0_136,32,UTF-8,11,nginx,643,NaN,NaN,NaN,NaN,22,1,5,2783,26,30,3367,3824,30,8,1
+A0_140,32,UTF-8,9,nginx,637,NaN,NaN,NaN,NaN,14,1,4,1457,16,20,1881,3229,20,6,1
+M0_1175,32,UTF-8,8,Server,NaN,America,WA,05 January 1996,05 May 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1181,32,ISO-8859-1,6,NaN,34,America,Missouri,09 July 2008,14 July 2008,0,0,0,0,0,0,0,0,0,0,0
+M0_1222,32,UTF-8,8,Server,NaN,America,WA,05 January 1996,05 May 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_128,32,utf-8,9,KHL,420762,NaN,NaN,10 May 2006,NaN,17,5,8,1314,26,19,1452,1881,19,2,0
+M0_1341,32,ISO-8859-1,8,Apache,1399,America,CA,29 July 2006,07 August 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1372,32,UTF-8,6,Apache,NaN,Canada,ab,27 September 2010,28 September 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1381,32,UTF-8,7,nginx,NaN,America,NY,31 October 2008,01 December 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_14,32,UTF-8,7,nginx,NaN,America,CA,03 March 2000,12 January 2017,14,10,2,2000,20,20,2498,9588,20,6,0
+M0_165,32,ISO-8859-1,7,NaN,NaN,America,CA,29 March 1997,29 November 2016,49,42,5,7613,52,61,8497,24774,61,12,0
+M0_176,32,UTF-8,8,Apache,NaN,NaN,NaN,02 April 2008,23 January 2017,24,0,4,2176,29,28,2456,17335,28,4,0
+M0_2015,32,utf-8,6,NaN,NaN,NaN,NaN,22 February 1996,16 January 2015,4,3,2,432,5,4,432,310,4,0,0
+M0_1350,33,utf-8,8,nginx/1.10.1 + Phusion Passenger 5.0.30,NaN,America,California,21 February 1995,19 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1390,33,utf-8,9,NaN,18302,America,CA,29 May 1996,26 April 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1419,33,iso-8859-1,7,Apache,318,Japan,Osaka,12 November 2016,16 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_163,33,UTF-8,8,Server,NaN,America,WA,05 January 1996,05 May 2016,52,7,8,3438,51,56,3718,46498,56,4,0
+M0_2100,33,iso-8859-1,7,Apache/1.3.27 (Unix)  (Red-Hat/Linux) mod_perl/1.26 PHP/4.3.3 FrontPage/5.0.2 mod_ssl/2.8.12 OpenSSL/0.9.6b,NaN,NaN,NaN,08 February 2000,31 October 2016,4,3,2,420,5,4,420,304,4,0,0
+M0_2126,33,utf-8,6,Apache,NaN,America,Texas,25 September 2003,18 July 2014,7,5,4,606,6,7,606,474,7,0,0
+M0_215,33,UTF-8,8,mw2114.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,32,11,6,3694,32,40,4286,11543,40,8,0
+M0_2155,33,UTF-8,7,GSE,60722,America,CA,31 July 2000,29 June 2016,4,2,3,408,6,4,408,382,4,0,0
+M0_2205,33,UTF-8,6,Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips mod_bwlimited/1.4 mod_perl/2.0.8 Perl/v5.10.1,NaN,America,Arizona,10 May 2002,27 July 2016,8,4,5,660,9,8,660,556,8,0,0
+M0_2219,33,ISO-8859-1,6,Apache/1.3.34 (Unix) PHP/4.4.4,NaN,America,FL,07 June 2005,23 May 2016,5,4,2,486,7,5,486,542,5,0,0
+M0_2289,33,UTF-8,8,Server,NaN,America,WA,05 January 1996,05 May 2016,10,4,4,816,6,10,816,476,10,0,0
+M0_312,33,UTF-8,6,Microsoft-IIS/7.5,39,America,AL,19 August 2012,24 June 2016,24,1,4,3375,30,28,3703,18396,28,4,0
+M0_570,33,UTF-8,8,Apache/2.2.31 (Amazon),1371,Israel,NaN,28 April 2003,29 April 2017,19,0,3,2042,27,27,2622,4760,27,8,0
+M0_652,33,UTF-8,7,Jetty(9.0.z-SNAPSHOT),NaN,America,NY,12 March 1999,16 November 2016,105,98,7,8692,130,111,9172,179133,111,6,0
+M0_783,33,ISO-8859-1,6,Apache,NaN,America,CA,22 April 1997,22 February 2017,0,0,0,0,0,0,0,0,0,0,0
+A0_130,34,UTF-8,11,nginx,655,NaN,NaN,NaN,NaN,27,5,8,2721,27,35,3313,3896,35,8,1
+A0_159,34,UTF-8,11,nginx,649,NaN,NaN,NaN,NaN,15,1,5,1632,18,21,2068,2661,21,6,1
+A0_166,34,ISO-8859-1,9,cloudflare-nginx,NaN,Russia,Krasnoyarsk,30 March 2011,28 April 2017,26,0,3,3569,31,32,4037,10750,32,6,1
+A0_180,34,iso-8859-1,9,Apache,214,NaN,NaN,NaN,NaN,9,0,4,850,14,11,990,1382,11,2,1
+M0_1036,34,UTF-8,6,nginx/1.12.0,18298,America,MAINE,14 January 2008,14 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1054,34,us-ascii,7,Microsoft-HTTPAPI/2.0,324,GB,NaN,26 March 2000,26 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1087,34,ISO-8859-1,7,NaN,1819,America,CA,02 November 2002,02 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_110,34,ISO-8859-1,7,NaN,1819,America,CA,02 November 2002,02 February 2017,33,27,2,5235,40,41,5835,14571,41,8,0
+M0_1207,34,utf-8,8,nginx/1.10.1 + Phusion Passenger 5.0.30,NaN,America,California,21 February 1995,19 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1337,34,utf-8,6,NaN,NaN,America,CA,22 February 1996,16 January 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1342,34,ISO-8859-1,7,Apache/2.2.31 (CentOS),NaN,Canada,ALBERTA,10 April 2010,10 April 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1382,34,UTF-8,7,nginx,NaN,America,CA,03 March 2000,12 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_2098,34,utf-8,7,Apache/2.4.10 (Debian),6474,America,Virginia,06 May 2010,20 September 2013,6,3,4,552,9,6,552,564,6,0,0
+M0_2104,34,utf-8,7,nginx,NaN,Canada,ON,17 August 1999,21 April 2017,8,6,5,696,10,8,696,636,8,0,0
+M0_2124,34,utf-8,6,NaN,NaN,NaN,NaN,22 February 1996,16 January 2015,34,9,9,2412,7,34,2412,442,34,0,0
+M0_2125,34,UTF-8,7,cloudflare-nginx,NaN,India,MH,04 October 2006,04 October 2016,3,3,1,366,5,3,366,306,3,0,0
+M0_2142,34,ISO-8859-1,9,Apache,1486,GB,NaN,09 March 2007,03 March 2015,5,3,2,498,5,5,498,306,5,0,0
+M0_2221,34,UTF-8,9,Apache/2.4.12 (Ubuntu),10892,NaN,NaN,31 May 1996,15 April 2016,3,3,1,366,4,3,366,244,3,0,0
+M0_2320,34,ISO-8859-1,9,HTTPDaemon,NaN,America,WA,05 January 1996,05 May 2016,4,3,2,432,5,4,432,310,4,0,0
+M0_322,34,utf-8,8,Apache/2.2.31 (Amazon),7255,NaN,NaN,29 July 2004,03 January 2016,17,1,2,1661,26,23,2167,10015,23,6,0
+M0_460,34,UTF-8,7,GSE,6608,America,CA,31 July 2000,29 June 2016,42,0,3,4895,45,46,5241,39544,46,4,0
+M0_493,34,utf-8,6,NaN,NaN,America,CA,22 February 1996,16 January 2015,34,25,9,3787,42,42,4365,33677,42,8,0
+M0_586,34,ISO-8859-1,9,Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1e-fips mod_bwlimited/1.4,111,America,California,17 January 2005,18 January 2017,21,0,5,2292,24,23,2450,16147,23,2,0
+M0_688,34,ISO-8859-1,6,Apache,NaN,America,CA,22 April 1997,22 February 2017,24,20,2,4372,33,31,4808,13095,31,6,0
+M0_746,34,ISO-8859-1,8,nginx,996,America,CA,01 June 2005,09 September 2016,7,0,2,716,10,11,1030,1979,11,4,0
+M0_760,34,ISO-8859-1,7,nginx,1501,America,New York,22 December 1999,24 May 2012,23,3,11,2042,29,29,2520,7939,29,6,0
+M0_864,34,utf-8,7,MediaFire,NaN,America,Texas,11 August 2002,04 July 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_897,34,ISO-8859-1,7,Apache,NaN,America,CA,22 April 1997,22 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_961,34,us-ascii,6,Microsoft-IIS/7.5,324,America,Arizona,17 November 2003,11 November 2016,0,0,0,0,0,0,0,0,0,0,0
+A0_107,35,ISO-8859-1,9,Apache,7314,NaN,NaN,21 September 2009,09 August 2016,39,0,3,3240,45,45,3722,35301,45,6,1
+A0_108,35,ISO-8859-1,9,Apache,7314,NaN,NaN,21 September 2009,09 August 2016,39,0,2,3240,45,45,3722,35301,45,6,1
+A0_110,35,UTF-8,11,Apache,NaN,Canada,ON,14 August 2008,09 August 2016,18,0,2,2102,21,20,2252,20976,20,2,1
+A0_123,35,UTF-8,11,nginx,652,NaN,NaN,NaN,NaN,15,1,5,1635,17,21,2073,2640,21,6,1
+A0_124,35,UTF-8,11,nginx,652,NaN,NaN,NaN,NaN,21,1,5,2367,26,29,2957,3801,29,8,1
+A0_127,35,UTF-8,9,nginx,646,NaN,NaN,NaN,NaN,12,1,5,1340,12,16,1622,964,16,4,1
+A0_135,35,UTF-8,11,nginx,652,NaN,NaN,NaN,NaN,19,1,5,2223,20,25,2661,2868,25,6,1
+A0_137,35,UTF-8,11,nginx,652,NaN,NaN,NaN,NaN,18,1,5,2157,22,24,2595,2996,24,6,1
+A0_148,35,UTF-8,11,nginx,652,NaN,NaN,NaN,NaN,19,1,5,2223,22,25,2661,2996,25,6,1
+A0_152,35,UTF-8,11,nginx,652,NaN,NaN,NaN,NaN,23,1,5,2864,25,31,3454,3773,31,8,1
+A0_165,35,ISO-8859-1,8,cloudflare-nginx,NaN,Russia,Krasnoyarsk,22 August 2010,28 April 2017,15,1,2,1850,23,21,2302,2970,21,6,1
+M0_1029,35,ISO-8859-1,9,DOSarrest,NaN,KY,GRAND CAYMAN,08 July 1996,07 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1148,35,UTF-8,8,mw2232.codfw.wmnet,4685,America,CA,13 January 2001,12 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1299,35,utf-8,8,nginx/1.10.1 + Phusion Passenger 5.0.30,NaN,America,California,21 February 1995,19 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_144,35,us-ascii,6,Microsoft-IIS/7.5,324,NaN,NaN,21 March 2014,22 March 2017,22,15,8,1527,25,24,1699,1928,24,2,0
+M0_183,35,UTF-8,8,Server,NaN,America,WA,05 January 1996,05 May 2016,21,1,4,2435,25,25,2715,39924,25,4,0
+M0_194,35,us-ascii,9,Microsoft-HTTPAPI/2.0,324,America,CA,22 October 1998,16 March 2017,49,10,6,2961,61,53,3261,38255,53,4,0
+M0_2026,35,utf-8,9,nginx,39362,[u'GB'; u'United Kingdom'],UK,2002-03-20T23:59:59.0Z,2017-03-07T22:02:38.0Z,4,3,2,420,4,4,420,244,4,0,0
+M0_2067,35,utf-8,7,nginx,NaN,America,NY,23 March 1995,03 March 2017,3,3,1,366,4,3,366,244,3,0,0
+M0_2087,35,UTF-8,9,Apache,NaN,America,Arizona,08 July 2010,24 April 2017,4,3,2,432,6,4,432,372,4,0,0
+M0_2144,35,utf-8,10,ATS,NaN,America,CA,18 January 1995,26 August 2015,10,9,4,756,12,10,756,861,10,0,0
+M0_2156,35,UTF-8,7,Sucuri/Cloudproxy,14462,Canada,ON,17 July 2009,07 July 2016,8,6,6,696,5,8,696,306,8,0,0
+M0_2270,35,UTF-8,9,Apache,NaN,NaN,NaN,NaN,NaN,4,4,2,432,6,4,432,372,4,0,0
+M0_2295,35,UTF-8,8,Server,NaN,America,WA,05 January 1996,05 May 2016,21,12,12,1446,24,21,1446,1788,21,0,0
+M0_2319,35,iso-8859-1,7,Apache/2.4.23 (Unix),289,GB,NaN,24 May 2001,27 January 2017,5,4,3,474,6,5,474,364,5,0,0
+M0_308,35,us-ascii,6,Microsoft-HTTPAPI/2.0,324,America,PA,27 June 2004,19 November 2012,23,8,5,3087,27,29,3535,19078,29,6,0
+M0_337,35,UTF-8,7,GSE,38115,America,CA,31 July 2000,29 June 2016,45,3,7,3507,46,49,3857,42286,49,4,0
+M0_385,35,UTF-8,8,Server,NaN,America,WA,05 January 1996,05 May 2016,37,0,3,3263,42,43,3697,52720,43,6,0
+M0_461,35,UTF-8,9,cloudflare-nginx,NaN,NaN,NaN,04 March 2004,05 October 2015,12,2,6,1258,17,16,1542,1862,16,4,0
+M0_573,35,ISO-8859-1,9,NaN,NaN,America,CA,29 March 1997,29 November 2016,44,40,6,6945,51,56,7849,26115,56,12,0
+M0_717,35,UTF-8,7,GSE,8813,America,CA,31 July 2000,29 June 2016,41,6,4,4769,42,45,5119,69898,45,4,0
+M0_739,35,ISO-8859-1,8,Apache,1002,Austria,Austria,01 June 2004,02 June 2016,32,5,8,2965,39,36,3279,37146,36,4,0
+M0_807,35,utf-8,7,Apache,16875,America,NY,13 December 1995,10 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_82,35,UTF-8,8,Server,NaN,America,WA,05 January 1996,05 May 2016,27,1,5,2771,33,31,3051,36261,31,4,0
+M0_9,35,iso-8859-1,7,Apache,330,NaN,NaN,10 November 2000,19 February 2016,16,9,8,1275,23,18,1423,2306,18,2,0
+M0_965,35,utf-8,6,NaN,NaN,America,CA,22 February 1996,16 January 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_971,35,ISO-8859-1,8,Apache,1002,Austria,Austria,01 June 2004,02 June 2016,0,0,0,0,0,0,0,0,0,0,0
+A0_121,36,UTF-8,10,nginx,655,NaN,NaN,NaN,NaN,208,18,9,20074,216,228,21646,270752,228,20,1
+A0_129,36,UTF-8,11,nginx,655,NaN,NaN,NaN,NaN,7,1,5,466,10,11,760,822,11,4,1
+A0_131,36,UTF-8,11,nginx,655,NaN,NaN,NaN,NaN,17,1,7,1770,17,23,2210,2579,23,6,1
+A0_133,36,UTF-8,9,nginx,646,NaN,NaN,NaN,NaN,11,1,4,1266,12,15,1554,966,15,4,1
+A0_134,36,UTF-8,11,nginx,655,NaN,NaN,NaN,NaN,21,1,5,2359,23,29,2951,3542,29,8,1
+A0_157,36,UTF-8,11,nginx,655,NaN,NaN,NaN,NaN,19,1,5,2227,23,27,2819,3612,27,8,1
+A0_169,36,ISO-8859-1,8,cloudflare-nginx,NaN,Russia,Krasnoyarsk,22 August 2010,28 April 2017,6,0,4,372,10,8,520,703,8,2,1
+M0_1042,36,ISO-8859-1,8,nginx,10133,America,CA,01 June 2005,09 September 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1049,36,us-ascii,8,Microsoft-HTTPAPI/2.0,324,NaN,NaN,30 October 2003,10 September 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1277,36,ISO-8859-1,7,nginx/1.12.0,NaN,America,Kansas,09 May 1998,10 May 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1306,36,ISO-8859-1,6,nginx/1.12.0,1108,America,CA,05 October 2006,04 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1359,36,us-ascii,7,Microsoft-HTTPAPI/2.0,324,America,DE,14 October 2005,21 April 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1363,36,ISO-8859-1,7,NaN,NaN,America,CA,29 March 1997,29 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_197,36,ISO-8859-1,8,nginx,NaN,China,shandong,08 September 2003,24 October 2016,18,2,8,1432,27,20,1572,2113,20,2,0
+M0_200,36,UTF-8,8,Apache,NaN,Japan,Osaka,13 July 2008,09 December 2015,14,10,6,1096,19,16,1246,1294,16,2,0
+M0_2101,36,UTF-8,7,nginx,NaN,America,CA,03 March 2000,12 January 2017,3,3,1,366,4,3,366,244,3,0,0
+M0_2250,36,ISO-8859-1,8,nginx/0.7.65,NaN,NaN,NaN,22 August 1996,18 August 2016,2,2,1,276,3,2,276,184,2,0,0
+M0_2260,36,UTF-8,8,mw2260.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,5,3,3,498,7,5,498,438,5,0,0
+M0_2290,36,ISO-8859-1,8,Apache/2.2.32,NaN,America,PA,01 May 2002,01 September 2012,5,3,2,474,5,5,474,306,5,0,0
+M0_290,36,us-ascii,8,cloudflare-nginx,NaN,NaN,NaN,10 June 2005,04 June 2015,18,2,6,1706,19,22,1994,2165,22,4,0
+M0_305,36,utf-8,7,Apache,19879,America,CA,04 April 2006,03 March 2017,61,7,6,6100,79,65,6388,123896,65,4,0
+M0_366,36,UTF-8,8,mw2239.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,85,73,9,7506,96,91,7962,107416,91,6,0
+M0_444,36,us-ascii,7,Microsoft-HTTPAPI/2.0,324,NaN,NaN,07 September 2000,08 December 2016,8,0,2,784,11,10,958,16959,10,2,0
+M0_445,36,utf-8,8,DPS/1.1.8,NaN,NaN,NaN,31 December 2015,25 December 2016,22,8,4,2680,19,28,3172,7746,28,6,0
+M0_474,36,iso-8859-1,6,Apache/2.4.25 (Amazon) OpenSSL/1.0.1k-fips,210,NaN,NaN,08 December 2007,28 March 2017,3,0,1,466,6,5,640,668,5,2,0
+M0_487,36,ISO-8859-1,7,cloudflare-nginx,3326,America,CA,06 April 2008,18 December 2014,14,7,5,1060,18,16,1234,5214,16,2,0
+M0_60,36,iso-8859-1,7,Apache/2.0.52 (Red Hat),293,America,TX,16 July 1998,16 May 2016,12,0,4,1331,13,16,1631,4860,16,4,0
+M0_69,36,iso-8859-1,7,Apache/2.2.22,231,NaN,NaN,09 February 2001,28 December 2016,7,0,2,730,11,9,870,1284,9,2,0
+M0_701,36,UTF-8,7,Apache,11418,America,AZ,28 December 1999,28 December 2014,17,0,4,2319,21,21,2615,14373,21,4,0
+M0_809,36,ISO-8859-1,8,Apache/2.2.25 (Unix) mod_ssl/2.2.25 OpenSSL/0.9.8e-fips-rhel5 mod_bwlimited/1.4,NaN,NaN,NaN,21 January 2008,17 April 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_952,36,UTF-8,8,Apache,NaN,United Kingdom,UK,27 February 1996,27 January 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_990,36,UTF-8,7,GSE,11692,America ,CA,31 July 2000,29 June 2016,0,0,0,0,0,0,0,0,0,0,0
+A0_101,37,UTF-8,10,Apache,NaN,Czech Republic,PRAHA,07 October 2006,07 March 2017,49,0,1,3505,53,51,3657,66214,51,2,1
+A0_115,37,windows-1251,9,Apache/1.3.31 (Unix) PHP/4.3.9 mod_perl/1.29 rus/PL30.20,296,America,LA,18 December 2004,01 December 2016,2,0,2,128,5,4,276,407,4,2,1
+A0_16,37,ISO-8859-1,9,nginx,162,China,beijingshi,09 February 2009,27 April 2017,1,0,1,66,4,3,206,404,3,2,1
+A0_176,37,ISO-8859-1,11,Apache,NaN,NaN,NaN,04 November 1998,15 November 2016,44,2,10,5009,50,50,5511,40316,50,6,1
+A0_179,37,ISO-8859-1,10,nginx,NaN,China,liaoningsheng,04 November 2016,08 November 2016,12,0,2,1961,14,16,2245,2991,16,4,1
+A0_60,37,iso-8859-1,9,Apache,188,NaN,NaN,NaN,NaN,19,0,6,1525,13,21,1667,1363,21,2,1
+M0_1008,37,utf-8,7,Apache/2.2.29 (Amazon),NaN,Canada,British Columbia,15 April 2004,22 February 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1167,37,ISO-8859-1,7,Apache/2.2.13 (Unix) mod_ssl/2.2.13 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 PHP/5.2.10,6062,America,California,02 July 2010,25 April 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1196,37,iso-8859-1,7,Apache/2.4.25 (Amazon) OpenSSL/1.0.1k-fips,219,America,Missouri,12 November 2007,28 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1204,37,ISO-8859-1,9,Apache,1002,Austria,Austria,01 June 2004,02 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1219,37,utf-8,10,Apache,14109,America,California,22 February 2006,22 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1316,37,us-ascii,8,Microsoft-HTTPAPI/2.0,324,America,North Carolina,05 June 2000,06 July 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1398,37,utf-8,9,nginx/1.1.19,NaN,America,CA,09 December 1996,09 October 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1402,37,utf-8,8,cloudflare-nginx,NaN,America,California,14 October 1999,20 November 2013,0,0,0,0,0,0,0,0,0,0,0
+M0_2056,37,utf-8,9,Apache/2.2.22 (Ubuntu),8022,America,California,10 May 2006,11 May 2016,23,5,8,1674,11,23,1674,696,23,0,0
+M0_2093,37,utf-8,9,nginx,32441,[u'GB'; u'United Kingdom'],UK,2002-03-20T23:59:59.0Z,2017-03-07T22:02:38.0Z,11,10,7,834,14,11,834,882,11,0,0
+M0_2116,37,ISO-8859-1,7,ATS/5.3.0,7891,America,MA,22 February 2001,24 January 2017,6,5,2,540,8,6,540,535,6,0,0
+M0_2143,37,ISO-8859-1,8,NaN,NaN,America,CA,29 March 1997,29 November 2016,4,2,2,408,5,4,408,328,4,0,0
+M0_2230,37,UTF-8,8,Apache,1840,America,CA,11 September 1997,09 December 2015,8,5,5,648,11,8,648,739,8,0,0
+M0_2277,37,ISO-8859-1,8,Apache/2.2.3 (Red Hat),12768,NaN,NaN,16 October 2000,25 October 2016,6,4,3,540,6,6,540,474,6,0,0
+M0_2095,32,utf-8,8,Microsoft-IIS/7.5,328,United Kingdom,Greater London,06 September 2016,12 March 2017,5,3,2,474,7,5,474,426,5,0,0
+M0_218,32,UTF-8,7,Apache,NaN,America,Illinois,11 February 1997,10 September 2012,94,0,4,11902,121,102,12492,173484,102,8,0
+M0_2229,32,us-ascii,8,Microsoft-HTTPAPI/2.0,324,NaN,NaN,06 August 1995,24 July 2012,11,10,6,798,15,11,798,1124,11,0,0
+M0_2271,32,iso-8859-1,6,Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips mod_fcgid/2.3.9 PHP/5.4.16 mod_jk/1.2.40,199,America,Kansas,23 October 2008,03 March 2017,6,3,4,564,7,6,564,442,6,0,0
+M0_254,32,iso-8859-1,8,Apache,334,Slovenia,--,19 February 2009,22 December 2015,8,1,4,816,13,10,958,1541,10,2,0
+M0_303,32,iso-8859-1,7,Apache/2.2.3 (CentOS),287,America,MO,30 August 1998,22 December 2016,71,0,3,10999,70,73,11147,88707,73,2,0
+M0_40,32,utf-8,7,Apache,20212,America,CA,04 April 2006,03 March 2017,43,26,14,4214,28,49,4650,9246,49,6,0
+M0_400,32,UTF-8,8,Server,NaN,America,WA,05 January 1996,05 May 2016,36,0,2,3185,40,40,3465,50608,40,4,0
+M0_437,32,UTF-8,8,Server,NaN,America,WA,05 January 1996,05 May 2016,24,2,4,1888,25,28,2168,40314,28,4,0
+M0_491,32,utf-8,7,NaN,NaN,NaN,NaN,14 December 2006,13 December 2016,7,0,3,734,12,11,1060,7145,11,4,0
+M0_507,32,UTF-8,7,GSE,11827,America,CA,31 July 2000,29 June 2016,38,2,5,4607,35,42,4945,58676,42,4,0
+M0_582,32,ISO-8859-1,8,nginx/1.12.0,1108,America,California,22 March 2005,22 March 2017,13,0,2,2065,16,17,2349,7280,17,4,0
+M0_937,32,us-ascii,7,NaN,324,America,Arizona,26 June 2009,29 March 2017,0,0,0,0,0,0,0,0,0,0,0
+A0_122,33,UTF-8,11,nginx,646,NaN,NaN,NaN,NaN,13,1,5,1497,14,17,1787,2116,17,4,1
+A0_125,33,UTF-8,9,nginx,637,NaN,NaN,NaN,NaN,23,1,5,2851,26,31,3431,3814,31,8,1
+A0_138,33,UTF-8,9,nginx,640,NaN,NaN,NaN,NaN,18,1,5,2147,20,24,2577,2848,24,6,1
+A0_142,33,UTF-8,9,nginx,643,NaN,NaN,NaN,NaN,4,0,4,264,6,4,264,388,4,0,1
+A0_59,33,UTF-8,9,nginx,NaN,NaN,NaN,09 February 2000,NaN,14,1,8,1151,15,18,1445,1211,18,4,1
+A0_96,33,utf-8,11,nginx,NaN,NaN,NaN,08 June 2007,18 September 2012,8,0,2,1045,11,12,1333,1362,12,4,1
+M0_1068,33,utf-8,7,cloudflare-nginx,NaN,America,NY,01 November 1994,27 October 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1101,33,UTF-8,8,Server,NaN,America,WA,05 January 1996,05 May 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1141,33,UTF-8,8,Server,NaN,America,WA,05 January 1996,05 May 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1190,33,utf-8,6,NaN,NaN,America,CA,22 February 1996,16 January 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1239,33,iso-8859-1,6,Apache,NaN,Japan,Fukuoka,08 August 2013,26 July 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1288,33,utf-8,6,Apache/2.4,19890,Canada,BC,20 April 2000,25 April 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_361,37,UTF-8,7,openresty,NaN,America,NY,08 June 2006,21 April 2017,4,0,3,268,6,6,444,557,6,2,0
+M0_386,37,iso-8859-1,9,Apache,NaN,NaN,NaN,NaN,NaN,31,7,12,2531,35,37,3005,14050,37,6,0
+M0_450,37,utf-8,7,NaN,NaN,America,CA,22 February 1996,16 January 2015,27,23,1,3355,35,33,3781,31623,33,6,0
+M0_457,37,UTF-8,8,nginx,NaN,America,Arizona,18 April 2001,19 April 2017,44,0,4,3767,48,48,4079,129181,48,4,0
+M0_476,37,ISO-8859-1,8,nginx,4297,America,OH,05 August 1993,01 July 2016,16,1,6,1607,18,22,2055,1690,22,6,0
+M0_59,37,UTF-8,9,nginx,NaN,Philippines,Manila,17 February 2011,18 February 2017,15,6,7,1283,15,17,1425,2201,17,2,0
+M0_593,37,ISO-8859-1,9,NaN,NaN,America,CA,24 October 1999,29 July 2016,21,0,4,1643,31,23,1797,21144,23,2,0
+M0_646,37,utf-8,8,nginx/1.4.3,135444,America,NY,02 November 1996,26 November 2014,68,6,7,5207,88,70,5345,247488,70,2,0
+M0_677,37,utf-8,9,ATS,616,America,CA,18 January 1995,26 August 2015,18,5,10,2248,28,26,2890,3605,26,8,0
+M0_777,37,utf-8,8,Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1e-fips mod_bwlimited/1.4 PHP/5.4.35,6944,America,Arizona,14 February 2000,14 February 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_946,37,ISO-8859-1,8,NaN,1819,America,CA,02 November 2002,02 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_947,37,UTF-8,7,GSE,7783,America,CA,31 July 2000,29 June 2016,0,0,0,0,0,0,0,0,0,0,0
+A0_120,38,iso-8859-1,10,Apache/2,337,Canada,ON,14 September 2009,06 September 2016,14,4,6,888,5,14,888,316,14,0,1
+A0_151,38,UTF-8,11,nginx,661,NaN,NaN,NaN,NaN,22,1,5,2813,27,30,3409,3916,30,8,1
+A0_42,38,ISO-8859-1,9,Apache/2.2.14 (FreeBSD) mod_ssl/2.2.14 OpenSSL/0.9.8y DAV/2 PHP/5.2.12 with Suhosin-Patch,2516,America,Utah,24 May 2000,25 May 2016,15,0,2,2342,15,21,2806,7249,21,6,1
+A0_43,38,ISO-8859-1,9,Apache/2.2.14 (FreeBSD) mod_ssl/2.2.14 OpenSSL/0.9.8y DAV/2 PHP/5.2.12 with Suhosin-Patch,2516,America,Utah,24 May 2000,25 May 2016,19,1,3,2594,25,25,3058,7997,25,6,1
+A0_90,38,iso-8859-1,10,nginx/1.8.0,215,NaN,NaN,18 July 2005,18 June 2016,7,0,2,734,9,9,880,1097,9,2,1
+M0_1019,38,ISO-8859-1,9,Apache/2.2.14 (Unix) mod_ssl/2.2.14 OpenSSL/0.9.8e-fips-rhel5,4397,America,MA,28 October 1999,29 August 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1030,38,ISO-8859-1,8,NaN,1819,America,CA,02 November 2002,02 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_109,38,ISO-8859-1,8,Apache/1.3.39 (Unix) PHP/5.2.5 mod_auth_passthrough/1.8 mod_bwlimited/1.4 mod_log_bytes/1.2 mod_gzip/1.3.26.1a FrontPage/5.0.2.2635 DAV/1.0.3 mod_ssl/2.8.30 OpenSSL/0.9.7a,NaN,NaN,NaN,25 February 2006,26 February 2016,18,0,1,1458,20,20,1616,19623,20,2,0
+M0_1100,38,UTF-8,8,cloudflare-nginx,NaN,America,New York,12 June 2007,05 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1224,38,utf-8,8,nginx,39740,[u'GB'; u'United Kingdom'],UK,2002-03-20T23:59:59.0Z,2017-03-07T22:02:38.0Z,0,0,0,0,0,0,0,0,0,0,0
+M0_127,38,utf-8,9,Apache,68067,America,MO,20 May 1996,24 October 2016,19,0,3,1851,23,23,2143,15551,23,4,0
+M0_1289,38,UTF-8,10,Apache,40299,United Kingdom,NaN,18 April 1995,14 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1329,38,ISO-8859-1,9,Apache,NaN,America,CA,25 April 2000,04 August 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1349,38,utf-8,8,NaN,NaN,America,CA,05 December 1997,31 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1365,38,utf-8,9,nginx/1.1.19,NaN,America,CA,09 December 1996,09 October 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1387,38,iso-8859-1,8,Apache/2,345,America,CA,24 September 1996,30 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1403,38,us-ascii,7,Microsoft-HTTPAPI/2.0,324,America,NJ,10 January 1992,05 January 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1404,38,UTF-8,9,GSE,3916,America,CA,31 July 2000,29 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_184,38,ISO-8859-1,8,NaN,1819,America,CA,02 November 2002,02 February 2017,39,25,11,5509,45,47,6115,25776,47,8,0
+M0_2011,38,ISO-8859-1,7,NaN,34,NaN,NaN,17 July 2001,28 May 2014,7,7,3,618,9,7,618,562,7,0,0
+M0_2118,38,UTF-8,8,Apache,NaN,America,MI,14 July 2011,30 June 2016,13,13,9,1002,16,13,1002,1012,13,0,0
+M0_2138,38,UTF-8,7,Apache,1172,America,NY,21 September 2001,02 March 2017,4,3,2,432,4,4,432,244,4,0,0
+M0_2213,38,us-ascii,6,Microsoft-HTTPAPI/2.0,324,NaN,NaN,05 June 2003,26 November 2014,6,6,3,540,8,6,540,539,6,0,0
+M0_2274,38,UTF-8,8,Server,NaN,America,NJ,05 December 1996,30 November 2016,3,2,2,330,5,3,330,306,3,0,0
+M0_246,38,UTF-8,7,NaN,24087,Australia,NSW,19 February 2002,29 November 2016,8,0,3,786,9,12,1106,968,12,4,0
+M0_295,38,utf-8,9,ATS,618,America,CA,18 January 1995,26 August 2015,46,17,7,5306,42,54,5906,39325,54,8,0
+M0_34,38,ISO-8859-1,8,NaN,6746,NaN,NaN,28 November 1999,09 September 2013,35,8,14,3072,31,41,3506,9718,41,6,0
+M0_360,38,us-ascii,8,Microsoft-HTTPAPI/2.0,324,America,UT,26 May 1997,23 April 2017,23,7,7,1967,24,29,2417,6542,29,6,0
+M0_37,38,us-ascii,7,Microsoft-HTTPAPI/2.0,324,Australia,NSW,05 July 2008,30 August 2016,13,7,7,1068,13,15,1216,1006,15,2,0
+M0_41,38,utf-8,6,Apache,9555,Belgium,NaN,07 April 2007,08 April 2017,23,5,9,2823,21,27,3153,15940,27,4,0
+M0_428,38,UTF-8,6,SSWS,NaN,America,FL,09 April 2011,28 February 2017,58,40,3,8165,77,66,8787,54909,66,8,0
+M0_441,38,UTF-8,8,Apache,1840,America,CA,11 September 1997,09 December 2015,23,12,8,3099,28,27,3439,7395,27,4,0
+M0_464,38,utf-8,10,Microsoft-IIS/8.0,4929,Normay,NaN,29 January 2004,29 December 2016,16,0,5,1927,20,20,2219,8052,20,4,0
+M0_496,38,utf-8,8,Apache/2.4.18 (Ubuntu),12400,America,FL,17 February 1999,19 December 2016,16,0,3,1879,20,22,2307,8768,22,6,0
+M0_536,38,UTF-8,9,Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.4.16 mod_apreq2-20090110/2.8.0 mod_perl/2.0.10 Perl/v5.24.1,42952,America,FL,27 February 2000,31 May 2016,35,30,2,4047,53,41,4497,54041,41,6,0
+M0_624,38,ISO-8859-1,7,Apache/2.2.13 (Unix) mod_ssl/2.2.13 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 PHP/5.2.10,NaN,America,California,02 July 2010,25 April 2017,20,0,3,1578,24,24,1890,20606,24,4,0
+M0_721,38,UTF-8,7,GSE,NaN,America,CA,31 July 2000,29 June 2016,42,20,4,4268,40,50,4998,40666,50,8,0
+M0_737,38,UTF-8,9,NaN,NaN,NaN,NaN,NaN,NaN,288,279,10,20749,431,294,21187,1058608,294,6,0
+M0_813,38,utf-8,8,cloudflare-nginx,NaN,America,CA,21 July 1995,26 September 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_90,38,UTF-8,7,GSE,7868,America,CA,31 July 2000,29 June 2016,44,0,4,5064,42,50,5586,35677,50,6,0
+M0_914,38,iso-8859-1,9,Apache/2.2.20 (Unix),220,America,CA,08 August 2002,29 July 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_918,38,UTF-8,7,GSE,7797,America,CA,31 July 2000,29 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_927,38,us-ascii,9,cloudflare-nginx,NaN,America,Arizona,10 June 2005,04 June 2015,0,0,0,0,0,0,0,0,0,0,0
+A0_141,39,UTF-8,13,nginx,637,NaN,NaN,NaN,NaN,4,0,4,264,6,4,264,388,4,0,1
+A0_144,39,UTF-8,11,nginx,640,NaN,NaN,NaN,NaN,11,1,4,1266,12,15,1548,960,15,4,1
+A0_145,39,UTF-8,11,nginx,640,NaN,NaN,NaN,NaN,26,5,8,2329,25,32,2759,4850,32,6,1
+A0_150,39,UTF-8,11,nginx,661,NaN,NaN,NaN,NaN,20,0,6,2328,26,26,2772,3285,26,6,1
+A0_44,39,ISO-8859-1,9,Apache/2.2.14 (FreeBSD) mod_ssl/2.2.14 OpenSSL/0.9.8y DAV/2 PHP/5.2.12 with Suhosin-Patch,2516,America,Utah,24 May 2000,25 May 2016,20,0,2,2976,23,26,3440,7783,26,6,1
+A0_91,39,iso-8859-1,10,nginx/1.8.0,216,NaN,NaN,18 July 2005,18 June 2016,8,0,1,809,11,12,1101,1321,12,4,1
+M0_1009,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1050,39,UTF-8,7,Apache/2.2.15 (CentOS),256306,Australia,New South Wales,08 January 2009,09 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1061,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1065,39,utf-8,9,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1079,39,utf-8,9,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1084,39,utf-8,9,nginx/1.11.3,NaN,NaN,NaN,01 July 2007,08 December 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1099,39,utf-8,9,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1108,39,utf-8,9,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1161,39,iso-8859-1,8,Apache,404,America,WV,21 October 2006,22 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1174,39,UTF-8,9,nginx,NaN,America,Arizona,30 August 2000,18 April 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1176,39,utf-8,8,nginx/1.11.2,NaN,America,FL,14 September 1995,12 May 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1178,39,iso-8859-1,8,HTTPDaemon,NaN,America,WA,05 January 1996,05 May 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1198,39,UTF-8,7,GSE,7472,America,CA,31 July 2000,29 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1210,39,UTF-8,8,Apache/2.4.18 (Ubuntu),3063,Turkey,NaN,14 September 2000,15 September 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1234,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_125,39,utf-8,6,NaN,NaN,America,CA,22 February 1996,16 January 2015,30,26,1,3521,37,36,3947,33021,36,6,0
+M0_1252,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1279,39,utf-8,7,Apache,12985,America,CO,17 February 2006,19 August 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1285,39,utf-8,8,nginx,NaN,America,Oregon,30 August 2000,16 August 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1300,39,UTF-8,8,GSE,9352,America,CA,31 July 2000,29 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1338,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1344,39,UTF-8,7,Apache,NaN,America,NY,10 July 2002,18 October 2013,0,0,0,0,0,0,0,0,0,0,0
+M0_138,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,61,52,4,7271,68,71,8017,60586,71,10,0
+M0_1380,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1384,39,utf-8,10,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_155,39,UTF-8,8,nginx,NaN,France,NaN,04 September 1996,26 April 2016,8,0,2,1059,11,12,1361,1506,12,4,0
+M0_19,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,16,7,3,2241,20,22,2683,6701,22,6,0
+M0_195,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,64,48,8,6413,68,72,7005,58285,72,8,0
+M0_2004,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,2,2,1,276,4,2,276,244,2,0,0
+M0_2052,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,16,6,4,1224,4,16,1224,244,16,0,0
+M0_2079,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,34,24,7,5528,22,34,5528,7472,34,0,0
+M0_2103,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,6,2,3,492,3,6,492,184,6,0,0
+M0_2121,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,5,3,2,498,7,5,498,438,5,0,0
+M0_2136,39,UTF-8,8,Apache,9050,NaN,NaN,NaN,NaN,22,9,9,1560,18,22,1560,1334,22,0,0
+M0_2160,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,22,9,10,1524,11,22,1524,702,22,0,0
+M0_2179,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,2,2,1,276,4,2,276,246,2,0,0
+M0_2193,39,utf-8,9,ATS,620,America,CA,18 January 1995,26 August 2015,3,3,1,366,5,3,366,306,3,0,0
+M0_2202,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,18,7,11,1308,16,18,1308,1030,18,0,0
+M0_2241,39,ISO-8859-1,9,AmazonS3,889,NaN,NaN,15 May 2005,15 April 2017,10,4,5,816,7,10,816,436,10,0,0
+M0_2244,39,ISO-8859-1,9,nginx,1502,America,Ohio,08 January 2004,03 January 2017,8,4,6,684,12,8,684,762,8,0,0
+M0_2269,39,UTF-8,9,Apache,NaN,NaN,NaN,NaN,NaN,4,3,2,420,5,4,420,310,4,0,0
+M0_2284,39,UTF-8,10,cloudflare-nginx,NaN,NaN,NaN,NaN,NaN,3,3,1,366,4,3,366,244,3,0,0
+M0_2285,39,utf-8,10,cloudflare-nginx,NaN,America,Arizona,10 November 2009,21 April 2015,12,5,5,912,4,12,912,244,12,0,0
+M0_2291,39,iso-8859-1,7,Apache,340,Canada,ON,26 November 1996,02 November 2016,11,5,5,894,10,11,894,634,11,0,0
+M0_2297,39,utf-8,9,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,9,8,6,714,11,9,714,788,9,0,0
+M0_233,39,utf-8,9,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,25,11,4,3771,32,33,4385,11756,33,8,0
+M0_253,39,ISO-8859-1,8,Apache,1002,Austria,Austria,01 June 2004,02 June 2016,10,2,7,927,20,14,1241,2926,14,4,0
+M0_273,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,23,6,10,2679,26,29,3121,7080,29,6,0
+M0_345,39,ISO-8859-1,7,cloudflare-nginx,NaN,NaN,NaN,02 August 2010,04 May 2016,28,6,13,2721,29,30,2879,15626,30,2,0
+M0_356,39,utf-8,9,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,63,54,5,6884,70,73,7630,57005,73,10,0
+M0_389,39,utf-8,7,Apache/2.2.15 (CentOS),431,KY,GRAND CAYMAN,24 August 2003,27 February 2017,9,0,1,865,12,11,1045,19264,11,2,0
+M0_392,39,ISO-8859-1,9,nginx,1500,America,Ohio,08 January 2004,03 January 2017,40,11,12,6028,46,46,6502,20061,46,6,0
+M0_393,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,44,36,6,5129,68,52,5721,59068,52,8,0
+M0_471,39,ISO-8859-1,9,NaN,1819,America,CA,02 November 2002,02 February 2017,38,33,1,6419,47,48,7171,29141,48,10,0
+M0_480,39,ISO-8859-1,6,nginx/1.10.0 (Ubuntu),NaN,LV,RIX,19 July 2010,20 July 2016,71,67,7,7582,73,79,8282,82537,79,8,0
+M0_50,39,us-ascii,8,Microsoft-HTTPAPI/2.0,324,Turkey,TR,28 October 2008,03 April 2016,12,6,9,1063,16,14,1213,1287,14,2,0
+M0_523,39,ISO-8859-1,8,nginx/1.8.1,NaN,America,nj,24 June 2003,22 August 2016,24,13,8,2750,32,30,3190,9290,30,6,0
+M0_606,39,us-ascii,9,cloudflare-nginx,NaN,America,Arizona,10 June 2005,04 June 2015,23,17,8,1970,26,27,2262,2183,27,4,0
+M0_61,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,69,60,5,8450,80,81,9350,68036,81,12,0
+M0_631,39,utf-8,9,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,64,56,5,7076,71,74,7822,63630,74,10,0
+M0_632,39,UTF-8,10,Apache/2.2.22 (Debian),8507,America,Arizona,28 February 2008,24 April 2017,13,3,7,1313,18,17,1605,1612,17,4,0
+M0_644,39,utf-8,9,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,62,50,5,6269,65,70,6861,54988,70,8,0
+M0_666,39,utf-8,10,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,57,49,5,5951,64,65,6543,56509,65,8,0
+M0_710,39,ISO-8859-1,9,nginx/1.11.10,121211,America,GA,22 September 1993,15 February 2017,35,0,2,3234,38,38,3384,129083,38,2,0
+M0_742,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,60,51,4,6503,66,69,7095,58109,69,8,0
+M0_795,39,utf-8,9,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_820,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_830,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_839,39,ISO-8859-1,8,Squeegit/1.2.5 (3_sir),NaN,America,MA,29 September 1994,29 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_841,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_85,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,66,56,7,8252,77,78,9152,61807,78,12,0
+M0_854,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_865,39,UTF-8,9,Apache,58,Panama,Panama,07 November 2016,07 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_870,39,UTF-8,8,Apache/2,1007,Panama,Panama,30 July 2009,19 April 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_876,39,UTF-8,7,Virtuoso/07.20.3217 (Linux) i686-generic-linux-glibc212-64  VDB,NaN,DE,NaN,10 January 2007,09 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_900,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_902,39,utf-8,8,YouTubeFrontEnd,NaN,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0
+M0_915,39,ISO-8859-1,9,nginx/1.12.0,NaN,Canada,SK,19 October 2005,18 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_948,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_988,39,utf-8,8,YouTubeFrontEnd,NaN,America,CA,15 February 2005,14 January 2017,0,0,0,0,0,0,0,0,0,0,0
+A0_126,40,UTF-8,13,nginx,637,NaN,NaN,NaN,NaN,12,1,5,1340,12,16,1622,964,16,4,1
+A0_139,40,UTF-8,13,nginx,640,NaN,NaN,NaN,NaN,12,1,4,1325,14,18,1749,2091,18,6,1
+A0_143,40,UTF-8,13,nginx,643,NaN,NaN,NaN,NaN,11,1,4,1266,12,15,1548,960,15,4,1
+A0_158,40,UTF-8,11,nginx,667,NaN,NaN,NaN,NaN,21,1,5,2383,25,29,2983,3786,29,8,1
+A0_160,40,UTF-8,11,nginx,667,NaN,NaN,NaN,NaN,19,1,5,2243,22,25,2691,3021,25,6,1
+A0_39,40,utf-8,10,Apache,3016,NaN,NaN,NaN,NaN,11,0,2,1285,18,17,1741,2462,17,6,1
+A0_45,40,ISO-8859-1,9,Apache/2.2.14 (FreeBSD) mod_ssl/2.2.14 OpenSSL/0.9.8y DAV/2 PHP/5.2.12 with Suhosin-Patch,2516,America,Utah,24 May 2000,25 May 2016,19,0,2,2610,22,25,3074,7715,25,6,1
+M0_1011,40,UTF-8,9,Apache-Coyote/1.1,NaN,America,ca,14 May 1999,28 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1017,40,UTF-8,9,mw2239.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1033,40,UTF-8,7,GSE,7283,America,CA,31 July 2000,29 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1075,40,utf-8,10,Yippee-Ki-Yay,12513,America,Arizona,13 September 2001,13 February 2013,0,0,0,0,0,0,0,0,0,0,0
+M0_1116,40,UTF-8,7,Apache,13183,America,CA,22 February 2001,07 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1142,40,UTF-8,7,GSE,6222,America,CA,31 July 2000,29 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_116,40,UTF-8,9,Apache,7942,America,CA,02 October 2005,03 October 2016,8,0,2,1016,14,12,1324,1612,12,4,0
+M0_1195,40,utf-8,7,NaN,NaN,Canada,ON,27 August 2002,01 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1228,40,utf-8,9,cloudflare-nginx,NaN,America,CO,28 September 1996,26 September 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1244,40,iso-8859-1,8,cloudflare-nginx,NaN,ES,Alicante,05 June 2006,24 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1311,40,ISO-8859-1,9,Apache,NaN,Australia,Queensland,22 March 2006,22 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1383,40,UTF-8,12,Apache,3013,America,CA,20 October 1998,04 December 2013,0,0,0,0,0,0,0,0,0,0,0
+M0_1415,40,utf-8,11,nginx,NaN,America,NY,23 March 1995,03 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_2010,40,UTF-8,10,mw2165.codfw.wmnet,4692,America,CA,13 January 2001,12 December 2015,7,4,3,630,5,7,630,310,7,0,0
+M0_2034,40,UTF-8,7,GSE,9433,America,CA,31 July 2000,29 June 2016,3,3,1,366,5,3,366,306,3,0,0
+M0_2068,40,UTF-8,9,mw2192.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,14,12,5,1092,4,14,1092,244,14,0,0
+M0_2148,40,us-ascii,9,Microsoft-HTTPAPI/2.0,324,America,New Jersey,23 April 2002,20 August 2015,3,3,1,366,5,3,366,306,3,0,0
+M0_222,40,UTF-8,8,Apache/2.2.23 (Amazon),11590,America,New York,26 September 2005,23 July 2011,156,17,12,23383,206,162,23877,295213,162,6,0
+M0_2275,40,iso-8859-1,9,Apache,230,America,California,04 January 1995,04 January 2017,5,3,3,486,4,5,486,244,5,0,0
+M0_2323,40,utf-8,6,NaN,NaN,NaN,NaN,22 February 1996,16 January 2015,12,4,8,924,10,12,924,642,12,0,0
+M0_251,40,ISO-8859-1,7,LiteSpeed,618,Australia,Vic,30 July 2004,30 March 2014,24,6,4,1784,27,26,1950,23886,26,2,0
+M0_309,40,ISO-8859-1,8,NaN,NaN,America,ME,05 November 2008,07 October 2016,17,3,9,1394,20,19,1546,12358,19,2,0
+M0_349,40,utf-8,9,nginx/1.11.3,NaN,NaN,NaN,01 July 2007,08 December 2016,16,11,2,2272,26,20,2576,16035,20,4,0
+M0_353,40,utf-8,9,ATS,622,America,CA,18 January 1995,26 August 2015,8,1,3,1088,13,14,1524,2036,14,6,0
+M0_376,40,ISO-8859-1,9,Apache/2.2.32,NaN,America,MO,29 December 2005,30 September 2015,21,0,2,2021,25,23,2165,26799,23,2,0
+M0_391,40,us-ascii,6,Microsoft-HTTPAPI/2.0,324,America,PA,05 June 2003,26 November 2014,22,0,2,1724,26,24,1886,38477,24,2,0
+M0_409,40,utf-8,7,NaN,NaN,Canada,ON,27 August 2002,01 June 2016,76,9,7,8268,88,84,8898,117625,84,8,0
+M0_416,40,ISO-8859-1,6,nginx/1.12.0,1108,NaN,NaN,17 February 2009,16 February 2015,15,10,4,1166,19,19,1538,1626,19,4,0
+M0_442,40,utf-8,9,nginx/1.4.6 (Ubuntu),NaN,America,CA,02 December 2005,02 December 2016,26,1,3,4229,36,30,4517,32381,30,4,0
+M0_520,40,UTF-8,9,Microsoft-IIS/7.5,63279,America,OH,08 November 1998,16 March 2015,56,4,8,4551,59,60,4843,67881,60,4,0
+M0_552,40,ISO-8859-1,8,Apache,15240,NaN,NaN,12 February 2002,16 October 2014,8,4,1,1325,12,12,1637,2833,12,4,0
+M0_562,40,utf-8,9,Apache,65993,America,MO,20 May 1996,24 October 2016,24,0,9,2112,29,28,2404,16019,28,4,0
+M0_590,40,ISO-8859-1,7,NaN,1819,America,CA,02 November 2002,02 February 2017,48,41,9,6057,54,56,6657,15706,56,8,0
+M0_685,40,ISO-8859-1,8,nginx,NaN,America,WA,08 April 1996,18 November 2016,16,5,5,1615,23,20,1931,25358,20,4,0
+M0_697,40,UTF-8,8,nginx,15363,America,NY,08 May 1996,27 January 2017,20,5,9,2948,27,24,3248,5557,24,4,0
+M0_703,40,iso-8859-1,6,NaN,411,America,TX,02 March 1999,01 February 2017,14,1,3,1981,19,20,2497,6759,20,6,0
+M0_765,40,UTF-8,7,GSE,38119,America,CA,31 July 2000,29 June 2016,38,1,3,2995,37,44,3531,41717,44,6,0
+M0_803,40,ISO-8859-1,9,cloudflare-nginx,NaN,America,NJ,17 December 2007,15 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_863,40,utf-8,9,nginx + Phusion Passenger,NaN,America,FL,03 June 2000,05 May 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_976,40,UTF-8,7,GSE,6498,America,CA,31 July 2000,29 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_980,40,utf-8,9,ATS,622,America,CA,18 January 1995,26 August 2015,0,0,0,0,0,0,0,0,0,0,0
+A0_116,41,UTF-8,13,nginx,643,NaN,NaN,NaN,NaN,9,0,3,1142,12,13,1430,1991,13,4,1
+A0_156,41,UTF-8,11,nginx,670,NaN,NaN,NaN,NaN,15,1,5,1653,19,21,2103,2798,21,6,1
+A0_52,41,ISO-8859-1,10,Apache/2.2.14 (FreeBSD) mod_ssl/2.2.14 OpenSSL/0.9.8y DAV/2 PHP/5.2.12 with Suhosin-Patch,2516,America,Utah,24 May 2000,25 May 2016,24,0,2,4034,26,30,4498,12486,30,6,1
+A0_57,41,UTF-8,11,Proxy Pandeiro UOL,27103,BR,NaN,NaN,NaN,22,0,3,2316,28,26,2640,31378,26,4,1
+A0_92,41,iso-8859-1,10,nginx/1.8.0,218,NaN,NaN,18 July 2005,18 June 2016,7,0,1,737,10,11,1047,1162,11,4,1
+M0_107,41,iso-8859-1,6,nginx,318,NaN,NaN,21 November 2016,13 January 2017,8,0,2,1089,13,14,1601,1977,14,6,0
+M0_1283,41,utf-8,8,nginx,NaN,America,Oregon,30 August 2000,16 August 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1296,41,utf-8,8,Apache,65473,America,MO,20 May 1996,24 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1373,41,UTF-8,9,nginx/1.12.0,NaN,America,Pennsylvania,08 September 2007,09 September 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1378,41,us-ascii,8,Microsoft-HTTPAPI/2.0,324,GB,worcs,25 October 2006,18 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1425,41,utf-8,10,nginx/1.8.1,NaN,America,NY,18 October 1994,06 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_192,41,UTF-8,9,mw2231.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,0,0,0,0,2,0,0,124,0,0,0
+M0_2019,41,UTF-8,9,mw2165.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,3,3,1,366,4,3,366,244,3,0,0
+M0_2135,41,ISO-8859-1,9,Apache,NaN,America,Maine,23 October 1996,28 February 2017,7,5,5,630,7,7,630,442,7,0,0
+M0_2299,41,UTF-8,9,Apache,7065,America,Arizona,04 November 2003,04 November 2016,5,3,3,576,8,6,576,522,6,0,0
+M0_238,41,ISO-8859-1,7,openresty/1.11.2.2,10588,America,FL,30 July 2002,26 June 2014,20,0,2,1895,24,22,2055,13792,22,2,0
+M0_26,41,UTF-8,8,Apache,NaN,Panama,PANAMA,09 December 2008,30 November 2016,8,0,1,1078,12,12,1390,1532,12,4,0
+M0_275,41,UTF-8,9,mw2109.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,34,27,3,4891,37,42,5499,37001,42,8,0
+M0_30,41,iso-8859-1,7,Apache,281,America,PA,09 March 2010,18 January 2013,18,0,3,1868,23,22,2202,18348,22,4,0
+M0_364,41,us-ascii,8,Microsoft-IIS/7.5,324,America,Kansas,04 July 2001,19 April 2017,10,3,5,1202,16,14,1500,1335,14,4,0
+M0_373,41,UTF-8,8,Apache,NaN,Japan,NaN,08 March 2016,27 February 2017,34,11,4,3699,38,40,4153,27522,40,6,0
+M0_390,41,UTF-8,8,Apache,NaN,America,VA,23 February 2010,23 January 2017,26,0,8,2657,35,30,2991,34427,30,4,0
+M0_427,41,iso-8859-1,10,Apache,13,America,Arizona,06 July 2016,05 September 2016,8,3,8,552,5,8,552,420,8,0,0
+M0_434,41,UTF-8,8,Server,NaN,America,WA,05 January 1996,05 May 2016,40,12,6,3079,53,44,3359,38924,44,4,0
+M0_713,41,ISO-8859-1,8,nginx/0.8.54,NaN,NaN,NaN,16 January 2016,13 March 2017,1,0,1,54,2,1,54,124,1,0,0
+M0_731,41,utf-8,10,nginx/1.8.1,NaN,America,NY,18 October 1994,06 October 2016,10,1,4,1198,16,16,1616,2763,16,6,0
+M0_758,41,ISO-8859-1,9,Apache,NaN,Australia,Queensland,22 March 2006,22 March 2017,101,41,5,10813,101,110,11423,142735,110,8,0
+M0_829,41,UTF-8,10,Apache-Coyote/1.1,9817,GB,London,13 June 1997,05 November 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_855,41,ISO-8859-1,9,Apache,NaN,Australia,Queensland,22 March 2006,22 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_910,41,ISO-8859-1,9,nginx,NaN,France,NaN,22 July 2005,21 July 2016,0,0,0,0,0,0,0,0,0,0,0
+A0_128,42,UTF-8,13,nginx,646,NaN,NaN,NaN,NaN,7,1,5,466,10,11,760,822,11,4,1
+A0_154,42,UTF-8,11,nginx,673,NaN,NaN,NaN,NaN,18,1,4,2185,21,24,2637,2969,24,6,1
+A0_155,42,UTF-8,11,nginx,673,NaN,NaN,NaN,NaN,18,1,5,2185,21,24,2637,2969,24,6,1
+A0_40,42,utf-8,10,nginx/1.10.1,NaN,NaN,NaN,07 April 2002,NaN,15,0,3,2124,20,17,2270,12884,17,2,1
+A0_47,42,ISO-8859-1,10,Apache/2.2.14 (FreeBSD) mod_ssl/2.2.14 OpenSSL/0.9.8y DAV/2 PHP/5.2.12 with Suhosin-Patch,2516,America,Utah,24 May 2000,25 May 2016,24,0,2,4035,25,30,4499,12416,30,6,1
+A0_48,42,ISO-8859-1,10,Apache/2.2.14 (FreeBSD) mod_ssl/2.2.14 OpenSSL/0.9.8y DAV/2 PHP/5.2.12 with Suhosin-Patch,2516,America,Utah,24 May 2000,25 May 2016,25,0,2,4101,28,31,4565,12614,31,6,1
+A0_50,42,ISO-8859-1,10,Apache/2.2.14 (FreeBSD) mod_ssl/2.2.14 OpenSSL/0.9.8y DAV/2 PHP/5.2.12 with Suhosin-Patch,2516,America,Utah,24 May 2000,25 May 2016,23,0,2,3969,24,29,4433,12354,29,6,1
+A0_53,42,ISO-8859-1,10,Apache/2.2.14 (FreeBSD) mod_ssl/2.2.14 OpenSSL/0.9.8y DAV/2 PHP/5.2.12 with Suhosin-Patch,2516,America,Utah,24 May 2000,25 May 2016,25,0,2,4101,28,31,4565,12614,31,6,1
+M1_3,42,ISO-8859-1,8,Apache,895,America,Arizona,05 March 2013,05 May 2013,15,0,6,1980,17,19,2334,5911,19,4,1
+M0_104,42,utf-8,7,Apache/2.4.6,NaN,America,FL,24 May 2004,16 March 2017,51,11,7,4601,55,57,5103,45279,57,6,0
+M0_1131,42,utf-8,8,Apache/2.4.25,NaN,India,Karnataka,30 January 2006,14 April 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_1139,42,utf-8,7,nginx/1.10.1,NaN,Canada,BC,19 December 1997,05 November 2012,0,0,0,0,0,0,0,0,0,0,0
+M0_1236,42,UTF-8,10,nginx,NaN,America,Arizona,30 November 2006,17 April 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1257,42,UTF-8,8,Apache,7289,Canada,ON,14 April 1999,08 August 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1260,42,UTF-8,8,Apache/2.4.25,4974,Canada,Quebec,27 May 2008,27 May 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1266,42,utf-8,10,cloudflare-nginx,NaN,America,Arizona,10 November 2009,21 April 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1268,42,UTF-8,9,mw2225.codfw.wmnet,4691,America,CA,13 January 2001,12 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1303,42,utf-8,8,nginx/1.1.19,NaN,America,CA,09 December 1996,09 October 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1351,42,UTF-8,11,nginx,NaN,America,Arizona,08 May 2004,04 April 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_1375,42,ISO-8859-1,10,NaN,1819,America,CA,02 November 2002,02 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1422,42,ISO-8859-1,9,nginx,1505,America,Ohio,08 January 2004,03 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_146,42,UTF-8,9,Apache,7509,NaN,NaN,16 August 1999,17 August 2013,7,0,2,985,12,13,1433,1496,13,6,0
+M0_2112,42,ISO-8859-1,9,Apache-Coyote/1.1,5127,America,CA,04 August 1995,26 January 2017,4,3,2,432,5,4,432,310,4,0,0
+M0_2172,42,ISO-8859-1,7,Apache,NaN,America,Indiana,18 July 2002,10 July 2013,6,4,4,528,8,6,528,612,6,0,0
+M0_2185,42,UTF-8,9,nginx,NaN,NaN,NaN,23 November 1994,19 August 2015,6,5,2,540,7,6,540,473,6,0,0
+M0_2218,42,UTF-8,8,nginx,NaN,Australia,NEW SOUTH WALES,30 August 2015,08 March 2017,5,3,3,498,6,5,498,376,5,0,0
+M0_2231,42,us-ascii,9,NaN,324,NaN,NaN,11 October 2000,02 July 2014,8,8,3,636,6,8,636,364,8,0,0
+M0_291,42,UTF-8,8,Apache,NaN,United Kingdom,UK,27 February 1996,27 January 2016,33,0,5,2706,35,37,2982,41737,37,4,0
+M0_314,42,UTF-8,8,Apache/2.2.15 (CentOS),2766,NaN,NaN,30 April 2009,05 January 2017,33,4,9,3088,34,41,3720,12104,41,8,0
+M0_328,42,utf-8,8,NaN,NaN,America,CA,22 February 1996,16 January 2015,28,20,2,2780,36,32,3064,27390,32,4,0
+M0_33,42,ISO-8859-1,9,Apache,NaN,Australia,Queensland,22 March 2006,22 March 2017,15,6,10,950,18,17,1110,1327,17,2,0
+M0_363,42,utf-8,7,openresty/1.11.2.1,NaN,America,IL,27 November 2006,02 March 2017,19,15,3,2864,26,23,3168,10465,23,4,0
+M0_510,42,UTF-8,9,Apache/2.2.22 (Debian),10561,Japan,6110021,13 February 2017,28 February 2017,15,4,4,1540,21,19,1844,25529,19,4,0
+M0_518,42,UTF-8,9,Apache/2.2.22 (Debian),8769,SC,Not Applicable,29 September 2015,24 March 2017,5,0,3,334,6,7,474,412,7,2,0
+M0_527,42,UTF-8,7,GSE,12608,America,CA,31 July 2000,29 June 2016,71,9,13,7856,68,77,8384,82332,77,6,0
+M0_575,42,us-ascii,9,Microsoft-HTTPAPI/2.0,324,America,CA,22 October 1998,16 March 2017,29,14,15,2767,27,33,3073,3550,33,4,0
+M0_603,42,UTF-8,8,Apache/2.2.15 (CentOS),94,Australia,NSW,19 August 2004,05 July 2016,14,0,3,1102,8,16,1248,1015,16,2,0
+M0_818,42,ISO-8859-1,8,nginx/1.8.1,NaN,America,nj,24 June 2003,22 August 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_840,42,us-ascii,8,Microsoft-HTTPAPI/2.0,324,America,California,18 March 2016,14 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_92,42,utf-8,8,NaN,NaN,America,CA,22 February 1996,16 January 2015,22,15,2,2432,32,26,2716,27169,26,4,0
+M0_939,42,ISO-8859-1,9,Apache,NaN,Australia,Queensland,22 March 2006,22 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_963,42,ISO-8859-1,7,Apache,497,America,PA,06 December 2010,07 December 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_985,42,utf-8,7,Apache/2.4.6,NaN,America,FL,24 May 2004,16 March 2017,0,0,0,0,0,0,0,0,0,0,0
+A0_132,43,UTF-8,13,nginx,646,NaN,NaN,NaN,NaN,11,1,4,1266,12,15,1554,966,15,4,1
+A0_153,43,UTF-8,11,nginx,673,NaN,NaN,NaN,NaN,18,1,5,2188,22,24,2640,3031,24,6,1
+A0_54,43,ISO-8859-1,10,Apache/2.2.14 (FreeBSD) mod_ssl/2.2.14 OpenSSL/0.9.8y DAV/2 PHP/5.2.12 with Suhosin-Patch,2516,America,Utah,24 May 2000,25 May 2016,23,0,2,3970,27,29,4434,12548,29,6,1
+A0_64,43,iso-8859-1,11,Apache/1.3.27 (Unix) PHP/4.4.1,NaN,NaN,NaN,03 March 2000,08 December 2015,10,0,5,925,12,12,1079,1399,12,2,1
+A0_9,43,ISO-8859-1,10,DOSarrest,NaN,America,Washington,23 June 2003,02 January 2017,8,0,1,1045,9,10,1209,2806,10,2,1
+A0_95,43,UTF-8,10,Apache,7550,America,CA,03 August 2004,04 August 2016,11,0,1,883,13,13,1037,8893,13,2,1
+M4_75,43,UTF-8,10,nginx/1.12.0,NaN,NaN,NaN,NaN,NaN,0,0,0,0,2,0,0,124,0,0,1
+M0_1005,43,us-ascii,8,Microsoft-HTTPAPI/2.0,324,America,WA,14 May 2002,03 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1010,43,utf-8,9,nginx + Phusion Passenger,NaN,America,FL,03 June 2000,05 May 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1112,43,ISO-8859-1,9,Apache,NaN,Australia,Queensland,22 March 2006,22 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1177,43,ISO-8859-1,9,nginx,NaN,America,WA,26 April 2001,15 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_120,43,iso-8859-1,8,Apache,236,America,ca,09 May 2004,24 April 2017,16,0,1,1151,19,18,1305,24455,18,2,0
+M0_1335,43,ISO-8859-1,8,Apache/2.4.12 (Unix) OpenSSL/1.0.1e-fips mod_bwlimited/1.4,NaN,America,GA,05 November 1997,05 September 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1420,43,ISO-8859-1,9,NaN,NaN,America,CA,29 March 1997,29 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_180,43,utf-8,8,nginx,NaN,GB,Peterborough,08 December 1995,04 April 2014,15,6,5,1528,21,21,1988,3023,21,6,0
+M0_2008,43,UTF-8,7,Apache,NaN,America,CA,27 June 2001,03 March 2017,15,3,4,1110,4,15,1110,244,15,0,0
+M0_2036,43,UTF-8,9,mw2236.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,29,10,11,2022,12,29,2022,803,29,0,0
+M0_206,43,us-ascii,7,Microsoft-HTTPAPI/2.0,324,NaN,NaN,13 November 2002,13 November 2016,39,9,5,4044,39,43,4420,44173,43,4,0
+M0_2070,43,utf-8,8,nginx/1.1.19,13089,NaN,NaN,09 December 1996,09 October 2015,4,3,2,408,7,4,408,448,4,0,0
+M0_2188,43,utf-8,9,Apache/2.2.15 (CentOS),19724,America,Arizona,30 January 1996,01 February 2017,4,3,2,420,6,4,420,366,4,0,0
+M0_2194,43,UTF-8,9,mw2101.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,9,5,6,750,8,9,750,502,9,0,0
+M0_236,43,UTF-8,9,Apache,NaN,United Kingdom,UK,27 February 1996,27 January 2016,33,1,4,2756,37,37,3032,41938,37,4,0
+M0_242,43,utf-8,9,Varnish,389,America,CA,16 July 1999,29 March 2013,83,2,3,6008,107,87,6312,147266,87,4,0
+M0_271,43,UTF-8,8,Apache,NaN,America,Arizona,23 June 2006,24 June 2016,84,13,6,7403,71,86,7549,117282,86,2,0
+M0_324,43,ISO-8859-1,9,NaN,6744,NaN,NaN,28 November 1999,09 September 2013,22,3,8,2267,31,28,2701,9811,28,6,0
+M0_331,43,ISO-8859,12,Apache,5653,NaN,NaN,25 September 2000,23 November 2015,8,0,3,803,12,12,1097,2190,12,4,0
+M0_354,43,us-ascii,8,Microsoft-IIS/7.5,324,NaN,NaN,26 September 2003,17 June 2016,25,2,6,2444,17,31,2874,1984,31,6,0
+M0_43,43,ISO-8859-1,9,cloudflare-nginx,NaN,Canada,Quebec,10 April 2002,09 June 2016,20,4,7,1511,21,22,1663,14430,22,2,0
+M0_553,43,utf-8,10,nginx,NaN,America,NY,23 March 1995,03 March 2017,23,15,9,2479,24,27,2743,6085,27,4,0
+M0_612,43,us-ascii,7,Microsoft-HTTPAPI/2.0,324,America,PA,05 June 2003,26 November 2014,17,7,3,2715,20,23,3187,20139,23,6,0
+M0_667,43,ISO-8859-1,7,Apache,497,GB,NaN,11 November 2006,26 October 2016,45,3,7,4178,50,51,4646,44810,51,6,0
+M0_759,43,UTF-8,7,GSE,20592,America,CA,31 July 2000,29 June 2016,64,5,13,6081,71,69,6463,63457,69,4,0
+M0_782,43,UTF-8,10,Resin/3.1.8,NaN,America,FL,20 April 1995,07 March 2013,0,0,0,0,0,0,0,0,0,0,0
+M0_885,43,UTF-8,9,mw2164.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_989,43,utf-8,10,Microsoft-IIS/8.5,4816,America,CO,03 May 2015,04 May 2016,0,0,0,0,0,0,0,0,0,0,0
+A0_49,44,ISO-8859-1,10,Apache/2.2.14 (FreeBSD) mod_ssl/2.2.14 OpenSSL/0.9.8y DAV/2 PHP/5.2.12 with Suhosin-Patch,2516,America,Utah,24 May 2000,25 May 2016,22,0,2,3444,24,28,3908,9819,28,6,1
+M0_1055,44,utf-8,10,nginx/1.6.2,8219,America,CO,04 February 2005,21 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1097,44,ISO-8859-1,8,nginx,NaN,America,WA,08 April 1996,18 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1111,44,iso-8859-1,11,Apache,334,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0
+M0_1180,44,utf-8,9,ATS,634,America,CA,18 January 1995,26 August 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1213,44,UTF-8,9,mw2242.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1230,44,UTF-8,9,nginx,NaN,America,NY,16 September 1996,05 April 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1405,44,us-ascii,7,Microsoft-HTTPAPI/2.0,324,America,PA,05 June 2003,26 November 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_190,44,ISO-8859-1,8,nginx,NaN,America,WA,08 April 1996,18 November 2016,19,0,2,1809,23,23,2125,26805,23,4,0
+M0_2055,44,UTF-8,10,Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.5.38,NaN,Australia,NaN,20 July 2006,05 March 2013,17,7,6,1242,13,17,1242,962,17,0,0
+M0_2090,44,ISO-8859-1,9,nginx,1511,America,Ohio,08 January 2004,03 January 2017,6,4,3,640,8,6,640,606,6,0,0
+M0_2139,44,ISO-8859-1,11,NaN,1819,America,CA,02 November 2002,02 February 2017,5,3,2,498,7,5,498,438,5,0,0
+M0_2140,44,utf-8,10,Apache,45958,Canada,ON,09 December 2003,22 October 2016,6,6,3,540,8,6,540,539,6,0,0
+M0_2151,44,UTF-8,9,mw2175.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,39,19,10,2742,5,39,2742,306,39,0,0
+M0_2257,44,UTF-8,7,Apache,NaN,America,Arizona,12 March 2008,19 May 2016,14,7,12,1092,15,14,1092,970,14,0,0
+M0_226,44,ISO-8859-1,8,Microsoft-IIS/7.5,11,America,WA,13 September 2000,29 August 2016,40,6,5,4203,42,42,4365,47931,42,2,0
+M0_235,44,us-ascii,9,Microsoft-HTTPAPI/2.0,324,America,UT,05 February 1999,16 June 2014,26,10,6,2512,33,32,2982,7155,32,6,0
+M0_239,44,UTF-8,9,mw2107.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,40,35,2,5987,48,48,6595,38230,48,8,0
+M0_277,44,UTF-8,9,mw2190.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,37,32,2,5805,41,45,6413,40585,45,8,0
+M0_289,44,utf-8,9,Apache,44446,Canada,ON,09 December 2003,22 October 2016,157,2,5,11053,176,159,11211,284743,159,2,0
+M0_311,44,iso-8859-1,9,Apache,338,NaN,NaN,NaN,NaN,9,0,2,870,12,11,1020,5876,11,2,0
+M0_316,44,iso-8859-1,8,Apache/2,345,America,FL,10 May 2000,11 October 2016,12,4,3,972,16,14,1118,15901,14,2,0
+M0_408,44,ISO-8859-1,9,NaN,674,America,California,28 November 1999,09 September 2013,15,0,6,1556,20,21,1988,9023,21,6,0
+M0_436,44,utf-8,9,nginx + Phusion Passenger,NaN,America,FL,03 June 2000,05 May 2016,29,16,7,2326,25,33,2626,3623,33,4,0
+M0_49,44,UTF-8,8,Apache/2.4.6 (CentOS),25825,America,CA,25 January 1995,05 December 2013,71,1,6,5647,79,79,6295,120385,79,8,0
+M0_51,44,UTF-8,8,Server,NaN,America,WA,05 January 1996,05 May 2016,23,6,9,1942,25,27,2222,15275,27,4,0
+M0_550,44,ISO-8859-1,9,nginx/1.13.0,NaN,France,NaN,05 October 2005,21 May 2015,6,0,1,672,8,8,834,1381,8,2,0
+M0_557,44,ISO-8859-1,9,nginx,1501,America,Ohio,08 January 2004,03 January 2017,53,21,8,7834,53,61,8472,22947,61,8,0
+M0_616,44,utf-8,8,nginx,10198,America,New York,28 June 2006,01 February 2013,17,12,4,2401,23,23,2827,19291,23,6,0
+M0_617,44,ISO-8859-1,10,Apache/2.4.25,360,America,CO,25 June 1997,26 March 2017,16,3,4,1480,23,20,1776,10665,20,4,0
+M0_633,44,iso-8859-1,9,barista/5.1.3,16525,America,CA,09 January 1998,04 January 2017,10,0,5,1197,15,14,1503,1424,14,4,0
+M0_641,44,UTF-8,8,Server,NaN,America,WA,05 January 1996,05 May 2016,18,0,3,2274,21,22,2554,31811,22,4,0
+M0_733,44,ISO-8859-1,9,NaN,6746,America,California,28 November 1999,09 September 2013,20,4,6,2097,23,24,2381,9280,24,4,0
+M0_832,44,UTF-8,9,mw2103.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_833,44,us-ascii,8,Microsoft-HTTPAPI/2.0,324,Canada,ON,17 March 2000,17 January 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_993,44,us-ascii,8,Microsoft-IIS/7.5,324,America,California,26 September 2003,17 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M1_2,45,ISO-8859-1,10,Apache,NaN,NaN,NaN,09 October 2016,NaN,4,0,2,531,6,6,681,494,6,2,1
+M0_10,45,iso-8859-1,8,nginx,326,NaN,NaN,29 February 2008,21 February 2017,7,0,2,1088,10,11,1440,7650,11,4,0
+M0_1062,45,UTF-8,9,nginx/1.11.2,10273,America,MI,18 May 2001,19 March 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1083,45,ISO-8859-1,9,NaN,6748,NaN,NaN,28 November 1999,09 September 2013,0,0,0,0,0,0,0,0,0,0,0
+M0_1085,45,ISO-8859-1,9,Squeegit/1.2.5 (3_sir),NaN,America,MA,29 September 1994,29 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1140,45,ISO-8859-1,8,Microsoft-IIS/8.5,1245,America,FL,30 October 2002,06 July 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1192,45,ISO-8859-1,10,Apache,6264,NaN,NaN,19 December 2000,16 December 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1232,45,ISO-8859-1,10,Microsoft-IIS/7.5,1245,America,CT,13 May 1998,17 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1238,45,ISO-8859-1,9,cloudflare-nginx,NaN,America,Arizona,09 August 2009,17 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1262,45,iso-8859-1,7,Apache/2.4.25 (Debian),185,America,MA,29 July 2007,09 July 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1272,45,UTF-8,7,Apache,4764,America,Arizona,15 July 2009,20 April 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1318,45,us-ascii,8,Microsoft-HTTPAPI/2.0,324,NaN,NaN,27 September 2000,10 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1343,45,utf-8,8,AmazonS3,365,America,Arizona,13 July 2001,26 April 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1411,45,UTF-8,11,mw2192.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_158,45,UTF-8,11,Apache,3042,America,CA,20 October 1998,04 December 2013,14,0,7,1201,17,18,1495,4922,18,4,0
+M0_2204,45,utf-8,8,ECD (fll/0790),41547,America,NY,10 March 2005,07 March 2017,8,4,3,660,6,8,660,476,8,0,0
+M0_2259,45,UTF-8,11,Pagely Gateway/1.5.1,NaN,America,Minnesota,08 August 2001,09 November 2015,10,9,8,780,12,10,780,805,10,0,0
+M0_266,45,utf-8,9,nginx/1.10.3,39,Netherlands,NOT APPLICABLE,27 November 2002,21 November 2016,4,0,2,541,7,6,689,579,6,2,0
+M0_288,45,utf-8,9,Apache,44447,Canada,ON,09 December 2003,22 October 2016,185,0,2,13834,263,187,13992,488313,187,2,0
+M0_315,45,UTF-8,9,mw2101.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,47,41,4,6464,53,55,7072,39038,55,8,0
+M0_317,45,iso-8859-1,8,Apache/2.4.25 (Amazon) OpenSSL/1.0.1k-fips,226,America,Missouri,28 September 2007,28 March 2017,44,0,2,4044,46,46,4204,82259,46,2,0
+M0_406,45,iso-8859-1,10,Apache/2.4.25 (FreeBSD) OpenSSL/1.0.1s-freebsd PHP/5.6.30,217,NaN,NaN,NaN,NaN,28,2,5,3409,19,30,3565,18392,30,2,0
+M0_467,45,ISO-8859-1,10,NaN,12368,America,CA,09 January 1998,04 January 2017,32,5,9,2595,34,36,2881,15941,36,4,0
+M0_485,45,UTF-8,9,mw2097.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,55,43,7,10205,56,69,11305,38894,69,14,0
+M0_509,45,UTF-8,9,mw2239.codfw.wmnet,4695,America,CA,13 January 2001,12 December 2015,40,35,2,4590,54,46,5046,84636,46,6,0
+M0_541,45,utf-8,10,ATS,636,America,CA,18 January 1995,26 August 2015,46,22,8,5308,51,54,5902,40052,54,8,0
+M0_585,45,iso-8859-1,8,Apache,191,Australia,VIC,12 March 2009,18 April 2017,3,0,1,198,3,3,198,186,3,0,0
+M0_608,45,UTF-8,9,Apache,23771,America,MA,08 November 1993,12 October 2015,19,0,2,1801,25,23,2097,26643,23,4,0
+M0_683,45,utf-8,10,NaN,14947,America,NY,25 July 1998,05 March 2017,19,0,3,1816,22,23,2104,12138,23,4,0
+M0_686,45,ISO-8859-1,9,Apache,NaN,Australia,Queensland,22 March 2006,22 March 2017,70,3,8,5631,65,77,6091,82281,77,6,0
+M0_691,45,us-ascii,9,Microsoft-HTTPAPI/2.0,324,America,UT,05 February 1999,16 June 2014,28,10,9,2683,33,36,3307,11690,36,8,0
+M0_724,45,UTF-8,10,mw2233.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,33,29,2,5852,39,42,6460,37285,42,8,0
+M0_725,45,ISO-8859-1,8,Apache,NaN,America,Washington,16 November 1999,05 November 2016,26,16,5,3891,35,34,4567,37000,34,8,0
+M0_730,45,iso-8859-1,9,nginx,NaN,America,WA,20 July 1998,21 February 2017,8,0,2,805,11,12,1099,1087,12,4,0
+M0_74,45,windows-1252,9,fbs,NaN,America,WA,07 April 2003,01 November 2013,15,0,2,2730,23,19,3046,9605,19,4,0
+M0_766,45,UTF-8,7,nginx/1.12.0,9194,America,NY,04 June 2009,04 May 2016,9,0,5,1197,11,14,1537,1532,14,4,0
+M0_798,45,UTF-8,10,ATS,6560,Canada,ON,29 November 2000,21 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_847,45,ISO-8859-1,10,cloudflare-nginx,NaN,Netherlands,Noord-Holland,03 February 1999,04 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_871,45,ISO-8859-1,9,NaN,6746,America,California,28 November 1999,09 September 2013,0,0,0,0,0,0,0,0,0,0,0
+M0_895,45,UTF-8,9,mw2175.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_919,45,UTF-8,8,NaN,NaN,NaN,NaN,18 October 2000,29 January 2017,0,0,0,0,0,0,0,0,0,0,0
+A0_117,46,UTF-8,11,nginx,649,NaN,NaN,NaN,NaN,11,0,3,1274,14,15,1562,3132,15,4,1
+A0_82,46,ISO-8859-1,12,nginx/1.12.0,221,America,CALIFORNIA,06 October 2005,06 October 2016,7,0,2,742,10,9,890,1263,9,2,1
+M0_112,46,ISO-8859-1,9,NaN,NaN,America,CA,29 March 1997,29 November 2016,63,59,2,8062,76,75,8950,82775,75,12,0
+M0_1143,46,UTF-8,11,mw2199.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1201,46,iso-8859-1,9,Apache/2.4.25 (Amazon) OpenSSL/1.0.1k-fips,231,NaN,NaN,22 September 2009,23 April 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1220,46,UTF-8,9,nginx/1.4.6 (Ubuntu),NaN,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0
+M0_1221,46,ISO-8859-1,9,Microsoft-IIS/7.5,11,America,WA,13 September 2000,29 August 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_123,46,UTF-8,11,mw2255.codfw.wmnet,4698,America,CA,13 January 2001,12 December 2015,46,42,2,6883,54,54,7491,38056,54,8,0
+M0_124,46,ISO-8859-1,9,Apache,2393,America,NY,18 January 1994,21 October 2016,29,14,4,3416,35,35,3858,17574,35,6,0
+M0_1270,46,UTF-8,10,Pagely Gateway/1.5.1,NaN,America,Minnesota,08 August 2001,09 November 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1314,46,iso-8859-1,8,NaN,21,America,VA,13 September 1996,16 July 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1333,46,ISO-8859-1,9,nginx,NaN,America,Arizona,21 July 2008,18 April 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1397,46,utf-8,9,nginx,NaN,America,NY,23 March 1995,03 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_2016,46,UTF-8,8,Apache/2.4.7 (Ubuntu),22479,America,WA,30 January 2007,28 December 2016,7,6,4,606,8,7,606,496,7,0,0
+M0_2153,46,iso-8859-1,10,Apache,344,Japan,Osaka,11 March 2017,24 April 2017,5,3,3,498,8,5,498,504,5,0,0
+M0_2222,46,UTF-8,10,Apache/2.4,NaN,America,Maryland,25 August 2004,26 August 2016,20,6,10,1392,12,20,1392,766,20,0,0
+M0_2253,46,UTF-8,11,NaN,NaN,America,PA,16 May 2001,13 May 2015,7,4,3,582,8,7,582,596,7,0,0
+M0_2302,46,UTF-8,9,mw2228.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,6,4,4,564,8,6,564,504,6,0,0
+M0_234,46,UTF-8,9,ATS,17810,America,CA,22 November 2003,01 May 2014,50,40,5,5894,73,58,6478,69918,58,8,0
+M0_237,46,UTF-8,8,Apache,193,America,PA,14 October 2016,14 October 2016,7,0,2,680,10,11,1002,1363,11,4,0
+M0_270,46,utf-8,11,ATS,630,America,CA,18 January 1995,26 August 2015,38,13,10,4509,52,48,5267,35953,48,10,0
+M0_29,46,utf-8,10,nginx/1.10.1 + Phusion Passenger 5.0.30,NaN,America,Nevada,15 December 2004,25 February 2015,24,2,10,3146,30,28,3442,4258,28,4,0
+M0_292,46,utf-8,9,NaN,7758,America,NY,26 July 1995,21 July 2016,127,0,3,8942,144,131,9242,233106,131,4,0
+M0_304,46,ISO-8859-1,8,nginx,2886,NaN,NaN,22 April 1999,09 September 2016,74,0,2,18084,96,78,18384,113453,78,4,0
+M0_306,46,ISO-8859-1,10,nginx,1510,America,Ohio,08 January 2004,03 January 2017,20,2,6,3089,24,24,3391,7088,24,4,0
+M0_439,46,UTF-8,8,nginx,NaN,America,CA,26 May 2006,08 September 2016,15,8,6,2218,18,19,2546,5203,19,4,0
+M0_477,46,ISO-8859-1,12,NaN,1819,America,CA,02 November 2002,02 February 2017,70,21,7,9463,80,80,10217,133235,80,10,0
+M0_506,46,utf-8,10,openresty,NaN,America,California,06 August 2002,15 October 2015,22,18,1,3331,27,28,3739,62295,28,6,0
+M0_525,46,ISO-8859-1,11,nginx,1511,America,Ohio,08 January 2004,03 January 2017,44,11,7,6306,38,50,6780,22528,50,6,0
+M0_542,46,utf-8,10,Apache,66804,America,MO,20 May 1996,24 October 2016,44,2,7,3516,36,48,3808,33488,48,4,0
+M0_55,46,ISO-8859-1,10,nginx,1519,America,Ohio,08 January 2004,03 January 2017,21,0,3,4103,30,25,4405,16662,25,4,0
+M0_555,46,iso-8859-1,12,Apache,235,NaN,NaN,NaN,NaN,12,0,3,1351,15,16,1641,9692,16,4,0
+M0_565,46,ISO-8859-1,10,nginx,166,NaN,NaN,07 March 2000,23 March 2017,25,0,4,2115,30,29,2479,17150,29,4,0
+M0_602,46,UTF-8,8,cloudflare-nginx,NaN,Philippines,NaN,08 July 2000,05 March 2016,12,0,3,1716,17,16,2012,11285,16,4,0
+M0_64,46,ISO-8859-1,10,Microsoft-IIS/8.5,8745,NaN,NaN,NaN,NaN,28,0,3,4364,22,30,4498,22879,30,2,0
+M0_687,46,UTF-8,10,Apache,NaN,NaN,NaN,NaN,NaN,15,5,11,1244,23,17,1384,1616,17,2,0
+M0_689,46,us-ascii,8,cloudflare-nginx,NaN,America,Arizona,03 December 1999,06 October 2015,22,16,8,3094,27,26,3414,7809,26,4,0
+M0_727,46,iso-8859-1,8,Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips mod_bwlimited/1.4 mod_fcgid/2.3.9,333,America,MI,15 November 1998,23 December 2011,125,0,1,8528,145,129,8856,231799,129,4,0
+M0_736,46,UTF-8,7,GSE,6984,America,CA,31 July 2000,29 June 2016,33,1,5,3244,41,43,4114,24696,43,10,0
+M0_747,46,UTF-8,9,Apache/2.2.15 (CentOS),10303,Australia,New South Wales,08 January 2009,09 January 2017,197,0,3,13622,255,200,13794,486769,200,2,0
+M0_753,46,UTF-8,10,mw2165.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,38,26,12,4376,47,44,4832,40918,44,6,0
+M0_822,46,UTF-8,10,nginx,NaN,Panama,PANAMA,11 November 2007,18 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_873,46,ISO-8859-1,9,NaN,784,America,California,28 November 1999,09 September 2013,0,0,0,0,0,0,0,0,0,0,0
+M0_889,46,ISO-8859-1,6,NaN,NaN,America,CA,29 March 1997,29 November 2016,0,0,0,0,0,0,0,0,0,0,0
+A0_86,47,ISO-8859-1,11,Apache/2.2.31 (CentOS),NaN,Panama,PANAMA,19 July 2004,06 July 2016,26,11,7,3213,32,34,3821,16931,34,8,1
+M0_1037,47,ISO-8859-1,9,cloudflare-nginx,NaN,America,Texas,02 September 2003,18 September 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1122,47,UTF-8,9,nginx,NaN,Panama,PANAMA,11 November 2007,18 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1216,47,ISO-8859-1,9,NaN,NaN,Canada,ON,31 December 1999,17 December 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1245,47,utf-8,8,nginx/1.13.0,7790,America,Washington,28 August 1998,13 December 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1286,47,us-ascii,9,Microsoft-HTTPAPI/2.0,324,America,UT,05 February 1999,16 June 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_1294,47,ISO-8859-1,8,Apache,7362,Panama,PANAMA,04 October 2003,08 December 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_1295,47,UTF-8,9,Server,NaN,America,WA,02 October 2007,31 August 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1305,47,us-ascii,10,Microsoft-HTTPAPI/2.0,324,America,Nebraska,24 April 2007,25 April 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1310,47,UTF-8,11,cloudflare-nginx,NaN,America,AL,15 December 2010,27 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1340,47,iso-8859-1,10,Apache/2.0.52 (Red Hat),423,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0
+M0_1410,47,ISO-8859-1,9,NaN,6748,America,California,28 November 1999,09 September 2013,0,0,0,0,0,0,0,0,0,0,0
+M0_153,47,UTF-8,10,NaN,NaN,America,WA,01 June 2001,17 May 2016,32,28,3,4948,35,40,5516,19634,40,8,0
+M0_20,47,UTF-8,10,cloudflare-nginx,NaN,NaN,NaN,22 August 2007,24 July 2014,31,3,5,3590,39,35,3886,35687,35,4,0
+M0_2005,47,UTF-8,9,Apache,17647,NaN,NaN,26 January 2001,26 March 2017,9,7,5,750,10,9,750,744,9,0,0
+M0_2037,47,UTF-8,9,nginx,NaN,Philippines,ILOCOS NORTE R3,06 June 2007,19 December 2015,8,7,4,684,10,8,684,624,8,0,0
+M0_2111,47,ISO-8859-1,9,LiteSpeed,1148,America,GA,19 September 2002,04 September 2016,11,3,7,810,12,11,810,730,11,0,0
+M0_2177,47,utf-8,9,gunicorn/19.7.1,NaN,America,California,28 July 1995,26 November 2015,13,7,2,2133,11,13,2133,17914,13,0,0
+M0_220,47,UTF-8,12,mw2228.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,29,20,8,4167,33,33,4499,3181,33,4,0
+M0_2239,47,UTF-8,10,Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.5.38,NaN,Australia,NaN,20 July 2006,05 March 2013,7,7,3,618,10,7,618,624,7,0,0
+M0_2296,47,UTF-8,9,Server,NaN,America,NV,01 November 1994,30 April 2014,17,7,10,1182,11,17,1182,670,17,0,0
+M0_231,47,UTF-8,11,nginx,NaN,Panama,PANAMA,11 November 2007,18 December 2015,61,46,14,6679,68,69,7271,59369,69,8,0
+M0_252,47,UTF-8,10,Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.5.38,NaN,Australia,NaN,20 July 2006,05 March 2013,14,1,3,2133,18,20,2609,3258,20,6,0
+M0_268,47,UTF-8,10,nginx,NaN,NaN,NaN,08 May 2001,19 April 2015,34,0,5,4084,37,42,4684,36205,42,8,0
+M0_280,47,utf-8,11,Apache/2.2.15 (Red Hat),NaN,NaN,NaN,NaN,NaN,15,1,7,1552,20,21,2000,2790,21,6,0
+M0_287,47,UTF-8,9,Apache/2.4,NaN,America,Pennsylvania,29 May 1996,28 April 2015,31,0,6,3312,38,35,3612,36225,35,4,0
+M0_298,47,iso-8859-1,8,Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/0.9.8e-fips-rhel5 mod_bwlimited/1.4,479,Canada,ON,18 October 2002,17 October 2016,31,7,8,3007,29,35,3335,23628,35,4,0
+M0_32,47,UTF-8,11,Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.4.16,10804,NaN,NaN,18 October 2004,02 July 2015,4,2,4,296,9,6,442,778,6,2,0
+M0_381,47,utf-8,9,ATS,NaN,America,CA,22 November 2003,01 May 2014,55,45,5,6240,64,63,6824,69305,63,8,0
+M0_39,47,UTF-8,9,Apache,14889,NaN,NaN,05 November 1997,14 April 2015,9,1,2,1180,15,13,1484,1834,13,4,0
+M0_446,47,UTF-8,10,Apache-Coyote/1.1,9527,GB,London,13 June 1997,05 November 2015,23,2,4,2112,31,29,2530,13191,29,6,0
+M0_45,47,UTF-8,11,mw2241.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,24,19,2,3538,33,30,3994,22895,30,6,0
+M0_498,47,ISO-8859-1,8,NaN,NaN,America,CA,29 March 1997,29 November 2016,55,47,6,7049,64,65,7819,110342,65,10,0
+M0_500,47,ISO-8859-1,10,Apache,NaN,Australia,Queensland,22 March 2006,22 March 2017,33,3,6,2457,36,35,2617,68869,35,2,0
+M0_528,47,iso-8859-1,8,Apache/1.3.33 (Unix) mod_ssl/2.8.24 OpenSSL/0.9.7e-p1 PHP/4.4.8,NaN,America,NY,28 March 2000,28 March 2017,76,3,7,5283,100,78,5451,268442,78,2,0
+M0_581,47,UTF-8,8,nginx,NaN,Canada,MB,12 April 2000,04 April 2017,7,0,2,729,10,9,871,2045,9,2,0
+M0_650,47,ISO-8859-1,9,NaN,6748,America,California,28 November 1999,09 September 2013,33,2,8,3759,27,39,4193,11243,39,6,0
+M0_913,47,utf-8,9,Apache,44446,Canada,ON,09 December 2003,22 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_926,47,ISO-8859-1,9,NaN,675,America,California,28 November 1999,09 September 2013,0,0,0,0,0,0,0,0,0,0,0
+M0_949,47,ISO-8859-1,9,nginx/1.11.3,193,America,CA,28 November 2006,13 March 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_998,47,ISO-8859-1,11,NaN,1819,America,CA,02 November 2002,02 February 2017,0,0,0,0,0,0,0,0,0,0,0
+A0_114,48,ISO-8859-1,10,lighttpd,345,France,NaN,24 February 1996,27 December 2016,17,5,10,1320,21,19,1474,1967,19,2,1
+A0_146,48,UTF-8,11,nginx,640,NaN,NaN,NaN,NaN,23,1,4,2912,25,31,3494,3753,31,8,1
+A0_46,48,ISO-8859-1,10,Apache/2.2.14 (FreeBSD) mod_ssl/2.2.14 OpenSSL/0.9.8y DAV/2 PHP/5.2.12 with Suhosin-Patch,2516,America,Utah,24 May 2000,25 May 2016,22,0,2,3448,24,28,3912,9819,28,6,1
+A0_51,48,ISO-8859-1,11,Apache/2.2.14 (FreeBSD) mod_ssl/2.2.14 OpenSSL/0.9.8y DAV/2 PHP/5.2.12 with Suhosin-Patch,2516,America,Utah,24 May 2000,25 May 2016,24,0,2,4041,25,30,4505,12420,30,6,1
+A0_99,48,UTF-8,14,Apache,NaN,Czech Republic,PRAHA,07 October 2006,07 March 2017,48,0,1,3450,51,50,3602,66124,50,2,1
+M0_1046,48,us-ascii,9,Microsoft-HTTPAPI/2.0,324,America,Arizona,21 December 2005,08 December 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1063,48,utf-8,10,Apache,67135,America,MO,20 May 1996,24 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1089,48,UTF-8,11,nginx,NaN,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0
+M0_1109,48,ISO-8859-1,9,cloudflare-nginx,NaN,America,Texas,02 September 2003,18 September 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1118,48,UTF-8,11,mw2230.codfw.wmnet,4699,America,CA,13 January 2001,12 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1151,48,ISO-8859-1,11,Apache,NaN,Australia,Queensland,22 March 2006,22 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1170,48,us-ascii,8,Microsoft-HTTPAPI/2.0,324,America,CO,01 July 1998,26 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1259,48,UTF-8,9,Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips,16333,America,GA,05 May 2004,20 April 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_131,48,ISO-8859-1,9,NaN,1819,America,CA,02 November 2002,02 February 2017,33,27,2,6235,40,41,6835,16697,41,8,0
+M0_1323,48,UTF-8,10,Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.5.38,NaN,Australia,NaN,20 July 2006,05 March 2013,0,0,0,0,0,0,0,0,0,0,0
+M0_1392,48,iso-8859-1,11,Apache,288,NaN,NaN,11 October 2000,12 December 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1424,48,us-ascii,8,Microsoft-HTTPAPI/2.0,324,America,Florida,02 December 2004,25 November 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_2020,48,ISO-8859-1,8,AkamaiGHost,299,America,CA,10 August 1998,10 July 2012,7,7,3,618,10,7,618,624,7,0,0
+M0_203,48,ISO-8859-1,9,Apache/2.4.7 (Ubuntu),13913,Czech Republic,NaN,13 April 2005,10 November 2016,10,3,3,1224,15,16,1696,1814,16,6,0
+M0_2069,48,us-ascii,9,Microsoft-HTTPAPI/2.0,324,KR,NaN,14 August 2000,06 July 2016,7,7,3,618,9,7,618,562,7,0,0
+M0_2082,48,UTF-8,9,mw2240.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,5,3,2,498,8,5,498,508,5,0,0
+M0_223,48,UTF-8,9,Microsoft-IIS/7.5,39,America,Colorado,29 December 2005,06 February 2017,25,4,8,2313,29,29,2621,9531,29,4,0
+M0_2247,48,iso-8859-1,9,Apache,333,America,Arizona,25 June 2002,26 June 2016,5,3,3,498,8,5,498,504,5,0,0
+M0_2258,48,utf-8,11,nginx/1.8.1,NaN,America,NY,18 October 1994,06 October 2016,8,7,6,684,11,8,684,696,8,0,0
+M0_281,48,ISO-8859-1,11,NaN,1819,America,CA,02 November 2002,02 February 2017,44,31,4,6925,43,52,7525,17604,52,8,0
+M0_307,48,ISO-8859-1,9,NaN,6748,NaN,NaN,28 November 1999,09 September 2013,24,2,5,3179,29,30,3613,11372,30,6,0
+M0_567,48,UTF-8,7,GSE,38123,America,CA,31 July 2000,29 June 2016,47,10,6,4576,52,55,5282,49426,55,8,0
+M0_576,48,us-ascii,8,cloudflare-nginx,NaN,America,Arizona,03 December 1999,06 October 2015,26,12,10,3878,33,30,4198,8839,30,4,0
+M0_67,48,UTF-8,11,Apache/2.2.31 (Amazon),1371,NaN,NaN,28 April 2003,29 April 2016,26,2,8,2873,37,34,3453,5727,34,8,0
+M0_694,48,UTF-8,10,Apache,58,America,CO,22 June 2014,22 June 2016,24,6,12,2634,26,28,2932,4384,28,4,0
+M0_71,48,utf-8,9,Apache,46579,Canada,ON,09 December 2003,22 October 2016,113,0,3,7746,134,117,8062,229040,117,4,0
+M0_800,48,utf-8,10,nginx/1.10.2,NaN,HK,Central,24 May 2015,22 April 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_836,48,us-ascii,8,Microsoft-HTTPAPI/2.0,324,India,Maharashtra,05 August 1999,10 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_874,48,ISO-8859-1,11,cloudflare-nginx,NaN,America,MA,21 August 1998,03 October 2016,0,0,0,0,0,0,0,0,0,0,0
+A0_149,49,ISO-8859-1,12,PWS/8.2.0.7,528,KR,NaN,28 August 2003,10 May 2016,17,1,6,1661,19,23,2123,2944,23,6,1
+A0_164,49,ISO-8859-1,12,nginx/1.2.1,2211,UA,widestep@mail.ru,09 March 2004,04 January 2016,12,8,1,2037,16,16,2355,6187,16,4,1
+A0_55,49,utf-8,13,nxfps,NaN,KR,NaN,03 January 2002,12 January 2015,18,0,3,1643,25,22,1935,14342,22,4,1
+A0_81,49,UTF-8,12,nginx/1.12.0,4877,America,VERMONT,22 March 2009,22 March 2017,8,0,2,811,11,10,961,6062,10,2,1
+A0_98,49,UTF-8,13,Apache,NaN,Czech Republic,PRAHA,07 October 2006,07 March 2017,50,0,2,3571,55,52,3723,66449,52,2,1
+M0_1066,49,us-ascii,7,cloudflare-nginx,NaN,America,Arizona,10 June 2005,04 June 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1090,49,ISO-8859-1,9,Apache,959,America,New York,03 July 2000,04 July 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1123,49,us-ascii,9,Microsoft-HTTPAPI/2.0,324,America,MI,02 February 1996,07 April 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1217,49,UTF-8,10,Apache,19361,China,ZH,19 February 1997,15 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1243,49,ISO-8859-1,11,NaN,1819,America,CA,02 November 2002,02 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_137,49,iso-8859-1,9,Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1e-fips mod_bwlimited/1.4,475,NaN,NaN,23 August 2010,17 April 2015,14,0,1,1205,18,16,1383,16593,16,2,0
+M0_1416,49,ISO-8859-1,9,NaN,783,America,California,28 November 1999,09 September 2013,0,0,0,0,0,0,0,0,0,0,0
+M0_16,49,ISO-8859-1,10,LiteSpeed,1148,America,IL,23 September 2009,08 September 2016,9,0,2,851,9,11,1003,2135,11,2,0
+M0_2009,49,UTF-8,11,Apache,NaN,NaN,NaN,NaN,NaN,25,6,11,1662,12,25,1662,799,25,0,0
+M0_2029,49,UTF-8,9,nginx,NaN,America,CA,07 October 2005,10 September 2016,12,3,4,864,6,12,864,372,12,0,0
+M0_2043,49,ISO-8859-1,10,Apache,NaN,Australia,Queensland,22 March 2006,22 March 2017,15,6,8,1122,11,15,1122,702,15,0,0
+M0_2054,49,iso-8859-1,12,Apache/2.2.16 (Unix) mod_ssl/2.2.16 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4,506,NaN,NaN,NaN,NaN,22,19,7,1476,18,22,1476,1344,22,0,0
+M0_2078,49,UTF-8,9,Apache-Coyote/1.1,NaN,America,ca,14 May 1999,28 June 2016,18,15,2,2736,13,18,2736,4846,18,0,0
+M0_2107,49,utf-8,9,Apache,5005,America,CA,20 September 1995,21 March 2017,3,3,1,366,5,3,366,306,3,0,0
+M0_2110,49,UTF-8,10,nginx/1.6.2,NaN,China,hunansheng,30 August 2004,08 March 2017,9,5,6,738,15,9,738,1064,9,0,0
+M0_2113,49,ISO-8859-1,7,Apache,2367,America,Pennsylvania,30 January 2003,31 January 2016,6,3,3,552,7,6,552,436,6,0,0
+M0_2262,49,utf-8,9,ATS,NaN,America,CA,22 November 2003,01 May 2014,5,4,2,486,6,5,486,480,5,0,0
+M0_2265,49,UTF-8,9,cloudflare-nginx,NaN,America,WA,22 November 2000,28 September 2016,3,3,1,366,4,3,366,244,3,0,0
+M0_2280,49,ISO-8859-1,9,Play,2119,America,CA,02 November 2002,02 February 2017,2,2,1,276,3,2,276,184,2,0,0
+M0_2317,49,ISO-8859-1,9,Apache,128,America,MA,06 November 2001,11 March 2017,5,4,3,474,8,5,474,490,5,0,0
+M0_333,49,UTF-8,11,mw2185.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,31,24,8,4739,37,37,5195,18554,37,6,0
+M0_341,49,ISO-8859-1,9,nginx,162,America,TX,11 November 1999,16 April 2016,19,6,9,1720,27,25,2138,2880,25,6,0
+M0_365,49,utf-8,10,Apache,66441,America,MO,20 May 1996,24 October 2016,14,1,3,1567,20,18,1859,6818,18,4,0
+M0_524,49,utf-8,12,ATS,640,America,CA,18 January 1995,26 August 2015,32,16,6,4464,39,40,5064,39561,40,8,0
+M0_609,49,utf-8,9,Apache,44393,Canada,ON,09 December 2003,22 October 2016,8,0,5,516,2,8,516,124,8,0,0
+M0_637,49,utf-8,10,Apache/2.2.15 (Red Hat),6881,America,NY,26 July 1990,21 July 2016,26,0,7,2270,24,30,2562,10000,30,4,0
+M0_648,49,UTF-8,10,Server,NaN,America,NV,01 November 1994,30 April 2014,51,46,3,5413,61,57,5841,64860,57,6,0
+M0_663,49,ISO-8859-1,10,nginx,1505,America,Ohio,08 January 2004,03 January 2017,43,11,15,5371,46,49,5845,16215,49,6,0
+M0_729,49,ISO-8859-1,11,Apache,1368,NaN,NaN,NaN,NaN,0,0,0,0,2,0,0,124,0,0,0
+M0_838,49,ISO-8859-1,10,Apache,NaN,Australia,Queensland,22 March 2006,22 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_896,49,UTF-8,10,nginx,NaN,America,FL,26 July 2003,22 April 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_923,49,ISO-8859-1,9,NaN,NaN,America,CA,29 March 1997,29 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_95,49,iso-8859-1,10,Apache,236,America,UT,16 May 1995,21 October 2016,21,7,2,2681,26,27,3159,21979,27,6,0
+M0_974,49,UTF-8,9,Apache/2.2.15 (CentOS),101,Australia,NSW,19 August 2004,05 July 2016,0,0,0,0,0,0,0,0,0,0,0
+A0_105,50,UTF-8,13,Apache,NaN,Czech Republic,PRAHA,07 October 2006,07 March 2017,47,0,1,3386,53,51,3696,66317,51,4,1
+A0_147,50,UTF-8,11,nginx,640,NaN,NaN,NaN,NaN,20,1,4,2330,24,28,2912,3609,28,8,1
+A0_88,50,ISO-8859-1,11,nginx/1.12.0,1108,UA,NaN,26 April 2004,27 April 2017,7,0,2,746,11,9,904,2189,9,2,1
+M0_1026,50,ISO-8859-1,12,NaN,1819,America,CA,02 November 2002,02 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1088,50,utf-8,9,Apache,43996,Canada,ON,09 December 2003,22 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1370,50,ISO-8859-1,10,Apache,13076,America,IL,09 March 2006,23 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1423,50,UTF-8,10,Apache,6953,Canada,Ontario,23 July 2011,07 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_199,50,utf-8,10,ATS,NaN,America,CA,22 November 2003,01 May 2014,64,49,12,7487,84,74,8219,75625,74,10,0
+M0_2132,50,utf-8,9,Server,NaN,America,CA,09 December 2002,02 May 2014,5,3,3,498,6,5,498,372,5,0,0
+M0_2180,50,ISO-8859-1,9,Microsoft-IIS/7.5,3071,America,FL,02 April 1999,06 May 2016,8,6,4,696,10,8,696,636,8,0,0
+M0_371,50,iso-8859-1,10,nginx,243,America,Wisconsin,21 May 2007,27 March 2014,13,8,2,2382,20,17,2682,7775,17,4,0
+M0_379,50,ISO-8859-1,10,Apache/2.4.10 (Unix) OpenSSL/1.0.1k,NaN,NaN,NaN,NaN,NaN,94,3,8,6904,103,98,7208,197501,98,4,0
+M0_402,50,ISO-8859-1,11,NaN,1819,America,CA,02 November 2002,02 February 2017,33,27,5,5203,44,41,5803,13097,41,8,0
+M0_410,50,utf-8,10,nginx,NaN,America,NY,04 October 1996,17 January 2017,80,3,5,8291,93,88,8889,135375,88,8,0
+M0_419,50,us-ascii,11,Microsoft-HTTPAPI/2.0,324,America,CA,01 May 1996,25 March 2017,25,1,6,2829,28,29,3131,23089,29,4,0
+M0_429,50,ISO-8859-1,11,Apache,2797,NaN,NaN,NaN,NaN,35,0,4,2949,43,39,3263,43296,39,4,0
+M0_443,50,ISO-8859-1,12,Apache/Not telling (Unix) AuthTDS/1.1,NaN,America,NY,31 January 1995,04 December 2014,17,0,5,1570,21,21,1842,6049,21,4,0
+M0_492,50,UTF-8,11,mw2255.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,34,25,9,3787,42,42,4365,33677,42,8,0
+M0_521,50,ISO-8859-1,9,NaN,1189,NaN,NaN,22 February 2007,22 February 2016,22,4,12,1960,23,28,2420,2807,28,6,0
+M0_537,50,UTF-8,9,nginx,24971,America,CA,06 December 1994,03 November 2015,7,0,2,995,12,11,1287,1507,11,4,0
+M0_564,50,ISO-8859-1,10,NaN,413,NaN,NaN,NaN,NaN,10,0,4,926,13,14,1266,1788,14,4,0
+M0_610,50,utf-8,9,Microsoft-IIS/7.5,5316,America,FL,02 January 2003,01 January 2017,57,4,6,6820,61,59,6966,79053,59,2,0
+M0_682,50,UTF-8,11,Apache,435494,NaN,NaN,NaN,NaN,226,6,6,15162,284,228,15314,383760,228,2,0
+M0_708,50,iso-8859-1,14,NaN,NaN,America,CA,09 January 1998,04 January 2017,20,2,5,1849,22,26,2279,26589,26,6,0
+M0_789,50,us-ascii,9,Microsoft-IIS/7.5,324,America,California,26 September 2003,17 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_797,50,ISO-8859-1,11,Microsoft-IIS/7.5,1208,America,WA,13 September 2000,29 August 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_843,50,ISO-8859-1,9,nginx/1.10.3,1149,America,UTAH,06 October 1999,13 December 2008,0,0,0,0,0,0,0,0,0,0,0
+M0_861,50,UTF-8,10,nginx,NaN,America,CA,11 June 2003,18 October 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_898,50,UTF-8,10,Apache/2.2.15 (CentOS),1970,America,IL,30 December 1996,30 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_907,50,us-ascii,10,Microsoft-HTTPAPI/2.0,324,America,FL,14 September 1995,12 May 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_975,50,us-ascii,9,Microsoft-HTTPAPI/2.0,324,America,NJ,27 February 1998,17 December 2012,0,0,0,0,0,0,0,0,0,0,0
+A0_100,51,UTF-8,14,Apache,NaN,Czech Republic,PRAHA,07 October 2006,07 March 2017,46,0,1,3321,49,48,3473,66184,48,2,1
+A0_119,51,ISO-8859-1,14,cloudflare-nginx,NaN,America,WA,11 January 1999,04 April 2017,14,4,6,888,6,14,888,376,14,0,1
+M0_1027,51,ISO-8859-1,10,DOSarrest,NaN,KY,GRAND CAYMAN,04 January 2007,07 December 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1160,51,us-ascii,10,Microsoft-IIS/7.5,324,NaN,NaN,26 September 2003,17 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1186,51,UTF-8,10,Apache/2.2.32,NaN,America,PA,04 November 2004,21 September 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1346,51,UTF-8,8,Apache/2.4.6 (CentOS),25866,America,CA,25 January 1995,05 December 2013,0,0,0,0,0,0,0,0,0,0,0
+M0_1362,51,ISO-8859-1,10,nginx,6130,America,Utr,21 January 2007,23 December 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1391,51,ISO-8859-1,9,NaN,NaN,America,CA,29 March 1997,29 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_150,51,iso-8859-1,10,Apache/2.2.11 (Unix) PHP/5.2.6,231,China,beijingshi,07 March 2000,27 March 2017,7,1,2,769,10,9,909,1298,9,2,0
+M0_2046,51,utf-8,9,Scratch Web Server,10333,NaN,NaN,NaN,NaN,7,3,2,582,5,7,582,306,7,0,0
+M0_2147,51,utf-8,10,Apache,9890,NaN,NaN,NaN,NaN,9,6,7,762,10,9,762,640,9,0,0
+M0_2186,51,ISO-8859-1,9,NaN,6748,America,California,28 November 1999,09 September 2013,17,8,6,1278,10,17,1278,634,17,0,0
+M0_2212,51,ISO-8859-1,12,NaN,1819,America,CA,02 November 2002,02 February 2017,28,13,12,1872,19,28,1872,1323,28,0,0
+M0_2227,51,ISO-8859-1,8,nginx,162,America,Washington,13 January 2005,14 January 2016,4,2,3,396,3,4,396,184,4,0,0
+M0_2279,51,us-ascii,10,Microsoft-HTTPAPI/2.0,324,NaN,NaN,NaN,NaN,5,3,2,498,4,5,498,244,5,0,0
+M0_267,51,us-ascii,11,Microsoft-HTTPAPI/2.0,324,NaN,NaN,22 February 2001,08 April 2017,22,6,8,1651,17,24,1787,1388,24,2,0
+M0_347,51,utf-8,10,cloudflare-nginx,NaN,America,CO,28 September 1996,26 September 2016,39,3,8,3637,37,45,4127,44294,45,6,0
+M0_377,51,utf-8,11,nginx/1.4.6 (Ubuntu),58090,America,CA,20 November 2007,13 May 2016,2,0,1,132,2,2,132,124,2,0,0
+M0_435,51,UTF-8,10,nginx,NaN,America,CA,12 December 2003,18 October 2016,35,22,11,4677,33,41,5093,14310,41,6,0
+M0_479,51,UTF-8,11,NaN,NaN,America,WA,01 June 2001,17 May 2016,28,16,12,3227,31,32,3507,12120,32,4,0
+M0_780,51,utf-8,9,NaN,15302,America,Arizona,04 May 2001,09 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_787,51,iso-8859-1,11,Apache,239,America,UT,16 May 1995,21 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_814,51,ISO-8859-1,9,NaN,NaN,America,CA,29 March 1997,29 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_837,51,ISO-8859-1,8,Apache,57,America,VA,09 September 2002,29 August 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_938,51,ISO-8859-1,11,Apache,557,America,Arizona,15 February 2000,10 January 2017,0,0,0,0,0,0,0,0,0,0,0
+A0_104,52,UTF-8,14,Apache,NaN,Czech Republic,PRAHA,07 October 2006,07 March 2017,41,0,1,2992,44,43,3144,65646,43,2,1
+A0_161,52,UTF-8,12,marrakesh 1.12.2,13650,Brazil,NaN,NaN,NaN,16,1,5,1609,20,22,2119,2655,22,6,1
+A0_58,52,NaN,14,Apache/2.4.6 (CentOS),NaN,China,Bei Jing,01 March 2005,07 September 2016,14,1,8,1151,15,18,1445,1211,18,4,1
+M0_1007,52,ISO-8859-1,9,NaN,NaN,America,CA,29 March 1997,29 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1022,52,ISO-8859-1,12,nginx/1.10.3,NaN,America,VA,21 February 1992,22 August 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1076,52,utf-8,10,nginx/0.8.35,17302,America,CA,15 October 2005,13 September 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1080,52,UTF-8,10,Apache/2.2.15 (Red Hat),5315,America,CA,01 June 1996,02 April 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1115,52,ISO-8859-1,10,nginx,1516,America,Ohio,08 January 2004,03 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1166,52,UTF-8,11,mw2182.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1191,52,UTF-8,12,LiteSpeed,NaN,Panama,PANAMA,05 March 2005,14 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1293,52,UTF-8,10,Apache,NaN,America,CA,14 April 1998,14 April 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1304,52,ISO-8859-1,10,squid/3.3.8,3529,America,CA,02 June 1994,06 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1307,52,UTF-8,12,NaN,NaN,America,CA,09 January 1998,04 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_181,52,UTF-8,11,Apache,8105,China,ZH,19 February 1997,15 December 2015,13,0,3,1428,11,17,1712,1504,17,4,0
+M0_2014,52,ISO-8859-1,10,Apache/2.2.27 (CentOS),1235,America,NY,31 May 1995,18 November 2013,4,3,2,432,6,4,432,376,4,0,0
+M0_2032,52,ISO-8859-1,9,Microsoft-IIS/7.5,11,America,WA,13 September 2000,29 August 2016,6,3,3,564,7,6,564,442,6,0,0
+M0_2109,52,UTF-8,10,Apache-Coyote/1.1,NaN,America,NJ,02 March 1995,30 June 2016,5,3,3,486,7,5,486,436,5,0,0
+M0_211,52,UTF-8,9,nginx/1.8.1,9662,NaN,NaN,18 January 2008,05 January 2017,22,8,7,1628,25,26,1944,14894,26,4,0
+M0_2198,52,utf-8,9,Apache,44313,Canada,ON,09 December 2003,22 October 2016,4,4,1,420,5,4,420,414,4,0,0
+M0_2232,52,us-ascii,10,NaN,257,America,WA,22 March 1999,15 July 2016,4,3,2,420,7,4,420,424,4,0,0
+M0_2316,52,UTF-8,11,cloudflare-nginx,NaN,NaN,NaN,NaN,NaN,3,3,1,366,4,3,366,244,3,0,0
+M0_261,52,UTF-8,11,Apache/2.4.7 (Ubuntu),NaN,NaN,NaN,27 May 1998,25 April 2017,60,4,5,4466,63,62,4602,95122,62,2,0
+M0_319,52,UTF-8,9,cloudflare-nginx,NaN,Canada,ON,17 September 1998,10 November 2016,10,2,6,1197,17,14,1503,1374,14,4,0
+M0_325,52,utf-8,10,Apache,17167,NaN,NaN,07 May 1998,16 September 2016,10,1,4,1257,15,14,1555,1919,14,4,0
+M0_401,52,UTF-8,10,Server,NaN,America,NV,01 November 1994,30 April 2014,51,35,10,5314,62,57,5742,51761,57,6,0
+M0_420,52,utf-8,8,nginx/1.10.0,NaN,NaN,NaN,05 November 2003,06 November 2016,25,4,7,1682,30,29,1986,25579,29,4,0
+M0_634,52,UTF-8,11,nginx/1.12.0,NaN,NaN,NaN,NaN,NaN,21,0,8,2221,26,25,2513,3809,25,4,0
+M0_670,52,NaN,11,Microsoft-IIS/8.5,0,America,NJ,23 October 1994,01 November 2016,19,0,4,1538,8,23,1852,1121,23,4,0
+M0_696,52,ISO-8859-1,11,Nginx (OpenBSD),14863,HK,-,24 May 2010,25 July 2016,16,2,3,1364,23,18,1502,16978,18,2,0
+M0_741,52,us-ascii,10,NaN,257,America,WA,22 March 1999,15 July 2016,29,25,1,4765,34,37,5381,17280,37,8,0
+M0_880,52,ISO-8859-1,10,Apache,5443,Canada,Quebec,14 October 2007,01 September 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_89,52,utf-8,9,Zope/(2.13.16; python 2.6.8; linux2) ZServer/1.1,28239,NaN,NaN,NaN,NaN,51,1,10,4049,58,55,4361,61312,55,4,0
+M0_908,52,utf-8,8,nginx,NaN,Australia,QLD,25 November 2016,15 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_909,52,UTF-8,10,nginx,NaN,Canada,Manitoba,30 September 2002,24 September 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_954,52,utf-8,11,ATS,NaN,America,CA,18 January 1995,26 August 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_956,52,UTF-8,11,GSE,9801,America,CA,31 July 2000,29 June 2016,0,0,0,0,0,0,0,0,0,0,0
+A0_80,53,ISO-8859-1,12,nginx/1.12.0,242,America,ALABAMA,09 February 2007,09 February 2017,8,0,1,1156,10,10,1316,2638,10,2,1
+M0_1012,53,ISO-8859-1,11,NaN,NaN,America,CA,29 March 1997,29 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1091,53,UTF-8,10,nginx,NaN,America,CO,10 February 1999,06 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1247,53,utf-8,8,NaN,11158,America,PA,07 August 1995,27 March 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_1264,53,UTF-8,10,nginx/1.11.10,NaN,Canada,Quebec,21 May 1997,26 July 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1325,53,UTF-8,12,NaN,NaN,America,CA,09 January 1998,04 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1336,53,utf-8,11,nginx/1.10.1,NaN,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0
+M0_2048,53,ISO-8859-1,10,Apache/2.2.26 (Unix) mod_ssl/2.2.26 OpenSSL/0.9.8e-fips-rhel5 mod_bwlimited/1.4 PHP/5.4.26,22897,NaN,NaN,10 January 2006,11 November 2014,9,5,7,762,10,9,762,640,9,0,0
+M0_2119,53,UTF-8,11,Apache/2.2.31 (Amazon),8466,America,NH,31 August 2004,01 June 2016,26,8,11,1668,13,26,1668,894,26,0,0
+M0_2131,53,UTF-8,10,nginx/1.11.10,NaN,Canada,Quebec,21 May 1997,26 July 2016,7,6,2,798,8,7,798,492,7,0,0
+M0_2268,53,UTF-8,9,Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8e-fips-rhel5 PHP/5.3.10,2023,America,GA,05 December 2005,22 April 2015,12,3,3,960,16,12,960,1024,12,0,0
+M0_294,53,iso-8859-1,7,ATS/5.3.0,NaN,Canada,ON,27 May 2002,28 April 2017,12,6,7,1017,17,18,1503,1563,18,6,0
+M0_472,53,iso-8859-1,12,Apache,211,NaN,NaN,05 May 2001,28 January 2015,15,2,5,1944,21,21,2416,2698,21,6,0
+M0_556,53,ISO-8859-1,12,Apache,359174,Canada,ON,01 December 1996,30 November 2016,15,4,3,2232,22,19,2532,3283,19,4,0
+M0_827,53,us-ascii,9,Microsoft-HTTPAPI/2.0,324,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0
+M0_862,53,us-ascii,10,Microsoft-HTTPAPI/2.0,324,United Kingdom,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0
+M0_91,53,ISO-8859-1,11,cloudflare-nginx,NaN,NaN,NaN,01 March 2008,17 April 2015,16,3,8,1277,19,20,1559,2663,20,4,0
+M0_951,53,UTF-8,12,NaN,NaN,America,WA,01 June 2001,17 May 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_977,53,UTF-8,9,nginx,20309,America,CA,06 December 1994,03 November 2015,0,0,0,0,0,0,0,0,0,0,0
+A0_41,54,iso-8859-1,11,Apache,228,America,Arizona,16 February 2005,24 February 2016,5,0,2,582,9,9,882,1097,9,4,1
+A0_87,54,ISO-8859-1,11,Apache/2,17140,America,CA,17 December 2005,18 November 2015,29,1,7,4558,37,31,4724,26259,31,2,1
+M0_1002,54,ISO-8859-1,11,Microsoft-IIS/7.5,7849,America,PA,07 August 1995,27 March 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_1059,54,UTF-8,12,cloudflare-nginx,NaN,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0
+M0_1129,54,iso-8859-1,9,Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips mod_bwlimited/1.4 mod_fcgid/2.3.9,341,America,MI,15 November 1998,23 December 2011,0,0,0,0,0,0,0,0,0,0,0
+M0_1149,54,ISO-8859-1,12,Apache/2.2.27 (Unix) OpenAM Web Agent/4.0.1-1 mod_ssl/2.2.27 OpenSSL/1.0.1p PHP/5.3.28,2503,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0
+M0_1188,54,us-ascii,9,Microsoft-HTTPAPI/2.0,324,America,FL,02 October 2002,14 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1200,54,ISO-8859-1,12,Apache/2.2.15 (Red Hat),NaN,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0
+M0_1301,54,ISO-8859-1,8,Microsoft-IIS/7.5,11,America,WA,13 September 2000,29 August 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1315,54,utf-8,11,ATS,NaN,America,CA,18 January 1995,26 August 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_174,54,ISO-8859-1,9,Apache/2.2.32,3020,Canada,ON,06 March 1998,30 March 2017,34,7,6,2881,33,38,3219,39646,38,4,0
+M0_2007,54,UTF-8,12,nginx/1.10.3,NaN,America,VA,21 February 1992,22 August 2016,5,5,2,474,8,5,474,535,5,0,0
+M0_2045,54,UTF-8,12,mw2104.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,11,7,2,1166,7,11,1166,426,11,0,0
+M0_2133,54,UTF-8,10,Apache-Coyote/1.1,NaN,China,Zhejiang,15 April 1999,20 June 2012,3,3,1,366,3,3,366,182,3,0,0
+M0_2207,54,ISO-8859-1,12,Apache/2.2.15 (Red Hat),NaN,NaN,NaN,NaN,NaN,12,9,6,900,10,12,900,696,12,0,0
+M0_230,54,ISO-8859-1,10,cloudflare-nginx,18952,America,CA,29 September 2005,05 May 2016,1194,12,8,99843,1284,1198,100151,2060012,1198,4,0
+M0_247,54,ISO-8859-1,9,NaN,NaN,America,CA,29 March 1997,29 November 2016,58,39,7,5998,48,64,6438,43787,64,6,0
+M0_320,54,utf-8,10,Server,NaN,America,CA,09 December 2002,02 May 2014,37,0,5,7178,41,43,7644,20954,43,6,0
+M0_370,54,ISO-8859-1,10,Apache,5438,America,TX,17 July 2000,03 March 2017,40,9,9,4562,44,44,4884,49870,44,4,0
+M0_387,54,ISO-8859-1,12,Apache/2.2.15 (Red Hat),NaN,NaN,NaN,NaN,NaN,29,0,2,2903,37,37,3525,30772,37,8,0
+M0_4,54,UTF-8,9,Apache,193,America,WA,27 June 2015,18 April 2016,4,1,3,280,7,6,422,542,6,2,0
+M0_478,54,us-ascii,9,Microsoft-HTTPAPI/2.0,324,NaN,NaN,19 February 2005,20 February 2017,34,2,5,5325,44,40,5785,86136,40,6,0
+M0_48,54,UTF-8,11,Apache,26,America,FL,07 November 1996,25 August 2015,20,11,6,3025,25,26,3479,9200,26,6,0
+M0_594,54,UTF-8,10,nginx/1.4.6 (Ubuntu),NaN,America,CA,14 December 1995,06 December 2016,12,7,1,2036,17,16,2320,7035,16,4,0
+M0_665,54,UTF-8,10,mw2230.codfw.wmnet,20518,America,CA,13 January 2001,12 December 2015,43,38,5,5591,56,51,6231,46553,51,8,0
+M0_750,54,utf-8,12,NaN,1682,America,FL,06 November 1998,05 September 2014,12,1,5,1404,17,16,1700,1587,16,4,0
+M0_799,54,UTF-8,11,Apache/2.4.25 (cPanel) OpenSSL/1.0.1e-fips mod_bwlimited/1.4,9208,Australia,NSW,29 September 2000,18 November 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_858,54,us-ascii,12,Microsoft-HTTPAPI/2.0,324,NaN,NaN,18 October 2000,16 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_968,54,iso-8859-1,11,cloudflare-nginx,NaN,America,MA,21 August 1998,03 October 2016,0,0,0,0,0,0,0,0,0,0,0
+A0_102,55,UTF-8,12,Apache,NaN,Czech Republic,PRAHA,07 October 2006,07 March 2017,52,0,1,3721,57,54,3873,66445,54,2,1
+A0_84,55,ISO-8859-1,12,Apache/2.2.31 (CentOS),NaN,Panama,PANAMA,19 July 2004,06 July 2016,26,12,3,3229,32,34,3837,16895,34,8,1
+M0_1039,55,ISO-8859-1,10,Apache,14953,America,NY,30 December 2002,09 April 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_1047,55,UTF-8,9,Apache,2080,America,CA,11 September 1997,09 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1126,55,utf-8,12,Apache/2.4.7 (Ubuntu),NaN,America,Illinois,15 September 2003,16 September 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1146,55,UTF-8,10,nginx,12275,America,MA,15 September 1997,15 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1168,55,ISO-8859-1,11,.V01 Apache,NaN,America,CA,21 May 1998,16 May 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1187,55,UTF-8,10,Apache,NaN,America,FL,04 January 1997,30 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1339,55,utf-8,12,ATS,NaN,America,CA,18 January 1995,26 August 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1354,55,UTF-8,9,cloudflare-nginx,NaN,SI,Not Applicable,25 July 2003,06 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1368,55,UTF-8,10,mw2164.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1421,55,utf-8,12,Apache,66702,America,MO,20 May 1996,24 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_177,55,utf-8,8,nginx/1.10.0,NaN,NaN,NaN,05 November 2003,06 November 2016,24,3,9,1715,31,26,1867,22292,26,2,0
+M0_201,55,UTF-8,11,mw2110.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,42,36,2,6128,50,50,6736,41385,50,8,0
+M0_2023,55,UTF-8,12,cloudflare-nginx,NaN,BS,New Providence,25 October 2005,20 October 2016,21,3,13,1458,4,21,1458,244,21,0,0
+M0_2071,55,UTF-8,9,nginx/1.10.1,NaN,America,FL,29 December 1999,14 April 2017,8,3,3,696,5,8,696,306,8,0,0
+M0_21,55,UTF-8,10,Apache/2.4.6 (Unix) mod_jk/1.2.37 PHP/5.5.1 OpenSSL/1.0.1g mod_fcgid/2.3.9,13898,America,DE,01 September 1995,01 March 2017,31,3,5,3590,40,35,3886,35749,35,4,0
+M0_2141,55,utf-8,10,Apache,44324,Canada,ON,09 December 2003,22 October 2016,4,3,2,432,4,4,432,244,4,0,0
+M0_2190,55,UTF-8,12,mw2176.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,13,4,7,1074,5,13,1074,306,13,0,0
+M0_2300,55,UTF-8,10,mw2187.codfw.wmnet,NaN,America,CA,16 March 2003,29 March 2016,11,5,7,882,10,11,882,628,11,0,0
+M0_346,55,UTF-8,12,Server,NaN,America,NV,01 November 1994,30 April 2014,36,27,7,4405,47,42,4833,46271,42,6,0
+M0_415,55,utf-8,10,ATS,NaN,America,CA,22 November 2003,01 May 2014,46,38,3,5666,67,54,6250,69645,54,8,0
+M0_502,55,UTF-8,10,mw2239.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,27,18,4,3101,30,31,3405,13795,31,4,0
+M0_664,55,ISO-8859-1,9,NaN,NaN,America,CA,29 March 1997,29 November 2016,56,52,4,7621,74,66,8357,58567,66,10,0
+M0_706,55,ISO-8859-1,9,NaN,NaN,America,CA,29 March 1997,29 November 2016,42,30,9,4861,44,48,5301,43523,48,6,0
+M0_716,55,ISO-8859-1,9,NaN,NaN,America,CA,29 March 1997,29 November 2016,33,29,1,5665,36,43,6401,19433,43,10,0
+M0_738,55,UTF-8,11,Server,NaN,America,NV,01 November 1994,30 April 2014,48,39,11,5137,61,55,5597,67877,55,6,0
+M0_815,55,UTF-8,10,Microsoft-IIS/8.5,20474,America,WI,02 December 1998,01 December 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_879,55,ISO-8859-1,12,NaN,1819,America,CA,02 November 2002,02 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_936,55,UTF-8,10,mw2106.codfw.wmnet,40179,America,CA,16 March 2003,29 March 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_959,55,us-ascii,11,Microsoft-HTTPAPI/2.0,324,Australia,NaN,22 July 2008,22 July 2016,0,0,0,0,0,0,0,0,0,0,0
+A0_93,56,iso-8859-1,11,nginx/1.10.1,NaN,PK,Punjab,27 September 2013,29 September 2016,7,0,2,752,9,9,916,1197,9,2,1
+M0_1,56,iso-8859-1,8,Apache,257,America,CA,05 November 1999,11 August 2016,0,0,0,0,2,0,0,124,0,0,0
+M0_1110,56,ISO-8859-1,12,NaN,25471,NaN,NaN,b,17 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1124,56,utf-8,11,Apache/2.2.15 (CentOS),7215,America,CA,13 August 2002,14 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1144,56,NaN,11,Microsoft-IIS/7.0,0,America,New York,01 September 1998,15 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1179,56,ISO-8859-1,12,NaN,1819,America,CA,02 November 2002,02 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1214,56,UTF-8,9,Apache/2.2.15 (CentOS),965,Canada,qc,08 December 1997,18 October 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1227,56,ISO-8859-1,10,NaN,NaN,America,CA,29 March 1997,29 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1276,56,UTF-8,12,Apache,3042,America,CA,20 October 1998,04 December 2013,0,0,0,0,0,0,0,0,0,0,0
+M0_1317,56,us-ascii,10,Microsoft-HTTPAPI/2.0,324,America,CO,16 December 1993,09 September 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1396,56,UTF-8,11,Apache-Coyote/1.1,8741,America,GA,16 February 2001,23 September 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_2062,56,UTF-8,10,NaN,NaN,America,Connecticut,13 December 1995,14 September 2015,4,3,2,432,5,4,432,310,4,0,0
+M0_2215,56,UTF-8,10,nginx,14672,Panama,PANAMA,25 February 1999,18 January 2016,11,3,5,870,5,11,870,306,11,0,0
+M0_225,56,ISO-8859-1,9,NaN,NaN,America,CA,29 March 1997,29 November 2016,57,51,3,8171,59,69,9059,26659,69,12,0
+M0_2281,56,iso-8859-1,11,Apache,229,NaN,NaN,13 October 2000,28 August 2015,5,5,3,450,7,5,450,479,5,0,0
+M0_249,56,ISO-8859-1,9,NaN,NaN,America,CA,29 March 1997,29 November 2016,26,18,7,3928,27,32,4368,10186,32,6,0
+M0_28,56,us-ascii,11,Microsoft-HTTPAPI/2.0,324,Australia,NaN,22 July 2008,22 July 2016,20,2,7,1876,17,26,2354,2205,26,6,0
+M0_394,56,iso-8859-1,11,Apache,189,NaN,NaN,06 August 2004,05 July 2016,25,13,7,2910,30,31,3402,7648,31,6,0
+M0_421,56,us-ascii,9,Microsoft-HTTPAPI/2.0,324,America,Nevada,18 May 2003,19 May 2016,12,3,7,1080,14,14,1260,2498,14,2,0
+M0_473,56,ISO-8859-1,9,Apache/1.3.42 Ben-SSL/1.60 (Unix) mod_gzip/1.3.26.1a mod_fastcgi/2.4.6 mod_throttle/3.1.2 Chili!Soft-ASP/3.6.2 FrontPage/5.0.2.2635 mod_perl/1.31 PHP/4.4.9,NaN,Canada,Quebec,04 February 2003,06 February 2017,15,2,5,1944,21,21,2416,2698,21,6,0
+M0_514,56,UTF-8,12,nginx/1.6.2,NaN,Canada,hunansheng,30 August 2004,08 March 2017,10,4,4,944,15,14,1252,3869,14,4,0
+M0_522,56,utf-8,13,Apache,67283,America,MO,20 May 1996,24 October 2016,37,3,5,3050,44,43,3492,65986,43,6,0
+M0_56,56,ISO-8859-1,12,nginx,1523,America,Ohio,08 January 2004,03 January 2017,35,11,3,6351,46,43,6989,22390,43,8,0
+M0_615,56,us-ascii,10,Microsoft-HTTPAPI/2.0,324,America,Arizona,09 August 2002,03 April 2016,18,13,2,3354,18,24,3810,8544,24,6,0
+M0_714,56,UTF-8,12,mw2228.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,8,3,3,847,18,16,1435,1998,16,8,0
+M0_853,56,ISO-8859-1,9,Apache,1264,IL,il,29 December 2008,15 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_867,56,iso-8859-1,9,Apache,225,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0
+M0_881,56,ISO-8859-1,11,Aeria Games & Entertainment,17072,DE,Berlin,31 July 2006,28 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_943,56,utf-8,11,Apache,17541,America,CA,16 November 1998,03 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_944,56,utf-8,10,nginx/1.12.0,NaN,America,FL,18 April 2000,18 April 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_98,56,utf-8,11,nginx/1.6.3 + Phusion Passenger,NaN,NaN,NaN,20 April 2001,22 May 2015,10,2,3,1256,14,14,1576,1546,14,4,0
+M0_984,56,ISO-8859-1,11,nginx/1.12.0,NaN,America,Arizona,28 September 2005,02 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_986,56,UTF-8,11,Apache/2.4.10 (Debian) PHP/5.6.30-0+deb8u1 mod_perl/2.0.9dev Perl/v5.20.2,3782,Panama,PANAMA,31 May 2005,06 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1041,57,iso-8859-1,9,Apache,355,America,FL,03 August 1998,06 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1092,57,UTF-8,11,mw2173.codfw.wmnet,7340,America,CA,13 January 2001,12 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1249,57,utf-8,11,Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1e-fips mod_bwlimited/1.4 PHP/5.4.35,5796,America,Arizona,14 February 2000,14 February 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1348,57,UTF-8,10,Server,NaN,America,NV,01 November 1994,30 April 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_1414,57,ISO-8859-1,9,NaN,NaN,America,CA,29 March 1997,29 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_2081,57,utf-8,11,Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.1e-fips mod_fcgid/2.3.9 Communique/4.2.0,448,NaN,NaN,NaN,NaN,2,2,1,356,4,2,356,246,2,0,0
+M0_2130,57,UTF-8,11,Apache-Coyote/1.1,17249,NaN,NaN,16 October 2000,25 October 2016,15,13,7,1062,19,15,1062,1354,15,0,0
+M0_2150,57,us-ascii,11,Microsoft-HTTPAPI/2.0,324,NaN,NaN,05 February 1999,20 April 2015,8,5,5,696,10,8,696,636,8,0,0
+M0_2167,57,us-ascii,10,Microsoft-HTTPAPI/2.0,324,America,UT,05 February 1999,16 June 2014,7,3,2,630,5,7,630,306,7,0,0
+M0_2173,57,utf-8,12,NaN,20504,America,NY,14 April 1998,15 March 2017,4,3,3,408,6,4,408,378,4,0,0
+M0_2191,57,utf-8,12,Apache/2.2.31 (Amazon),6828,NaN,NaN,28 August 2007,29 April 2013,13,4,7,1074,5,13,1074,306,13,0,0
+M0_250,57,ISO-8859-1,10,NaN,NaN,America,CA,29 March 1997,29 November 2016,63,58,6,8280,65,75,9168,23559,75,12,0
+M0_299,57,ISO-8859-1,10,nginx,1510,America,Ohio,08 January 2004,03 January 2017,37,9,11,5965,47,43,6439,20145,43,6,0
+M0_375,57,UTF-8,10,nginx,NaN,SE,INDAL,19 December 2006,17 December 2016,16,0,3,1345,19,18,1495,18597,18,2,0
+M0_413,57,UTF-8,10,Apache,NaN,NaN,NaN,16 January 2001,17 December 2016,16,0,7,1293,19,20,1617,1754,20,4,0
+M0_458,57,ISO-8859-1,12,Apache/2.2.15 (CentOS) DAV/2 mod_ssl/2.2.15 OpenSSL/1.0.1e-fips PHP/5.3.3,11202,America,IL,12 December 1990,08 June 2015,79,2,7,5863,83,83,6173,127368,83,4,0
+M0_517,57,UTF-8,9,Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/7.0.14,6588,Japan,Osaka,19 July 2016,19 July 2016,19,8,10,1764,24,23,2120,2364,23,4,0
+M0_535,57,iso-8859-1,10,Apache/2,345,America,CA,25 February 1999,18 January 2017,31,0,5,2335,37,33,2493,35231,33,2,0
+M0_546,57,UTF-8,13,cloudflare-nginx,NaN,America,NY,13 November 2003,12 January 2017,42,7,12,3944,40,48,4404,23329,48,6,0
+M0_578,57,UTF-8,11,Server,NaN,America,NV,01 November 1994,30 April 2014,32,26,3,4195,45,38,4623,45691,38,6,0
+M0_625,57,iso-8859-1,11,nginx,234,America,NY,02 December 2000,03 November 2016,21,6,13,1627,23,25,1933,2044,25,4,0
+M0_636,57,ISO-8859-1,10,Apache,21046,America,NY,30 December 2002,09 April 2014,107,4,4,8986,148,111,9294,234205,111,4,0
+M0_732,57,utf-8,11,Microsoft-IIS/7.0,23463,IT,RM,07 April 2006,08 April 2017,18,4,6,1965,21,22,2249,7616,22,4,0
+M0_749,57,us-ascii,10,Microsoft-HTTPAPI/2.0,324,NaN,NaN,NaN,NaN,62,0,3,4725,65,66,5023,97272,66,4,0
+M0_75,57,utf-8,11,Apache,NaN,America,CO,08 May 2003,05 May 2015,9,0,3,871,12,11,1021,4257,11,2,0
+M0_791,57,iso-8859-1,11,Apache,241,America,UT,16 May 1995,21 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_86,57,UTF-8,7,Apache/2.2.31 (Amazon),1182,NaN,NaN,29 July 2004,03 January 2016,10,3,5,949,15,14,1309,2597,14,4,0
+M0_882,57,UTF-8,12,nginx,NaN,America,Arizona,30 November 2006,17 April 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_932,57,UTF-8,13,mw2198.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_996,57,ISO-8859-1,11,Apache,10280,America,IL,09 March 2006,23 February 2017,0,0,0,0,0,0,0,0,0,0,0
+A0_103,58,UTF-8,12,Apache,NaN,Czech Republic,PRAHA,07 October 2006,07 March 2017,50,0,1,3592,53,52,3744,66100,52,2,1
+A0_83,58,UTF-8,13,nginx/1.12.0,5962,America,UTAH,06 May 2006,06 May 2016,10,0,2,1692,15,14,2004,8467,14,4,1
+M0_1025,58,utf-8,12,Apache,NaN,America,NY,18 January 1994,21 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1107,58,UTF-8,8,Apache,58,America,MA,12 September 2009,23 August 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1256,58,us-ascii,10,Microsoft-HTTPAPI/2.0,324,America,UT,05 February 1999,16 June 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_1274,58,us-ascii,11,Microsoft-HTTPAPI/2.0,324,Australia,NaN,22 July 2008,22 July 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_2031,58,ISO-8859-1,9,nginx/1.12.0,NaN,America,Illinois,04 October 2010,21 October 2014,5,3,3,474,4,5,474,244,5,0,0
+M0_2074,58,utf-8,11,nginx/1.6.3 + Phusion Passenger,NaN,America,Arizona,20 April 2001,22 May 2015,4,4,1,420,5,4,420,414,4,0,0
+M0_2201,58,UTF-8,10,GSE,208082,America,CA,31 July 2000,29 June 2016,5,4,2,474,7,5,474,442,5,0,0
+M0_2223,58,us-ascii,11,NaN,NaN,America,WA,22 March 1999,15 July 2016,5,4,2,486,9,5,486,672,5,0,0
+M0_2254,58,ISO-8859-1,11,nginx/1.12.0,NaN,Canada,QC,18 April 2005,22 March 2017,4,2,2,408,7,4,408,438,4,0,0
+M0_302,58,iso-8859-1,8,Apache/2,345,America,FL,01 October 2001,16 January 2017,9,0,3,1481,12,13,1773,1327,13,4,0
+M0_329,58,us-ascii,12,Microsoft-HTTPAPI/2.0,324,America,CA,18 April 2001,27 September 2016,50,42,4,6256,63,58,6896,63202,58,8,0
+M0_338,58,ISO-8859-1,10,nginx,NaN,Canada,ON,14 July 1998,11 July 2016,5,0,3,620,8,7,770,626,7,2,0
+M0_358,58,us-ascii,9,NaN,324,America,CO,15 August 1995,13 July 2016,14,0,1,1794,18,18,2102,2242,18,4,0
+M0_368,58,us-ascii,9,Microsoft-HTTPAPI/2.0,324,NaN,NaN,08 September 2004,28 February 2017,15,10,3,2344,17,19,2668,6649,19,4,0
+M0_554,58,UTF-8,10,Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.4.16,1688,America,Arizona,26 January 2001,07 December 2015,17,15,4,1146,5,17,1146,416,17,0,0
+M0_598,58,UTF-8,11,mw2172.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,44,37,6,6317,53,52,6925,38708,52,8,0
+M0_604,58,UTF-8,11,nginx,NaN,NaN,NaN,17 July 2006,07 September 2016,20,9,4,3076,23,26,3494,8668,26,6,0
+M0_776,58,ISO-8859-1,9,nginx/1.2.6,NaN,America,Arizona,17 May 2001,15 April 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_845,58,UTF-8,11,Server,NaN,America,NV,01 November 1994,30 April 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_857,58,ISO-8859-1,11,Server,1179,America,NV,01 November 1994,30 April 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_921,58,utf-8,12,nginx/1.8.0,90837,America,va,07 September 1993,05 August 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1081,59,UTF-8,11,Server,NaN,America,NV,01 November 1994,30 April 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_1119,59,utf-8,11,cloudflare-nginx,NaN,America,Arizona,07 June 2001,27 November 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1138,59,iso-8859-1,10,NaN,NaN,NaN,NaN,13 August 2004,20 August 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1153,59,iso-8859-1,11,Apache/2.2.15 (CentOS),NaN,America,UT,16 May 1995,21 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_12,59,utf-8,10,Microsoft-IIS/8.5,26958,NaN,NaN,16 June 1996,28 March 2016,15,10,1,2421,17,21,2861,7924,21,6,0
+M0_1206,59,utf-8,12,nginx,162,BS,New Providence,06 November 2007,01 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1233,59,UTF-8,10,Apache/2.4.6 (Unix) mod_jk/1.2.37,19404,America,IL,14 June 1995,17 May 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1269,59,ISO-8859-1,11,nginx,162,America,Virginia,23 March 1998,29 May 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1331,59,us-ascii,10,NaN,324,America,FL,21 April 2002,23 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1358,59,iso-8859-1,10,Apache/2.4.23 (Unix) OpenSSL/1.0.1e-fips mod_bwlimited/1.4,352,China,NaN,07 July 2007,04 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1399,59,ISO-8859-1,9,NaN,NaN,America,CA,29 March 1997,29 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1417,59,utf-8,11,NaN,7697,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0
+M0_2047,59,us-ascii,10,NaN,324,America,FL,21 April 2002,23 March 2017,6,5,3,528,6,6,528,407,6,0,0
+M0_2050,59,UTF-8,13,NaN,9322,America,AZ,31 December 2005,31 December 2016,8,5,6,672,12,8,672,768,8,0,0
+M0_2115,59,UTF-8,10,Apache/2.2.22 (Debian),NaN,France,NaN,17 March 1996,01 June 2016,10,3,8,828,16,10,828,1036,10,0,0
+M0_2243,59,UTF-8,11,Apache/2.4.25 (Unix) OpenSSL/1.0.1e-fips mod_bwlimited/1.4,NaN,NaN,NaN,19 February 2002,25 April 2016,10,7,5,768,13,10,768,890,10,0,0
+M0_227,59,UTF-8,15,ATS,NaN,America,CA,18 January 1995,26 August 2015,20,6,5,2638,25,28,3208,6137,28,8,0
+M0_265,59,ISO-8859-1,9,nginx,12629,America,CA,28 April 2005,07 December 2015,24,0,11,1863,27,26,2033,15088,26,2,0
+M0_296,59,us-ascii,11,Microsoft-HTTPAPI/2.0,324,Australia,NaN,22 July 2008,22 July 2016,24,3,6,2752,24,30,3230,8910,30,6,0
+M0_397,59,us-ascii,9,NaN,324,America,CO,15 August 1995,13 July 2016,14,0,1,1797,19,18,2105,2308,18,4,0
+M0_426,59,ISO-8859-1,13,nginx/1.4.4,NaN,America,UT,21 June 1997,21 October 2016,8,3,8,552,5,8,552,420,8,0,0
+M0_486,59,us-ascii,13,Microsoft-HTTPAPI/2.0,324,America,UT,16 May 1995,21 October 2016,29,12,6,3325,32,33,3635,29835,33,4,0
+M0_516,59,ISO-8859-1,11,Apache,5290,America,FL,24 April 1999,23 February 2015,17,2,2,1684,22,21,2012,14589,21,4,0
+M0_592,59,utf-8,11,NaN,12965,America,FL,24 January 2001,24 January 2017,48,9,12,3796,51,52,4118,37621,52,4,0
+M0_600,59,us-ascii,13,Microsoft-IIS/7.5,324,America,Missouri,23 May 1997,15 April 2015,10,0,3,1170,14,16,1584,1324,16,6,0
+M0_618,59,ISO-8859-1,11,cloudflare-nginx,NaN,NL,ZH,12 September 2002,06 May 2015,9,0,2,1589,13,13,1909,2404,13,4,0
+M0_620,59,UTF-8,10,Apache,NaN,America,WA,20 February 2006,22 February 2017,10,1,3,1300,15,14,1618,13818,14,4,0
+M0_674,59,utf-8,12,nginx,162,BS,New Providence,06 November 2007,01 October 2016,22,12,5,3142,24,30,3746,7684,30,8,0
+M0_718,59,ISO-8859-1,11,Apache/2.2.22 (Ubuntu),125,America,Oregon,21 November 1997,05 March 2017,38,4,10,3936,46,44,4404,29443,44,6,0
+M0_779,59,ISO-8859-1,12,nginx,1511,America,Ohio,08 January 2004,03 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_802,59,ISO-8859-1,11,Apache,5290,America,FL,24 April 1999,23 February 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_87,59,UTF-8,12,cloudflare-nginx,NaN,America,FL,19 March 1999,11 March 2012,14,0,3,1438,16,18,1734,4800,18,4,0
+M0_93,59,utf-8,10,Microsoft-IIS/8.5,19867,NaN,NaN,16 June 1996,28 March 2016,21,12,3,3104,23,29,3696,8857,29,8,0
+M0_999,59,iso-8859-1,13,nginx/1.2.1,NaN,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0
+M0_1031,60,ISO-8859-1,11,Apache,NaN,America,UT,16 May 1995,21 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_119,60,iso-8859-1,11,Apache,198,HK,NaN,01 September 2016,02 September 2016,3,1,2,238,7,5,394,654,5,2,0
+M0_1211,60,ISO-8859-1,11,NaN,1973,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0
+M0_1278,60,utf-8,10,cloudflare-nginx,NaN,America,CA,04 November 1998,02 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1297,60,iso-8859-1,11,Apache,243,America,UT,16 May 1995,21 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1400,60,us-ascii,11,Microsoft-HTTPAPI/2.0,324,China,NaN,09 August 1995,04 August 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_2035,60,utf-8,10,Cowboy,21666,America,CA,15 April 2010,11 April 2017,9,7,7,762,10,9,762,640,9,0,0
+M0_2053,60,UTF-8,12,nginx,NaN,America,CA,12 December 2003,18 October 2016,8,6,5,696,9,8,696,574,8,0,0
+M0_2108,60,UTF-8,10,Apache/2.2.22 (Debian),8774,KR,NaN,04 December 2014,16 November 2016,6,6,3,540,9,6,540,617,6,0,0
+M0_2168,60,ISO-8859-1,13,NaN,1819,America,CA,02 November 2002,02 February 2017,1,1,1,202,4,1,202,250,1,0,0
+M0_2292,60,UTF-8,11,nginx/1.2.1,2544,NaN,NaN,16 July 1998,NaN,4,2,3,408,4,4,408,250,4,0,0
+M0_2312,60,utf-8,13,Apache,NaN,NaN,NaN,10 June 1999,11 April 2016,10,8,2,12231,11,10,12231,1186,10,0,0
+M0_359,60,ISO-8859-1,11,cloudflare-nginx,NaN,America,Illinois,28 August 2001,28 April 2015,29,22,3,4932,41,35,5392,23578,35,6,0
+M0_384,60,iso-8859-1,12,nginx,NaN,Canada,BC,20 October 1998,07 December 2015,6,0,4,664,8,8,808,609,8,2,0
+M0_447,60,us-ascii,9,Microsoft-HTTPAPI/2.0,324,America,PA,05 June 2003,26 November 2014,5,0,1,622,7,7,812,9159,7,2,0
+M0_611,60,ISO-8859-1,11,Apache,NaN,Canada,BC,12 October 2003,07 August 2015,29,1,4,2630,35,35,3102,35655,35,6,0
+M0_627,60,UTF-8,11,Apache,40582,America,ny,20 May 1996,19 April 2017,101,4,15,7002,79,107,7422,172138,107,6,0
+M0_635,60,UTF-8,13,mw2113.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,38,32,3,4488,44,44,4944,44959,44,6,0
+M0_662,60,utf-8,11,NaN,19671,America,CA,14 October 2001,18 December 2016,45,0,3,4192,54,53,4834,62498,53,8,0
+M0_675,60,utf-8,13,Microsoft-IIS/7.5,NaN,GB,London,29 September 1998,09 April 2017,23,12,5,3208,26,32,3883,8206,32,9,0
+M0_70,60,UTF-8,12,Apache,NaN,NaN,NaN,16 May 2001,17 March 2016,113,0,3,7746,134,117,8062,229040,117,4,0
+M0_770,60,UTF-8,12,cloudflare-nginx,NaN,America,FL,13 June 1995,05 May 2015,3,0,1,466,6,5,618,490,5,2,0
+M0_8,60,utf-8,11,nginx,NaN,America,California,24 September 2006,26 August 2015,14,9,2,2531,18,18,2819,8177,18,4,0
+M0_953,60,utf-8,9,Apache/2.2.14 (Unix) mod_ssl/2.2.14 OpenSSL/0.9.8a,824,America,OH,13 August 2003,14 August 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_972,60,UTF-8,13,Apache,NaN,America,VA,12 January 1995,19 December 2016,0,0,0,0,0,0,0,0,0,0,0
+A0_56,61,ISO-8859-1,12,Apache,526,DE,NaN,10 September 2003,11 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M0_1113,61,us-ascii,10,Microsoft-IIS/7.5,324,America,AZ,09 April 2008,10 April 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1189,61,ISO-8859-1,12,Apache/2.4.7 (Ubuntu),4576,America,FL,25 October 2002,28 March 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_1231,61,UTF-8,12,Apache/2.2.15 (Red Hat),39198,NaN,NaN,16 October 2000,25 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1290,61,us-ascii,11,cloudflare-nginx,NaN,America,FL,21 May 1995,22 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1366,61,ISO-8859-1,10,Apache,6473,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0
+M0_1409,61,ISO-8859-1,9,Microsoft-IIS/7.5,11,America,WA,13 September 2000,29 August 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_157,61,ISO-8859-1,11,Apache/2.4.10 (Ubuntu),11780,America,WA,20 January 1998,06 March 2017,20,1,5,1930,24,28,2610,8029,28,8,0
+M0_164,61,ISO-8859-1,12,Apache,NaN,America,CA,09 August 1996,04 April 2017,22,5,10,1673,22,24,1837,2525,24,2,0
+M0_2012,61,ISO-8859-1,12,nginx,1522,America,Ohio,08 January 2004,03 January 2017,4,3,2,432,6,4,432,376,4,0,0
+M0_2059,61,ISO-8859-1,12,Apache,NaN,NaN,NaN,27 January 1999,14 October 2012,5,3,3,498,7,5,498,438,5,0,0
+M0_2086,61,ISO-8859-1,9,nginx/1.12.0,NaN,NaN,NaN,15 August 2013,07 August 2015,12,7,5,960,10,12,960,640,12,0,0
+M0_2091,61,UTF-8,10,Server,NaN,America,NV,01 November 1994,30 April 2014,5,5,3,498,8,5,498,508,5,0,0
+M0_2200,61,us-ascii,11,NaN,257,America,WA,22 March 1999,15 July 2016,4,3,2,432,4,4,432,244,4,0,0
+M0_2210,61,UTF-8,12,Server,NaN,America,NV,01 November 1994,30 April 2014,20,8,7,1344,10,20,1344,739,20,0,0
+M0_2287,61,us-ascii,11,NaN,257,America,WA,22 March 1999,15 July 2016,10,5,7,792,15,10,792,971,10,0,0
+M0_2322,61,ISO-8859-1,11,Apache,NaN,America,DE,10 August 1999,03 March 2017,7,3,3,582,5,7,582,306,7,0,0
+M0_240,61,utf-8,11,Apache,8864,NaN,NaN,27 May 1997,28 April 2017,26,18,4,3798,36,34,4444,18719,34,8,0
+M0_272,61,ISO-8859-1,13,Apache,267,America,NY,13 March 2000,10 February 2016,7,1,3,743,13,11,1033,1520,11,4,0
+M0_342,61,UTF-8,13,cloudflare-nginx,NaN,America,WA,03 April 2011,11 March 2017,31,5,8,4514,40,39,5168,26105,39,8,0
+M0_350,61,utf-8,11,nginx,NaN,America,California,24 September 2006,26 August 2015,25,20,3,3252,35,29,3540,36967,29,4,0
+M0_924,61,utf-8,14,Microsoft-IIS/7.5,25090,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0
+M0_973,61,ISO-8859-1,10,nginx/1.12.0,4347,America,CO,16 December 2004,09 September 2013,0,0,0,0,0,0,0,0,0,0,0
+M0_106,62,ISO-8859-1,13,Apache,6567,America,FL,24 April 1999,23 February 2015,8,0,2,1089,13,14,1601,1977,14,6,0
+M0_1106,62,UTF-8,13,mw2224.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1133,62,UTF-8,12,nginx,NaN,NaN,NaN,17 July 2006,07 September 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1171,62,ISO-8859-1,13,Apache,6567,America,FL,24 April 1999,23 February 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1212,62,ISO-8859-1,12,Apache,20986,America,NY,30 December 2002,09 April 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_1255,62,UTF-8,12,mw2171.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1327,62,UTF-8,13,Apache,12440,Canada,Ontario,04 June 2010,07 April 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1330,62,iso-8859-1,10,Apache/2.4.25 (Amazon) OpenSSL/1.0.1k-fips,245,America,Missouri,11 October 2005,19 September 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1379,62,us-ascii,9,Microsoft-HTTPAPI/2.0,324,America,PA,25 October 2003,26 November 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_276,62,iso-8859-1,11,Apache/2.2.15 (CentOS),NaN,America,UT,16 May 1995,21 October 2016,11,5,4,1040,19,15,1374,2206,15,4,0
+M0_383,62,utf-8,11,AmazonS3,382,NaN,NaN,13 July 2001,26 April 2015,21,5,7,1810,21,25,2102,2519,25,4,0
+M0_743,62,UTF-8,11,Apache/2.2.3 (CentOS),2192,India,MAHARASHTR,22 December 2003,04 March 2017,32,8,11,2772,37,38,3258,32655,38,6,0
+M0_788,62,us-ascii,11,Microsoft-IIS/7.5,324,America,California,26 September 2003,17 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_917,62,UTF-8,12,GSE,9285,America,CA,31 July 2000,29 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_995,62,ISO-8859-1,12,Apache,NaN,Australia,Queensland,22 March 2006,22 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_100,63,ISO-8859-1,14,cloudflare-nginx,NaN,NaN,NaN,26 January 2007,21 January 2016,18,0,2,1676,22,22,1968,21002,22,4,0
+M0_1000,63,utf-8,12,Apache/2.2.15 (CentOS),7221,America,CA,13 August 2002,14 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1182,63,UTF-8,11,mw2257.codfw.wmnet,14506,America,CA,13 January 2001,12 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1202,63,UTF-8,13,mw2226.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1291,63,UTF-8,12,Apache,NaN,America,Arizona,19 October 2006,20 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_204,63,us-ascii,11,Microsoft-HTTPAPI/2.0,324,NaN,NaN,NaN,NaN,67,32,17,6011,42,73,6453,28050,73,6,0
+M0_2041,63,ISO-8859-1,11,cloudflare-nginx,NaN,NaN,NaN,21 June 2004,17 March 2017,4,4,1,420,6,4,420,476,4,0,0
+M0_2154,63,us-ascii,10,Microsoft-HTTPAPI/2.0,324,America,WA,03 December 1996,23 February 2017,3,3,1,366,4,3,366,244,3,0,0
+M0_2276,63,iso-8859-1,9,Apache/2,345,NaN,NaN,09 February 2005,11 December 2015,4,2,2,408,7,4,408,448,4,0,0
+M0_3,63,UTF-8,12,Apache,NaN,NaN,NaN,NaN,NaN,48,0,1,3840,51,52,4156,52729,52,4,0
+M0_380,63,us-ascii,12,Microsoft-HTTPAPI/2.0,1853,NaN,NaN,27 March 1998,15 October 2016,104,0,2,7535,124,106,7683,204971,106,2,0
+M0_417,63,ISO-8859-1,14,Apache,NaN,Canada,ONTARIO,02 May 2005,03 April 2017,26,7,6,2506,25,30,2814,2966,30,4,0
+M0_497,63,ISO-8859-1,11,Apache,3475,America,OH,20 March 2002,18 February 2017,31,5,6,2293,24,33,2459,17664,33,2,0
+M0_52,63,utf-8,11,DMS/1.0.42,42913,France,NaN,15 March 2005,28 June 2016,44,5,9,3414,46,48,3722,47213,48,4,0
+M0_547,63,us-ascii,13,Microsoft-HTTPAPI/2.0,324,America,UT,16 May 1995,21 October 2016,32,20,13,3967,44,38,4429,23969,38,6,0
+M0_558,63,UTF-8,12,nginx,NaN,America,Illinois,05 December 1996,31 May 2013,14,3,4,2108,22,18,2388,3406,18,4,0
+M0_679,63,ISO-8859-1,11,NaN,NaN,America,CA,29 March 1997,29 November 2016,31,13,8,5105,28,43,5105,13437,43,0,0
+M0_7,63,UTF-8,10,Apache,18235,America,WA,10 October 2006,07 March 2017,4,1,2,583,8,6,735,737,6,2,0
+M0_722,63,us-ascii,10,Microsoft-HTTPAPI/2.0,324,America,PA,05 June 2003,26 November 2014,35,19,11,3472,33,41,3944,24847,41,6,0
+M0_754,63,UTF-8,10,ATS,NaN,America,CA,18 January 1995,26 August 2015,29,10,7,4825,36,40,5567,37575,40,10,0
+M0_757,63,iso-8859-1,14,Apache/2.0.52 (Red Hat),320,NaN,NaN,NaN,NaN,188,25,9,14064,217,194,14522,298694,194,6,0
+M0_771,63,ISO-8859-1,11,Apache,5858,NaN,NaN,NaN,NaN,19,10,1,3181,25,25,3605,16286,25,6,0
+M0_1105,64,UTF-8,11,nginx/1.6.3,NaN,America,WA,01 August 2007,04 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1147,64,ISO-8859-1,13,Apache,NaN,America,CA,22 April 1997,22 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1267,64,UTF-8,11,nginx/1.8.1,9418,United Kingdom,NaN,03 June 1993,02 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1320,64,ISO-8859-1,13,Apache,19111,America,NY,30 December 2002,09 April 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_1364,64,UTF-8,13,Server,NaN,America,NV,01 November 1994,30 April 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_1376,64,UTF-8,10,Apache-Coyote/1.1,NaN,America,ca,14 May 1999,28 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_191,64,UTF-8,10,Apache,NaN,India,Haryana,22 November 1996,06 April 2016,15,2,5,1238,9,17,1430,760,17,2,0
+M0_2049,64,UTF-8,11,Apache-Coyote/1.1,NaN,America,nj,24 June 2003,22 August 2016,2,2,1,276,4,2,276,246,2,0,0
+M0_2114,64,UTF-8,12,NaN,NaN,America,CA,09 January 1998,04 January 2017,5,4,2,498,9,5,498,570,5,0,0
+M0_2195,64,utf-8,11,nginx/1.12.0,NaN,NaN,NaN,18 April 2000,18 April 2016,7,7,3,618,9,7,618,562,7,0,0
+M0_318,64,UTF-8,13,Server,NaN,America,NV,01 November 1994,30 April 2014,10,2,6,1197,17,14,1503,1374,14,4,0
+M0_323,64,ISO-8859-1,11,Apache,9498,GB,MIDDLESEX,27 April 2007,20 April 2017,10,1,3,1256,16,14,1580,1909,14,4,0
+M0_405,64,UTF-8,11,Server,NaN,America,NV,01 November 1994,30 April 2014,39,18,14,4631,42,49,5353,12921,49,10,0
+M0_657,64,us-ascii,10,Microsoft-HTTPAPI/2.0,324,America,WA,03 December 1996,23 February 2017,26,6,5,3201,29,30,3517,20250,30,4,0
+M0_78,64,us-ascii,13,Microsoft-IIS/7.5,324,NO,Rogaland,07 April 2006,19 April 2017,16,1,5,1910,24,24,2552,3124,24,8,0
+M0_844,64,UTF-8,13,Application-Server,32344,America,TX,30 March 1994,27 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_860,64,UTF-8,14,cloudflare-nginx,NaN,America,FL,12 February 1999,14 December 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_983,64,ISO-8859-1,11,NaN,34,America,FL,16 September 1996,15 September 2011,0,0,0,0,0,0,0,0,0,0,0
+M0_1003,65,ISO-8859-1,11,Microsoft-IIS/7.0,3830,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0
+M0_1356,65,UTF-8,12,Server,NaN,America,NV,01 November 1994,30 April 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_1367,65,ISO-8859-1,11,Apache,36377,America,NY,08 May 1996,27 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_186,65,utf-8,12,nginx + Phusion Passenger,NaN,Canada,ON,27 May 2010,27 February 2017,35,9,12,2820,26,43,3428,3034,43,8,0
+M0_2129,65,utf-8,14,nginx,NaN,America,California,24 September 2006,26 August 2015,6,3,4,564,6,6,564,376,6,0,0
+M0_2189,65,UTF-8,14,nginx,NaN,America,IL,12 December 1990,08 June 2015,32,11,12,2232,14,32,2232,954,32,0,0
+M0_224,65,ISO-8859-1,10,NaN,NaN,America,CA,29 March 1997,29 November 2016,43,35,3,5029,54,49,5469,44203,49,6,0
+M0_344,65,utf-8,12,cloudflare-nginx,NaN,America,CO,28 September 1996,26 September 2016,9,0,3,1194,12,13,1498,1736,13,4,0
+M0_449,65,ISO-8859-1,11,Apache/2.2.15 (Red Hat),12339,NaN,NaN,11 October 2000,12 December 2016,18,8,7,1634,23,22,1922,14294,22,4,0
+M0_481,65,utf-8,14,Apache,NaN,America,WA,24 July 2006,21 June 2016,326,317,3,26631,442,330,26931,947971,330,4,0
+M0_538,65,iso-8859-1,13,Apache/2.2.15 (Red Hat),330,NaN,NaN,NaN,NaN,30,2,9,2510,34,34,2810,34105,34,4,0
+M0_76,65,ISO-8859-1,12,Apache,NaN,America,DE,05 March 1998,29 February 2016,29,7,6,3999,37,37,4619,17322,37,8,0
+M0_825,65,iso-8859-1,11,Apache,245,America,UT,16 May 1995,21 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_929,65,UTF-8,11,nginx/1.10.3,40035,America,NY,28 January 2006,30 December 2016,0,0,0,0,0,0,0,0,0,0,0
+A0_85,66,UTF-8,14,Apache,58,America,MA,09 October 2014,10 October 2016,15,1,7,1863,18,19,2175,7303,19,4,1
+M0_1018,66,UTF-8,13,Apache/2.2.3 (CentOS),14750,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0
+M0_1040,66,UTF-8,10,ATS,NaN,America,CA,18 January 1995,26 August 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1406,66,UTF-8,12,Server,NaN,America,NV,01 November 1994,30 April 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_2134,66,UTF-8,11,NA,9405,America,District of Columbia,01 February 2003,02 February 2017,15,2,4,1026,4,15,1026,246,15,0,0
+M0_2187,66,utf-8,10,cloudflare-nginx,NaN,NaN,NaN,24 October 2000,06 January 2016,6,2,4,540,7,6,540,438,6,0,0
+M0_31,66,iso-8859-1,12,Apache/2.4.25 (Amazon) OpenSSL/1.0.1k-fips,251,NaN,NaN,29 August 2001,26 April 2015,11,1,7,1012,15,15,1316,1806,15,4,0
+M0_846,66,UTF-8,15,cloudflare-nginx,NaN,Canada,ON,26 July 2005,06 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_933,66,iso-8859-1,11,Apache,241,America,DC,08 February 1996,21 May 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_969,66,ISO-8859-1,15,Apache,36571,NaN,NaN,02 October 2001,15 September 2014,0,0,0,0,0,0,0,0,0,0,0
+A0_177,67,utf-8,14,nginx/1.4.6 (Ubuntu),NaN,America,AZ,12 October 1997,05 April 2017,12,1,5,1366,17,18,1850,2000,18,6,1
+M0_1023,67,utf-8,14,ATS,NaN,America,CA,18 January 1995,26 August 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1197,67,UTF-8,12,Apache/2.4.6 (CentOS) mod_fcgid/2.3.9 PHP/5.6.30,NaN,NaN,NaN,23 February 2010,05 January 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1248,67,ISO-8859-1,9,Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1e-fips mod_bwlimited/1.4,4440,America,Arizona,16 September 2004,28 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1309,67,UTF-8,10,LiteSpeed,NaN,America,FL,27 July 2003,21 May 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_198,67,us-ascii,9,Microsoft-HTTPAPI/2.0,324,America,PA,05 June 2003,26 November 2014,27,9,5,3471,32,33,3967,23243,33,6,0
+M0_2057,67,iso-8859-1,9,Apache,355,NaN,NaN,15 July 1999,15 May 2016,7,5,4,606,7,7,606,473,7,0,0
+M0_2120,67,UTF-8,10,nginx/1.12.0,3640,America,Kansas,07 March 2000,31 January 2017,12,3,7,960,11,12,960,706,12,0,0
+M0_2298,67,iso-8859-1,13,Apache,317,America,California,28 July 2007,21 September 2015,8,6,6,696,9,8,696,574,8,0,0
+M0_339,67,ISO-8859-1,12,Apache,197,America,FL,10 February 2000,28 February 2017,9,1,3,1283,14,13,1631,1697,13,4,0
+M0_440,67,ISO-8859-1,12,Apache,15742,America,NY,30 December 2002,09 April 2014,16,6,6,2135,22,20,2443,3485,20,4,0
+M0_513,67,UTF-8,14,mw2177.codfw.wmnet,4710,America,CA,13 January 2001,12 December 2015,59,43,15,7723,60,67,8331,37516,67,8,0
+M0_643,67,utf-8,11,Apache,26117,America,CO,19 July 2004,01 February 2017,16,9,5,2381,24,20,2675,5596,20,4,0
+M0_655,67,UTF-8,13,Jetty(9.0.z-SNAPSHOT),NaN,America,NY,12 March 1999,16 November 2016,26,9,6,2154,34,28,2310,29677,28,2,0
+M0_88,67,utf-8,13,Apache-Coyote/1.1,NaN,America,OH,02 May 1996,04 April 2017,15,0,5,1766,18,21,2196,2293,21,6,0
+M0_1235,68,UTF-8,13,nginx/1.8.1,13340,Canada,Ontario,18 January 2008,05 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1254,68,ISO-8859-1,13,Apache,NaN,America,NY,18 January 1994,21 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1386,68,ISO-8859-1,12,Oracle-iPlanet-Web-Server/7.0,3257,NaN,NaN,13 October 2000,27 April 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_148,68,utf-8,11,lighttpd/1.4.28,6795,SE,NaN,24 September 2009,01 March 2017,20,7,9,1620,23,22,1804,9227,22,2,0
+M0_2286,68,utf-8,12,cloudflare-nginx,NaN,America,MA,07 March 2001,18 August 2015,11,3,7,858,11,11,858,678,11,0,0
+M0_2288,68,utf-8,12,ATS,NaN,America,CA,18 January 1995,26 August 2015,5,4,2,474,7,5,474,442,5,0,0
+M0_27,68,UTF-8,14,Apache,12606,America,NY,02 January 2001,31 May 2016,23,9,8,2317,28,27,2633,3635,27,4,0
+M0_327,68,utf-8,13,nginx,NaN,America,Arizona,30 November 2006,17 April 2015,20,1,4,1900,25,24,2204,15998,24,4,0
+M0_651,68,UTF-8,15,Server,NaN,America,NV,01 November 1994,30 April 2014,47,37,6,5242,55,53,5670,49446,53,6,0
+M0_684,68,UTF-8,12,mw2197.codfw.wmnet,12503,America,CA,13 January 2001,12 December 2015,40,34,3,6020,45,48,6628,37704,48,8,0
+M0_734,68,UTF-8,14,nginx,NaN,America,Nevada,13 November 2002,12 August 2015,52,44,3,4703,57,56,5033,69613,56,4,0
+M0_79,68,UTF-8,11,nginx,NaN,America,Arizona,26 January 2006,11 April 2017,48,0,3,4896,58,52,5200,73318,52,4,0
+M0_866,68,iso-8859-1,11,nginx/1.12.0,NaN,GB,HANTS,21 December 2006,04 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_957,68,UTF-8,12,Server,NaN,America,NV,01 November 1994,30 April 2014,0,0,0,0,0,0,0,0,0,0,0
+A0_178,69,UTF-8,13,Apache,194,America,PA,16 November 2016,16 November 2016,10,0,4,903,12,14,1205,1489,14,4,1
+M0_1077,69,UTF-8,14,GSE,3933,America,CA,31 July 2000,29 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1098,69,UTF-8,13,nginx/1.12.0,13920,Canada,ONTARIO,13 May 2011,13 May 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_115,69,iso-8859-1,13,Apache/2.2.31 (FreeBSD) PHP/5.4.15 mod_ssl/2.2.31 OpenSSL/1.0.2d DAV/2,248,NaN,NaN,18 October 2000,30 October 2016,19,6,10,1483,21,23,1775,2073,23,4,0
+M0_1194,69,ISO-8859-1,12,nginx,1500,America,Ohio,26 May 1998,04 May 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1271,69,UTF-8,11,ATS,NaN,America,CA,18 January 1995,26 August 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1273,69,UTF-8,11,nginx/1.8.1,12564,United Kingdom,NaN,03 June 1993,02 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_133,69,ISO-8859-1,13,nginx/1.4.6 (Ubuntu),NaN,Panama,PANAMA,02 April 2008,13 June 2016,8,2,2,805,10,10,953,1196,10,2,0
+M0_1395,69,UTF-8,12,Server,NaN,America,NV,01 November 1994,30 April 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_2006,69,ISO-8859-1,12,Apache,NaN,America,UT,16 May 1995,21 October 2016,4,3,2,432,4,4,432,244,4,0,0
+M0_2246,69,UTF-8,11,Apache-Coyote/1.1,NaN,America,California,08 April 2000,31 January 2013,3,3,1,366,4,3,366,244,3,0,0
+M0_372,69,ISO-8859-1,12,NaN,NaN,America,CA,29 March 1997,29 November 2016,48,36,10,5347,50,54,5787,43924,54,6,0
+M0_459,69,iso-8859-1,12,Apache,360,CyprAmerica,NaN,05 November 2007,22 February 2017,23,1,10,1783,26,27,2095,18427,27,4,0
+M0_47,69,utf-8,13,ATS,NaN,America,CA,18 January 1995,26 August 2015,14,8,3,2186,20,18,2486,6913,18,4,0
+M0_530,69,UTF-8,12,Server,NaN,America,NV,01 November 1994,30 April 2014,29,21,7,3997,30,35,4425,16884,35,6,0
+M0_545,69,utf-8,11,nginx,NaN,America,Illinois,19 April 2006,29 July 2013,19,0,4,1878,23,25,2358,18769,25,6,0
+M0_58,69,utf-8,11,Apache,NaN,NaN,NaN,01 June 2006,06 March 2017,23,15,10,2708,30,27,3036,6195,27,4,0
+M0_745,69,UTF-8,14,Jetty(9.0.z-SNAPSHOT),NaN,America,NY,12 March 1999,16 November 2016,31,2,8,2131,33,35,2437,30035,35,4,0
+M0_955,69,UTF-8,14,GSE,33493,America,CA,31 July 2000,29 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M1_1,70,UTF-8,12,Apache,NaN,NaN,NaN,1900-01-00,NaN,15,0,3,1150,17,17,1304,15499,17,2,1
+M0_1016,70,utf-8,15,Apache,61974,America,MO,20 May 1996,24 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1045,70,ISO-8859-1,13,Microsoft-IIS/8.5,65423,Canada,ON,10 March 1998,24 February 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1057,70,us-ascii,15,Microsoft-HTTPAPI/2.0,324,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0
+M0_1155,70,iso-8859-1,14,Apache/2.2.26 (Unix) mod_ssl/2.2.26 OpenSSL/1.0.1e-fips DAV/2 mod_bwlimited/1.4,518,Australia,Queensland,23 January 2004,08 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1169,70,UTF-8,13,cloudflare-nginx,NaN,America,California,03 March 1999,14 April 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1246,70,ISO-8859-1,14,Apache/2.2.15 (CentOS) DAV/2 mod_ssl/2.2.15 OpenSSL/1.0.1e-fips PHP/5.3.3,8742,America,IL,12 December 1990,08 June 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_130,70,ISO-8859-1,12,Apache/2.2.24 (Unix) DAV/2 PHP/5.3.26 mod_ssl/2.2.24 OpenSSL/0.9.8y,NaN,NaN,NaN,03 June 1998,02 June 2016,9,0,4,916,15,13,1216,2074,13,4,0
+M0_1407,70,UTF-8,12,mw2178.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_151,70,UTF-8,15,294,11397,NaN,NaN,11 January 2005,23 January 2014,44,34,6,6221,45,54,6963,36834,54,10,0
+M0_2028,70,UTF-8,15,nginx,NaN,America,CA,03 March 2000,12 January 2017,6,4,4,552,9,6,552,562,6,0,0
+M0_2161,70,ISO-8859-1,13,Microsoft-IIS/6.0,118672,Canada,Quebec,02 June 2004,21 March 2015,10,6,7,792,10,10,792,636,10,0,0
+M0_2169,70,ISO-8859-1,13,Apache,8187,China,Zug,21 November 1997,19 October 2016,5,5,3,498,8,5,498,504,5,0,0
+M0_2283,70,UTF-8,13,nginx,NaN,Panama,PANAMA,11 November 2007,18 December 2015,16,13,2,1688,12,16,1688,742,16,0,0
+M0_2308,70,ISO-8859-1,10,Microsoft-IIS/7.5,356,America,New York,11 June 2002,05 June 2014,49,7,3,3802,50,49,3802,57628,49,0,0
+M0_260,70,ISO-8859-1,13,Apache,NaN,NaN,NaN,NaN,NaN,33,11,8,3523,33,39,4041,30933,39,6,0
+M0_264,70,us-ascii,13,Microsoft-HTTPAPI/2.0,324,America,VT,15 November 1995,15 September 2015,8,0,3,1100,12,12,1380,1570,12,4,0
+M0_367,70,utf-8,12,Microsoft-IIS/7.5,41417,America,MO,NaN,NaN,7,4,3,752,12,9,922,892,9,2,0
+M0_654,70,utf-8,14,Microsoft-IIS/7.5,13481,America,VA,15 December 1994,10 December 2016,48,11,11,3684,53,54,4164,47558,54,6,0
+M0_681,70,ISO-8859-1,12,nginx/1.2.1,NaN,America,NV,23 July 1999,04 March 2017,19,12,7,2506,27,23,2810,7448,23,4,0
+M0_893,70,UTF-8,14,nginx,23103,America,California,17 August 1995,16 August 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_899,70,ISO-8859-1,13,Microsoft-IIS/7.5,11,America,WA,13 September 2000,29 August 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_941,70,UTF-8,13,nginx,NaN,America,CA,07 September 1995,04 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1067,71,us-ascii,6,Microsoft-HTTPAPI/2.0,324,America,Oregon,29 January 2003,07 August 2013,0,0,0,0,0,0,0,0,0,0,0
+M0_1173,71,ISO-8859-1,16,cloudflare-nginx,NaN,America,Washington,03 August 1999,14 December 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1345,71,UTF-8,14,GSE,8992,Canada,ON,27 January 2010,07 August 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1371,71,UTF-8,13,Server,NaN,America,NV,01 November 1994,30 April 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_168,71,UTF-8,13,GSE,11988,America,CA,31 July 2000,29 June 2016,73,3,5,7802,82,79,8302,105565,79,6,0
+M0_175,71,ISO-8859-1,12,NaN,34,Canada,ON,28 December 1998,17 December 2016,49,0,7,3878,51,53,4174,55460,53,4,0
+M0_207,71,UTF-8,12,Apache,13522,America,CA,18 January 1996,20 January 2017,30,20,10,3317,35,36,3747,8700,36,6,0
+M0_66,71,utf-8,11,nginx/1.7.4,NaN,Panama,PANAMA,28 November 1999,04 April 2017,28,4,5,2794,32,32,3110,30923,32,4,0
+M0_669,71,utf-8,12,DMS/1.0.42,318,France,NaN,15 March 2005,28 June 2016,25,3,5,3428,23,29,3736,28007,29,4,0
+M0_678,71,utf-8,14,nginx,337,NaN,NaN,NaN,NaN,35,14,7,4515,28,43,5105,12970,43,8,0
+M0_692,71,utf-8,11,ATS,NaN,America,CA,18 January 1995,26 August 2015,26,21,4,4488,35,35,5084,14140,35,8,0
+M0_707,71,UTF-8,14,Server,NaN,NaN,NaN,b,23 October 2013,19,14,4,2877,23,25,3317,6649,25,6,0
+M0_72,71,UTF-8,12,Server,NaN,America,NV,01 November 1994,30 April 2014,65,48,7,6391,77,71,6819,83389,71,6,0
+M0_728,71,UTF-8,11,Apache-Coyote/1.1,13596,India,TN,NaN,NaN,7,2,4,1131,11,12,1473,1747,12,4,0
+M0_828,71,us-ascii,11,Microsoft-IIS/7.5,324,America,CA,17 November 2006,31 March 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_875,71,us-ascii,15,Microsoft-HTTPAPI/2.0,324,Turkey,NaN,21 May 2006,17 May 2013,0,0,0,0,0,0,0,0,0,0,0
+M0_1145,72,us-ascii,14,cloudflare-nginx,324,Canada,ON,24 November 2001,08 August 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1164,72,utf-8,14,nginx,31624,[u'GB'; u'United Kingdom'],UK,2002-03-20T23:59:59.0Z,2017-03-07T22:02:38.0Z,0,0,0,0,0,0,0,0,0,0,0
+M0_1172,72,utf-8,16,Apache/2.2.22 (Debian) mod_python/3.3.1 Python/2.7.3 mod_ssl/2.2.22 OpenSSL/1.0.1t,NaN,America,NY,23 March 1995,03 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1275,72,UTF-8,12,NaN,NaN,KR,NaN,06 September 1997,11 January 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1282,72,us-ascii,12,Microsoft-HTTPAPI/2.0,1853,America,NY,31 October 1997,30 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1313,72,ISO-8859-1,12,Apache,NaN,America,UT,16 May 1995,21 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_141,72,UTF-8,15,Apache/2.4.16 (Ubuntu),NaN,America,CA,22 September 2002,22 September 2016,47,13,6,6078,52,53,6520,40968,53,6,0
+M0_2040,72,UTF-8,13,Apache/2.2.27 (CentOS),NaN,NaN,NaN,NaN,NaN,14,14,7,972,16,14,972,1144,14,0,0
+M0_2084,72,utf-8,14,Microsoft-IIS/7.5,14092,America,VA,15 December 1994,10 December 2016,12,5,4,960,8,12,960,498,12,0,0
+M0_24,72,UTF-8,12,Server,NaN,America,NV,01 November 1994,30 April 2014,27,21,8,3862,33,33,4290,11108,33,6,0
+M0_244,72,ISO-8859-1,9,Apache/2.2.26 (Unix) mod_ssl/2.2.26 OpenSSL/0.9.8e-fips-rhel5 mod_bwlimited/1.4 PHP/5.4.26,2819,BE,ANTWERP,13 October 2000,01 November 2012,39,2,13,3042,26,45,3520,5914,45,6,0
+M0_335,72,ISO-8859-1,15,NaN,33528,NaN,NaN,NaN,NaN,18,4,4,2083,28,22,2371,17862,22,4,0
+M0_343,72,iso-8859-1,12,Apache,363,CyprAmerica,NaN,04 July 2007,22 February 2017,28,2,5,2490,29,32,2802,18969,32,4,0
+M0_489,72,utf-8,13,Apache,1832,NaN,NaN,01 May 2009,02 May 2016,9,0,3,1165,16,15,1673,1673,15,6,0
+M0_623,72,us-ascii,12,www.lexisnexis.com  9999,324,China,CH,08 April 2009,12 February 2016,80,0,2,6525,102,84,6843,126205,84,4,0
+M0_852,72,UTF-8,14,nginx,NaN,Panama,PANAMA,11 November 2007,18 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_888,72,iso-8859-1,11,Apache-Coyote/1.1,NaN,America,Tennessee,10 May 2007,18 April 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_930,72,ISO-8859-1,11,nginx,1145,America,NJ,08 April 1998,25 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1001,73,UTF-8,14,cloudflare-nginx,NaN,America,LA,20 October 2003,15 January 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1074,73,ISO-8859-1,17,Apache/2.4.7 (Ubuntu),13240,America,PA,05 August 2008,06 August 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1082,73,iso-8859-1,13,Apache/2.2.15 (CentOS),NaN,America,UT,16 May 1995,21 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1184,73,utf-8,14,NaN,32103,America,NY,29 March 2008,10 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1229,73,iso-8859-1,15,nginx,484,America,Arizona,15 December 2007,03 April 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1240,73,iso-8859-1,13,Apache/2.2.15 (CentOS),NaN,America,UT,16 May 1995,21 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_132,73,iso-8859-1,13,Apache/2.2.15 (CentOS),NaN,America,UT,16 May 1995,21 October 2016,27,12,5,3149,34,33,3647,37964,33,6,0
+M0_1334,73,iso-8859-1,15,Apache/2.0.52 (Red Hat),330,America,CA,03 September 1996,30 September 2009,0,0,0,0,0,0,0,0,0,0,0
+M0_213,73,utf-8,15,Apache,44491,Canada,ON,09 December 2003,22 October 2016,208,0,1,14530,278,210,14688,466055,210,2,0
+M0_2235,73,UTF-8,11,Apache/2.4.18 (Ubuntu),12487,America,Illinois,02 August 2000,26 April 2017,22,11,12,1524,19,22,1524,1268,22,0,0
+M0_2248,73,UTF-8,11,GSE,3674,America,CA,31 July 2000,29 June 2016,3,3,1,366,5,3,366,306,3,0,0
+M0_2321,73,UTF-8,17,cloudflare-nginx,NaN,Japan,TOKYO-TO,05 November 2007,12 March 2017,11,6,8,810,14,11,810,913,11,0,0
+M0_279,73,ISO-8859-1,15,squid/3.3.8,3591,America,CA,02 June 1994,06 January 2017,23,4,3,2425,36,29,2881,33598,29,6,0
+M0_36,73,UTF-8,12,Apache-Coyote/1.1,17908,NaN,NaN,09 January 2007,30 April 2013,17,12,3,2396,25,23,2856,26621,23,6,0
+M0_559,73,ISO-8859-1,13,nginx/0.8.38,18901,America,MA,29 March 2000,25 December 2016,51,6,5,3932,48,55,4252,87340,55,4,0
+M0_699,73,UTF-8,12,Server,NaN,America,NV,01 November 1994,30 April 2014,49,43,4,5365,60,55,5793,78671,55,6,0
+M0_804,73,UTF-8,17,mw2242.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,0,0,0,0,0,0,0,0,0,0,0
+A0_167,74,ISO-8859-1,11,cloudflare-nginx,NaN,Russia,Krasnoyarsk,22 August 2010,28 April 2017,11,0,3,1260,17,19,1850,2399,19,8,1
+M0_1162,74,us-ascii,12,Microsoft-IIS/7.5,324,America,Pennsylvania,20 March 2005,22 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_147,74,UTF-8,15,Apache-Coyote/1.1,46884,NaN,NaN,16 September 2004,28 March 2016,8,0,1,432,2,8,432,124,8,0,0
+M0_2208,74,UTF-8,13,Server,NaN,America,NV,01 November 1994,30 April 2014,3,3,1,366,5,3,366,306,3,0,0
+M0_2251,74,us-ascii,12,Microsoft-HTTPAPI/2.0,324,Canada,Saskatchewan,03 July 2000,23 June 2016,5,4,2,486,6,5,486,480,5,0,0
+M0_352,74,UTF-8,16,nginx,NaN,America,NJ,03 October 1997,03 August 2014,8,1,3,1088,13,14,1524,2036,14,6,0
+M0_454,74,utf-8,13,NaN,NaN,America,TX,31 January 1996,16 August 2016,21,1,5,2873,23,25,3177,9017,25,4,0
+A0_62,75,UTF-8,13,Apache,193,America,PA,20 August 2014,20 October 2016,8,0,6,801,9,10,951,677,10,2,1
+M0_1360,75,UTF-8,15,GSE,8417,America,CA,31 July 2000,29 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_196,75,ISO-8859-1,16,NaN,NaN,America,NJ,23 October 1994,01 November 2016,33,3,8,3647,39,41,4247,32399,41,8,0
+M0_2238,75,UTF-8,14,mw2238.codfw.wmnet,4721,America,CA,13 January 2001,12 December 2015,4,3,2,432,6,4,432,372,4,0,0
+M0_248,75,us-ascii,13,Microsoft-HTTPAPI/2.0,324,NaN,NaN,08 September 2004,28 February 2017,23,14,7,2472,19,27,2796,6776,27,4,0
+M0_404,75,utf-8,14,GSE,NaN,America,CA,15 September 1997,20 July 2011,39,18,14,4631,42,49,5353,12921,49,10,0
+M0_868,75,UTF-8,12,Pizza/pepperoni,NaN,America,WA,16 November 1994,28 October 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_987,75,ISO-8859-1,15,cloudflare-nginx,NaN,America,FL,16 May 2000,17 March 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_2157,76,ISO-8859-1,13,Microsoft-IIS/6.0,92183,Canada,Quebec,02 June 2004,21 March 2015,10,4,5,780,7,10,780,442,10,0,0
+M0_534,76,ISO-8859-1,15,NaN,12368,America,CA,09 January 1998,04 January 2017,47,0,5,4544,57,55,5134,53238,55,8,0
+M0_80,76,us-ascii,12,Microsoft-HTTPAPI/2.0,324,NaN,NaN,02 October 2007,20 July 2014,26,19,4,3635,30,32,4125,23404,32,6,0
+M0_81,76,us-ascii,13,Microsoft-IIS/7.5,324,NaN,NaN,14 December 2004,NaN,18,5,6,2032,19,24,2464,2033,24,6,0
+M0_842,76,UTF-8,12,Apache,9672,America,Alabama,03 October 1997,31 December 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_912,76,UTF-8,14,XXXXXXXXXXXXXXXXXXXXXX,17721,NaN,NaN,02 October 2000,03 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_2013,77,us-ascii,15,Microsoft-HTTPAPI/2.0,324,America,UT,05 February 1999,16 June 2014,5,5,3,498,8,5,498,508,5,0,0
+M0_2174,77,ISO-8859-1,13,Apache,NaN,America,UT,16 May 1995,21 October 2016,17,7,9,1206,15,17,1206,991,17,0,0
+M0_2272,77,us-ascii,14,Microsoft-HTTPAPI/2.0,324,America,CO,16 June 2014,31 July 2016,6,3,4,564,7,6,564,442,6,0,0
+M0_431,77,ISO-8859-1,14,Sucuri/Cloudproxy,NaN,NaN,NaN,07 February 2006,08 February 2017,32,7,9,2445,36,34,2601,41408,34,2,0
+M0_432,77,UTF-8,14,GSE,22409,America,CA,31 July 2000,29 June 2016,27,0,4,2403,30,31,2741,27476,31,4,0
+M0_735,77,utf-8,13,nginx/1.8.0,63049,America,va,29 April 1994,30 August 2013,33,1,5,3244,40,43,4114,24630,43,10,0
+M0_751,77,utf-8,14,ATS,NaN,America,CA,18 January 1995,26 August 2015,25,20,3,3591,31,31,4041,13757,31,6,0
+M0_1203,78,utf-8,10,Apache,23146,America,NY,18 January 1994,21 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_134,78,UTF-8,16,cloudflare-nginx,NaN,America,LA,20 October 2003,15 January 2015,11,1,3,1335,17,17,1835,2109,17,6,0
+M0_1393,78,UTF-8,17,mw2165.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_2021,78,UTF-8,11,cloudflare-nginx,NaN,Japan,WA,07 December 2006,02 March 2017,17,9,9,1594,18,17,1594,1152,17,0,0
+M0_212,78,iso-8859-1,15,Apache,13,Japan,Tottori,14 April 2017,18 April 2017,8,0,3,528,2,8,528,124,8,0,0
+M0_2146,78,UTF-8,16,GSE,9313,America,CA,31 July 2000,29 June 2016,13,6,9,1026,14,13,1026,904,13,0,0
+M0_2203,78,UTF-8,13,NaN,28508,America,NY,10 August 1995,05 August 2016,8,6,6,696,9,8,696,574,8,0,0
+M0_2211,78,ISO-8859-1,15,Varnish,9,America,DC,18 October 2005,14 October 2016,8,6,6,672,9,8,672,562,8,0,0
+M0_278,78,UTF-8,13,mw2224.codfw.wmnet,NaN,America,CA,13 January 2001,12 December 2015,39,35,2,5949,47,47,6557,32891,47,8,0
+M0_433,78,utf-8,10,Apache,23144,America,NY,18 January 1994,21 October 2016,36,3,10,2981,41,42,3449,31493,42,6,0
+M0_680,78,UTF-8,12,Pizza/pepperoni,13707,America,WA,16 November 1994,28 October 2015,19,6,4,2781,24,24,3085,18410,24,4,0
+M0_748,78,ISO-8859-1,13,Microsoft-IIS/7.5,11,America,WA,13 September 2000,29 August 2016,62,0,3,4725,65,66,5023,97272,66,4,0
+M0_784,78,UTF-8,12,Server,NaN,America,NV,01 November 1994,30 April 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_964,78,iso-8859-1,17,Apache,NaN,America,UT,16 May 1995,21 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_99,78,ISO-8859-1,16,MI,2743,America,CA,24 February 1996,18 January 2017,23,5,11,2106,31,27,2410,6415,27,4,0
+M0_1072,79,ISO-8859-1,13,Microsoft-IIS/8.5,1245,America,Arkansas,23 June 1999,12 June 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1121,79,ISO-8859-1,14,NaN,6748,Canada,QC,24 October 1996,24 August 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1193,79,utf-8,14,cloudflare-nginx,NaN,America,PA,03 May 2006,08 August 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1223,79,UTF-8,9,NaN,53420,America,NJ,26 May 1994,21 May 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1355,79,UTF-8,15,Apache-Coyote/1.1,46887,America,Washington,16 September 2004,28 March 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_2164,79,UTF-8,15,Apache,NaN,America,Arizona,17 August 2010,17 August 2016,6,3,4,564,8,6,564,504,6,0,0
+M0_269,79,ISO-8859-1,16,Roxen/5.4.98-r2,11593,America,IL,02 March 2000,03 March 2017,13,1,3,1763,19,19,2233,2308,19,6,0
+M0_456,79,UTF-8,15,Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips mod_bwlimited/1.4,NaN,NaN,NaN,26 January 2002,12 January 2017,15,0,4,1301,7,17,1455,552,17,2,0
+M0_1086,80,UTF-8,16,NaN,7240,America,California,04 February 1996,10 August 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1094,80,UTF-8,12,Apache,471,America,CA,23 July 2004,04 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_129,80,UTF-8,12,GSE,38149,America,CA,31 July 2000,29 June 2016,41,0,5,3333,43,45,3715,42229,45,4,0
+M0_1389,80,UTF-8,15,NaN,NaN,America,CA,09 January 1998,04 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_142,80,utf-8,13,cloudflare-nginx,NaN,America,CA,18 January 1995,26 August 2015,50,43,12,7282,57,60,8042,24220,60,10,0
+M0_2077,80,ISO-8859-1,17,nginx/1.2.1,8619,BY,--,17 May 2004,02 March 2017,22,18,3,3156,15,22,3156,4966,22,0,0
+M0_2145,80,us-ascii,14,Microsoft-HTTPAPI/2.0,324,NaN,NaN,05 June 2003,26 November 2014,5,4,2,498,7,5,498,438,5,0,0
+M0_463,80,ISO-8859-1,13,nginx/1.1.19,NaN,NaN,NaN,19 November 1998,29 September 2016,16,1,4,1739,20,20,2059,12620,20,4,0
+M0_756,80,us-ascii,11,Microsoft-HTTPAPI/2.0,324,America,CA,08 September 2003,03 March 2017,33,10,8,3764,23,41,4412,7356,41,8,0
+M0_810,80,UTF-8,16,Server,NaN,America,NV,01 November 1994,30 April 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_849,80,UTF-8,13,GSE,11326,America,CA,31 July 2000,29 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_878,80,iso-8859-1,12,Apache,236,America,AZ,10 March 1998,05 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M4_70,81,utf-8,17,Microsoft-IIS/6.0,NaN,America,California,18 June 2003,14 June 2016,0,0,0,0,2,0,0,124,0,0,1
+M4_71,81,utf-8,17,Microsoft-IIS/6.0,NaN,America,California,18 June 2003,14 June 2016,0,0,0,0,2,0,0,124,0,0,1
+M0_101,81,UTF-8,14,GSE,10527,America,CA,31 July 2000,29 June 2016,75,8,16,7388,76,79,7734,65108,79,4,0
+M0_118,81,iso-8859-1,18,Apache/2.2.15 (CentOS),213,America,OK,07 July 1999,24 May 2016,11,6,1,2088,15,15,2388,7459,15,4,0
+M0_2311,81,us-ascii,16,Microsoft-HTTPAPI/2.0,324,America,UT,05 February 1999,16 June 2014,2,2,1,276,3,2,276,184,2,0,0
+M0_469,81,UTF-8,15,Apache,NaN,NaN,NaN,NaN,NaN,53,13,11,6257,64,61,6891,30118,61,8,0
+M0_519,81,us-ascii,13,Microsoft-HTTPAPI/2.0,324,America,NY,25 February 2005,27 December 2015,16,1,2,2074,27,22,2540,10646,22,6,0
+M0_649,81,UTF-8,11,cloudflare-nginx,NaN,America,WA,07 April 2011,11 March 2017,23,2,6,2362,23,31,3008,5472,31,8,0
+M0_712,81,UTF-8,16,cloudflare-nginx,NaN,America,FL,12 February 1999,14 December 2016,15,0,3,1894,20,19,2198,7062,19,4,0
+M0_720,81,ISO-8859-1,15,Apache,NaN,America,Illinois,22 August 2003,26 December 2012,17,0,3,2281,22,21,2581,29619,21,4,0
+M0_83,81,ISO-8859-1,12,Apache,4897,America,Florida,20 August 2000,25 February 2017,47,3,8,3718,47,51,4064,44519,51,4,0
+M4_69,82,utf-8,17,Microsoft-IIS/6.0,NaN,America,California,18 June 2003,14 June 2016,0,0,0,0,2,0,0,124,0,0,1
+M4_72,82,utf-8,17,Microsoft-IIS/6.0,NaN,America,California,18 June 2003,14 June 2016,0,0,0,0,3,0,0,186,0,0,1
+M4_73,82,utf-8,17,Microsoft-IIS/6.0,NaN,America,California,18 June 2003,14 June 2016,0,0,0,0,2,0,0,124,0,0,1
+M4_74,82,utf-8,17,Microsoft-IIS/6.0,NaN,America,California,18 June 2003,14 June 2016,0,0,0,0,2,0,0,124,0,0,1
+M0_2051,82,ISO-8859-1,13,nginx/1.10.1,8521,Panama,PANAMA,03 March 2004,31 March 2017,8,3,6,696,9,8,696,574,8,0,0
+M0_2060,82,us-ascii,17,Microsoft-HTTPAPI/2.0,324,America,WA,10 November 1994,08 October 2014,5,4,2,498,6,5,498,376,5,0,0
+M0_2267,82,UTF-8,14,NaN,NaN,NaN,NaN,18 October 2000,29 January 2017,5,3,2,498,7,5,498,438,5,0,0
+M0_228,82,ISO-8859-1,17,Apache/2.4.7 (Ubuntu),9101,NaN,NaN,11 October 2005,10 December 2016,20,6,5,2638,25,28,3208,6137,28,8,0
+M0_284,82,UTF-8,17,cloudflare-nginx,NaN,America,FL,09 July 1995,25 May 2016,3,0,1,488,6,5,632,482,5,2,0
+M0_382,82,us-ascii,13,Microsoft-HTTPAPI/2.0,324,America,Florida,02 October 2007,20 July 2014,31,26,6,3286,45,37,3776,28351,37,6,0
+M0_77,82,UTF-8,18,GSE,53520,America,CA,31 July 2000,29 June 2016,45,2,5,3565,49,49,3903,58127,49,4,0
+M0_808,82,ISO-8859-1,12,Apache,NaN,America,Florida,22 September 2000,02 September 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_97,82,UTF-8,14,cloudflare-nginx,NaN,NaN,NaN,17 April 1996,18 April 2017,14,9,2,2200,18,20,2682,6009,20,6,0
+M4_64,83,utf-8,17,Microsoft-IIS/6.0,NaN,America,California,18 June 2003,14 June 2016,1,1,1,90,5,1,90,416,1,0,1
+M0_1035,83,UTF-8,17,Server,NaN,America,NV,01 November 1994,30 April 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_202,83,UTF-8,11,Apache,NaN,Japan,Fukuoka,15 September 2013,04 August 2016,11,4,4,1278,16,17,1750,1874,17,6,0
+M0_2096,83,UTF-8,16,nginx/1.9.13,NaN,America,WA,25 November 1995,09 October 2015,7,3,3,630,5,7,630,310,7,0,0
+M0_210,83,UTF-8,21,nginx/1.6.2,2034,America,CO,02 April 2009,21 March 2017,22,8,7,1628,25,26,1944,14894,26,4,0
+M0_232,83,utf-8,14,cloudflare-nginx,NaN,NaN,NaN,14 October 1999,20 November 2013,24,10,4,3705,32,32,4319,11756,32,8,0
+M0_423,83,UTF-8,15,GSE,34930,America,CA,31 July 2000,29 June 2016,29,0,3,2523,34,33,2881,44807,33,4,0
+M0_488,83,ISO-8859-1,19,Apache/2.2.22 (Debian),5866,AE,Dubai,10 December 2010,11 October 2016,9,0,3,1165,16,15,1673,1673,15,6,0
+M0_752,83,ISO-8859-1,13,nginx,162,America,Minnesota,05 November 1996,29 August 2016,24,3,7,2676,20,28,3000,3594,28,4,0
+M0_806,83,UTF-8,17,Apache-Coyote/1.1,46886,NaN,NaN,16 September 2004,28 March 2016,0,0,0,0,0,0,0,0,0,0,0
+A0_63,84,UTF-8,15,Apache/2.2.22 (Debian),11323,America,Washington,08 March 2003,09 March 2017,25,0,5,2262,27,29,2588,33205,29,4,1
+M0_1071,84,UTF-8,17,Apache,12773,America,UTAH,12 August 2005,12 August 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1385,84,ISO-8859-1,12,Apache/2.2.15 (CentOS),23412,America,Arizona,09 February 2005,02 February 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1394,84,utf-8,15,Apache,8326,America,Texas,23 November 1998,24 April 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_219,84,ISO-8859-1,14,NaN,NaN,America,CA,29 March 1997,29 November 2016,67,17,5,13331,70,73,13771,67914,73,6,0
+M0_2225,84,UTF-8,14,GSE,11243,America,CA,31 July 2000,29 June 2016,11,11,7,834,13,11,834,894,11,0,0
+A0_61,85,UTF-8,13,Apache/2.2.22 (Debian),8364,America,Washington,14 March 2004,15 March 2017,37,0,8,3630,40,43,4118,34113,43,6,1
+M0_1048,85,ISO-8859-1,18,NaN,NaN,America,NJ,27 June 1996,01 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_2083,85,UTF-8,12,cloudflare-nginx,NaN,America,WA,07 April 2011,11 March 2017,7,7,3,618,9,7,618,562,7,0,0
+M0_2256,85,UTF-8,15,GSE,27976,America,CA,31 July 2000,29 June 2016,7,7,3,582,9,7,582,632,7,0,0
+M0_1261,86,UTF-8,15,GSE,NaN,America,CA,31 July 2000,29 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1352,86,UTF-8,17,Apache,58,America,MI,19 May 2016,26 September 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_2075,86,utf-8,16,Apache/2.4.25,3500,America,Arizona,24 May 2006,06 October 2016,30,8,9,2296,11,30,2296,688,30,0,0
+M0_2196,86,utf-8,17,NaN,959,America,WA,12 February 2000,16 August 2016,10,9,8,804,13,10,804,826,10,0,0
+M0_340,86,ISO-8859-1,13,Roxen/5.4.98-r2,13747,America,IL,03 May 2004,04 May 2016,20,0,2,2487,18,26,2979,2587,26,6,0
+M0_430,86,UTF-8,16,GSE,14291,America,CA,31 July 2000,29 June 2016,67,4,10,6257,53,71,6619,51527,71,4,0
+M0_595,86,utf-8,15,cloudflare-nginx,NaN,America,California,15 December 1998,25 April 2016,10,0,2,2202,15,14,2490,3304,14,4,0
+M0_958,86,UTF-8,16,Apache/2.2.15 (CentOS),15108,America,CA,15 April 2002,13 April 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1069,87,UTF-8,17,nginx,NaN,America,California,08 May 2001,19 April 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_122,87,UTF-8,13,mw2180.codfw.wmnet,15187,America,CA,13 January 2001,12 December 2015,26,22,1,4523,34,32,4979,26400,32,6,0
+M0_2181,87,UTF-8,18,nginx,NaN,America,FL,05 February 2009,16 January 2017,8,5,5,660,10,8,660,661,8,0,0
+M0_407,87,utf-8,15,Microsoft-IIS/7.5,9083,America,va,29 April 1994,30 August 2013,14,0,5,1482,18,20,1914,8797,20,6,0
+M0_508,87,us-ascii,14,Microsoft-HTTPAPI/2.0,324,America,KS,07 July 1997,05 July 2016,17,6,10,1457,20,21,1781,2112,21,4,0
+M0_589,87,UTF-8,16,nginx,30824,America,CA,05 March 1994,02 February 2017,17,9,2,3124,21,23,3564,9563,23,6,0
+M0_892,87,UTF-8,16,GSE,48831,America,CA,31 July 2000,29 June 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1006,88,us-ascii,14,Microsoft-HTTPAPI/2.0,257,America,NY,22 May 1995,21 April 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_2022,88,iso-8859-1,15,NaN,411,America,WV,23 April 1996,26 March 2017,12,4,9,936,14,12,936,904,12,0,0
+M0_2306,88,utf-8,17,Microsoft-IIS/7.5,9084,America,va,29 April 1994,30 August 2013,8,8,1,1008,8,8,1008,486,8,0,0
+M0_2318,88,UTF-8,17,cloudflare-nginx,NaN,Canada,ON,01 August 2007,03 March 2016,4,3,2,432,6,4,432,372,4,0,0
+M0_378,88,UTF-8,16,nginx/1.11.10,NaN,NaN,NaN,21 May 1997,26 July 2016,30,0,4,3207,50,34,3527,48750,34,4,0
+M0_42,88,UTF-8,15,Pizza/pepperoni,13776,America,WA,16 November 1994,28 October 2015,20,2,8,2133,26,24,2437,17337,24,4,0
+M0_494,88,UTF-8,15,Apache,NaN,NaN,NaN,25 March 2010,25 March 2017,11,3,4,1346,16,15,1670,1725,15,4,0
+M0_591,88,utf-8,13,Apache,33799,America,NY,27 January 1995,24 January 2017,84,32,4,7350,110,90,7830,143113,90,6,0
+M0_785,88,utf-8,16,Microsoft-IIS/7.5,9083,America,va,29 April 1994,30 August 2013,0,0,0,0,0,0,0,0,0,0,0
+M4_27,89,UTF-8,18,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M0_2017,89,utf-8,12,NaN,30193,America,GA,09 August 1994,23 June 2016,25,13,8,1818,7,25,1818,438,25,0,0
+M0_2039,89,UTF-8,20,Apache/2.2.14 (Ubuntu),NaN,America,CA,26 March 2002,23 February 2017,4,3,2,432,4,4,432,244,4,0,0
+M0_2117,89,UTF-8,16,cloudflare-nginx,NaN,America,New York,26 April 1996,20 December 2013,9,3,4,738,5,9,738,306,9,0,0
+M0_2159,89,us-ascii,13,Microsoft-HTTPAPI/2.0,324,America,CA,19 May 2003,10 October 2016,6,2,5,516,4,6,516,246,6,0,0
+M0_2175,89,utf-8,14,Microsoft-IIS/8.5,246324,NaN,NaN,NaN,NaN,7,6,2,786,7,7,786,432,7,0,0
+M0_2178,89,utf-8,16,cloudflare-nginx,0,America,IL,12 December 1990,08 June 2015,6,3,2,564,4,6,564,244,6,0,0
+M0_336,89,UTF-8,17,GSE,37836,America,CA,31 July 2000,29 June 2016,55,6,14,4155,53,59,4533,45079,59,4,0
+M0_672,89,utf-8,15,Apache,19856,America,NY,18 January 1994,21 October 2016,73,58,6,6789,89,79,7245,110553,79,6,0
+M0_768,89,utf-8,20,ebay server,NaN,America,CA,04 August 1995,26 January 2017,25,0,8,2200,30,29,2480,28829,29,4,0
+M0_1004,90,utf-8,15,nginx/1.6.2,NaN,NaN,NaN,20 October 2000,28 April 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_2255,90,UTF-8,16,nginx/1.9.13,40605,America,TX,02 July 1999,09 March 2015,7,4,4,630,9,7,630,568,7,0,0
+M0_2273,90,iso-8859-1,17,Apache,392,America,New York,17 March 2009,07 April 2016,7,3,3,606,4,7,606,244,7,0,0
+M0_57,90,UTF-8,17,nginx/0.8.55,NaN,Canada,ON,27 May 2006,08 August 2015,17,3,4,2162,24,23,2634,14374,23,6,0
+M0_621,90,utf-8,16,nginx,19793,America,IL,25 July 1995,22 March 2017,38,1,9,3432,48,42,3754,64807,42,4,0
+M0_767,90,utf-8,17,ebay server,NaN,America,CA,04 August 1995,26 January 2017,7,0,5,804,2,8,804,124,8,0,0
+M0_960,90,UTF-8,16,ebay server,NaN,America,CA,04 August 1995,26 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_533,91,UTF-8,17,GSE,38155,America,CA,31 July 2000,29 June 2016,39,0,2,3223,41,43,3597,42120,43,4,0
+M0_645,91,UTF-8,14,Apache,9406,IE,CO. DUBLIN,11 August 2009,04 March 2017,13,3,6,1591,15,17,1931,1936,17,4,0
+M0_821,91,UTF-8,19,Apache/2.2.22,20,Philippines,Metro Manila,24 March 2005,13 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1093,92,UTF-8,19,Apache/2.4.7 (Ubuntu),5610,America,MI,08 July 1996,27 September 2012,0,0,0,0,0,0,0,0,0,0,0
+M0_1324,92,UTF-8,18,Apache,30285,America,NY,29 March 1994,26 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_475,92,utf-8,17,Microsoft-IIS/7.5,9084,America,va,29 April 1994,30 August 2013,16,1,6,1607,18,22,2055,1690,22,6,0
+M0_566,92,utf-8,18,Apache,11363,NaN,NaN,NaN,NaN,47,10,6,4576,52,55,5282,49426,55,8,0
+M0_629,92,utf-8,15,NaN,37687,America,FL,01 February 1994,28 April 2016,11,0,3,1358,16,17,1798,9432,17,6,0
+M0_826,92,utf-8,16,NaN,38483,America,FL,01 February 1994,28 April 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_901,92,ISO-8859-1,18,NaN,NaN,America,CA,29 March 1997,29 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M4_63,93,utf-8,19,Microsoft-IIS/6.0,NaN,America,California,18 June 2003,14 June 2016,1,1,1,90,4,1,90,354,1,0,1
+M0_139,93,ISO-8859-1,19,Microsoft-IIS/7.5,16479,America,va,29 April 1994,30 August 2013,41,28,6,5321,45,49,5935,24126,49,8,0
+A0_168,94,UTF-8,20,Apache,58,America,Massachusetts,02 January 2016,13 February 2017,11,0,3,1260,17,19,1850,2399,19,8,1
+M4_65,94,utf-8,19,Microsoft-IIS/6.0,NaN,America,California,18 June 2003,14 June 2016,1,1,1,90,4,1,90,354,1,0,1
+M4_68,94,utf-8,19,Microsoft-IIS/6.0,NaN,America,California,18 June 2003,14 June 2016,0,0,0,0,3,0,0,186,0,0,1
+M0_668,94,UTF-8,19,Apache/2.4.7 (Ubuntu),8404,America,Massachusetts,24 February 2008,25 February 2017,20,8,6,2976,23,26,3476,8187,26,6,0
+M4_66,95,utf-8,19,Microsoft-IIS/6.0,NaN,America,California,18 June 2003,14 June 2016,1,1,1,90,4,1,90,354,1,0,1
+M4_67,95,utf-8,19,Microsoft-IIS/6.0,NaN,America,California,18 June 2003,14 June 2016,1,1,1,90,5,1,90,416,1,0,1
+M0_1183,95,utf-8,14,Microsoft-IIS/8.5,6783,GB,London,02 December 1997,16 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_300,97,UTF-8,19,Apache,7778,NaN,NaN,NaN,NaN,19,3,4,1948,26,23,2280,12186,23,4,0
+M0_673,97,us-ascii,15,Microsoft-HTTPAPI/2.0,324,America,PA,19 April 2003,26 September 2013,40,32,7,5024,37,46,5500,15154,46,6,0
+M0_1208,98,us-ascii,19,Microsoft-HTTPAPI/2.0,324,America,UT,05 February 1999,16 June 2014,0,0,0,0,0,0,0,0,0,0,0
+M0_2063,98,UTF-8,16,Microsoft-IIS/7.5,NaN,NaN,NaN,20 December 1999,21 October 2016,16,7,10,1176,16,16,1176,1030,16,0,0
+M0_2216,98,UTF-8,18,nginx,NaN,KG,KG,29 December 2007,14 November 2016,6,3,2,564,5,6,564,306,6,0,0
+M0_243,98,UTF-8,18,nginx,NaN,America,nj,04 March 1996,01 February 2017,44,17,11,5171,46,52,5811,36825,52,8,0
+M0_355,98,utf-8,16,nginx,6730,America,CA,06 August 2002,05 August 2013,22,10,9,2784,30,28,3312,14114,28,6,0
+M0_693,98,UTF-8,18,nginx,NaN,KG,KG,29 December 2007,14 November 2016,21,3,6,2038,14,25,2354,1507,25,4,0
+M4_17,99,UTF-8,20,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M4_7,99,UTF-8,20,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,3,0,0,186,0,0,1
+M0_1134,99,ISO-8859-1,14,Apache/2.4.7 (Ubuntu),2743,America,IL,10 January 2000,08 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_2234,99,UTF-8,16,Apache,12588,America,FLORIDA,17 May 2007,17 May 2016,4,3,2,432,5,4,432,310,4,0,0
+M0_334,99,ISO-8859-1,22,Microsoft-IIS/7.5,2346,SC,Other,10 August 2016,13 August 2016,19,5,5,2137,29,23,2425,17922,23,4,0
+M0_374,99,utf-8,15,Microsoft-IIS/8.5,NaN,Canada,ON,23 December 1995,08 February 2017,20,2,6,2010,24,24,2334,13434,24,4,0
+M4_1,100,UTF-8,20,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,2,1,2,132,4,2,132,256,2,0,1
+M4_10,100,UTF-8,20,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,3,0,0,186,0,0,1
+M4_11,100,UTF-8,20,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,3,0,0,186,0,0,1
+M4_12,100,UTF-8,20,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,3,0,0,186,0,0,1
+M4_13,100,UTF-8,20,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,3,0,0,186,0,0,1
+M4_14,100,UTF-8,20,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,3,0,0,186,0,0,1
+M4_15,100,UTF-8,20,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M4_16,100,UTF-8,20,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M4_18,100,UTF-8,20,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M4_19,100,UTF-8,20,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M4_2,100,UTF-8,20,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,1,0,1,66,3,1,66,190,1,0,1
+M4_20,100,UTF-8,20,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M4_21,100,UTF-8,20,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M4_22,100,UTF-8,20,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,3,0,0,186,0,0,1
+M4_23,100,UTF-8,20,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,3,0,0,186,0,0,1
+M4_24,100,UTF-8,20,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,3,0,0,186,0,0,1
+M4_25,100,UTF-8,20,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M4_26,100,UTF-8,20,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M4_3,100,UTF-8,20,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,1,0,1,66,3,1,66,190,1,0,1
+M4_4,100,UTF-8,20,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,1,0,1,66,3,1,66,190,1,0,1
+M4_5,100,UTF-8,20,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,1,0,1,66,3,1,66,190,1,0,1
+M4_6,100,UTF-8,20,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,1,0,1,66,3,1,66,190,1,0,1
+M4_8,100,UTF-8,20,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,3,0,0,186,0,0,1
+M4_9,100,UTF-8,20,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,3,0,0,186,0,0,1
+M0_187,100,utf-8,17,Apache,14060,NaN,NaN,27 September 2000,26 July 2016,35,9,12,2820,28,43,3428,3254,43,8,0
+M0_2042,100,utf-8,15,nginx/1.4.6 (Ubuntu),NaN,Canada,British Columbia,05 November 2003,06 November 2016,8,3,5,660,13,8,660,798,8,0,0
+M0_490,100,UTF-8,19,nginx/1.12.0,5272,Canada,QUEBEC,03 January 2009,03 January 2017,27,0,2,3458,27,29,3622,55407,29,2,0
+M0_1058,101,ISO-8859-1,21,nginx,NaN,United Kingdom,NaN,22 November 1995,22 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_193,101,utf-8,20,nginx,NaN,America,California,24 September 2006,26 August 2015,45,40,4,4721,74,49,5009,82395,49,4,0
+M0_214,101,utf-8,20,Microsoft-IIS/8.5,4678,America,DE,26 June 2007,24 April 2017,32,9,6,3327,32,38,3769,10505,38,6,0
+M0_2170,101,utf-8,16,Microsoft-IIS/8.5,NaN,Canada,ON,23 December 1995,08 February 2017,5,2,3,474,3,5,474,184,5,0,0
+M0_540,101,UTF-8,20,GSE,11833,America,CA,31 July 2000,29 June 2016,62,4,3,7415,72,68,7975,93298,68,6,0
+M0_574,101,utf-8,18,nginx,27131,America,New York,01 March 1994,19 February 2017,61,51,6,6027,76,69,6601,124751,69,8,0
+M0_763,101,UTF-8,19,Apache,54473,America,FL,13 December 1993,02 July 2015,47,0,2,4104,84,51,4380,131895,51,4,0
+M0_1253,95,UTF-8,19,nginx,NaN,America,CA,03 March 2000,12 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_185,95,ISO-8859-1,19,nginx,162,NaN,NaN,17 October 2008,24 March 2017,12,2,3,1316,22,14,1468,16475,14,2,0
+M0_2094,95,us-ascii,15,Microsoft-HTTPAPI/2.0,324,NaN,NaN,NaN,NaN,8,7,4,636,9,8,636,630,8,0,0
+M0_2209,95,ISO-8859-1,19,Varnish,9,America,DC,16 February 2010,11 February 2017,5,3,3,486,5,5,486,306,5,0,0
+M0_1263,96,utf-8,18,nginx/1.8.0,55367,America,va,10 May 1996,09 April 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_805,96,ISO-8859-1,15,Varnish,9,America,DC,27 January 2007,22 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_819,96,utf-8,19,nginx,NaN,America,California,24 September 2006,26 August 2015,0,0,0,0,0,0,0,0,0,0,0
+A0_172,97,UTF-8,15,Apache/2.2.22 (Debian),8755,UY,Montevideo,08 June 2009,30 May 2016,3,0,2,198,6,3,198,384,3,0,1
+A0_174,97,UTF-8,15,Apache/2.2.22 (Debian),8762,UY,Montevideo,08 June 2009,30 May 2016,3,0,2,198,6,3,198,384,3,0,1
+M0_255,97,UTF-8,17,cloudflare-nginx,NaN,America,LA,20 October 2003,15 January 2015,43,0,2,3252,47,47,3564,60076,47,4,0
+M0_772,101,UTF-8,15,Apache,7503,Canada,ON,14 December 2009,13 December 2016,4,2,2,276,5,4,276,416,4,NA,0
+M0_1156,102,UTF-8,16,Microsoft-IIS/7.5,NaN,Canada,ON,20 December 1999,21 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1280,102,UTF-8,12,nginx/1.4.6 (Ubuntu),NaN,America,CA,14 December 1995,06 December 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1377,102,ISO-8859-1,20,Varnish,9,America,DC,16 February 2010,11 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_653,102,ISO-8859-1,17,Apache,NaN,America,NY,01 April 2008,02 April 2017,48,11,11,3684,53,54,4164,47558,54,6,0
+M0_922,102,utf-8,18,NaN,24702,America,FL,01 February 1994,28 April 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1064,103,utf-8,21,Apache,15591,America,Washington,28 November 1994,21 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1199,103,utf-8,17,Apache-Coyote/1.1,15666,America,OH,30 October 2002,15 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1292,103,utf-8,17,Apache/2.2.10 (Linux/SUSE),NaN,BE,NaN,16 January 2001,07 April 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_1328,103,UTF-8,16,cloudflare-nginx,NaN,America,AZ,09 December 1998,24 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1426,103,utf-8,20,Apache/2.2.15 (CentOS),10843,America,California,06 September 2005,13 August 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1251,104,ISO-8859-1,17,Varnish,9,America,DC,07 November 2003,03 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_2058,104,us-ascii,16,Microsoft-HTTPAPI/2.0,257,America,NY,18 March 1999,15 February 2016,4,3,2,432,5,4,432,310,4,0,0
+M0_2165,104,utf-8,18,nginx/1.4.6 (Ubuntu),NaN,America,WA,08 February 2005,05 March 2017,3,3,1,366,4,3,366,244,3,0,0
+M0_613,104,UTF-8,20,NaN,NaN,America,IL,08 December 2016,15 February 2017,14,3,11,1260,17,18,1576,1646,18,4,0
+M0_906,104,UTF-8,17,nginx/1.12.0,NaN,America,UT,21 November 1996,22 October 2016,0,0,0,0,0,0,0,0,0,0,0
+A0_113,105,ISO-8859-1,20,Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1e-fips mod_bwlimited/1.4,11230,NaN,NaN,NaN,NaN,22,0,3,2790,26,26,3104,23294,26,4,1
+M0_114,105,UTF-8,21,Apache,26857,America,MO,03 September 1996,08 December 2016,39,3,4,3238,44,43,3550,26870,43,4,0
+M0_2102,105,utf-8,17,Apache,14060,NaN,NaN,27 September 2000,26 July 2016,18,10,9,1212,11,18,1212,682,18,0,0
+M0_935,105,utf-8,22,Apache,NaN,America,NY,29 September 1993,24 September 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1043,106,utf-8,21,Apache,NaN,America,NY,18 January 1994,21 October 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1281,106,utf-8,18,NaN,65670,America,IL,19 December 1995,08 June 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_2249,106,UTF-8,18,Apache,75176,America,MA,23 March 1999,19 March 2016,7,5,5,630,8,7,630,508,7,0,0
+M0_313,106,us-ascii,19,Microsoft-HTTPAPI/2.0,324,America,CO,27 January 2011,05 January 2017,18,13,4,3381,22,24,3851,14656,24,6,0
+M0_526,106,UTF-8,19,Apache/2.4.7 (Ubuntu),15058,America,NY,29 March 1994,26 March 2017,54,3,5,5078,61,60,5512,68512,60,6,0
+M0_925,106,UTF-8,22,nginx/1.8.0,6298,America,CA,13 January 1996,11 December 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_2236,107,UTF-8,23,Apache,25886,America,NY,18 January 1994,21 October 2016,6,3,2,564,4,6,564,244,6,0,0
+M0_1302,108,ISO-8859-1,21,nginx,162,America,CA,28 February 1994,16 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_301,108,utf-8,23,Microsoft-IIS/7.5,NaN,America,NJ,26 June 1996,22 May 2015,9,0,3,1481,12,13,1773,1327,13,4,0
+M0_512,108,utf-8,18,nginx,NaN,America,VA,16 May 1995,14 January 2017,28,20,1,4422,34,36,4982,44454,36,8,0
+M0_851,109,ISO-8859-1,20,Varnish,9,America,DC,16 July 2007,12 July 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_872,109,utf-8,18,nginx/1.7.12,33481,America,FL,01 February 1994,28 April 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1034,110,UTF-8,21,Apache,42290,NaN,NaN,22 May 2009,07 May 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_46,110,ISO-8859-1,15,Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 PHP/5.3.6,22264,America,Florida,10 March 2006,14 February 2016,8,4,3,822,13,12,1178,1527,12,4,0
+M0_188,111,UTF-8,22,Apache/2,12027,Panama,PANAMA,18 December 2006,25 November 2016,13,1,7,1524,12,17,1844,1603,17,4,0
+M0_466,112,UTF-8,19,Apache,NaN,NaN,NaN,08 April 2009,09 April 2017,6,1,4,728,17,8,888,1180,8,2,0
+M0_877,112,ISO-8859-1,19,nginx,162,America,California,10 September 1998,17 February 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1120,113,UTF-8,18,Apache,39517,America,MA,23 March 1999,19 March 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_2018,113,ISO-8859-1,21,Boston.com Frontend,16230,America,MA,26 June 1995,13 November 2013,7,6,3,606,9,7,606,595,7,0,0
+M0_1135,114,ISO-8859-1,17,nginx,162,NaN,NaN,28 December 2007,21 February 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_2092,114,utf-8,23,cloudflare-nginx,NaN,America,DE,28 July 1999,10 September 2016,4,2,3,396,4,4,396,246,4,0,0
+M0_2252,114,UTF-8,19,cloudflare-nginx,NaN,Canada,bc,28 February 2002,29 November 2014,15,4,7,1062,11,15,1062,702,15,0,0
+M0_690,114,ISO-8859-1,18,NaN,36816,Netherlands,Noord-Holland,08 February 1999,13 July 2014,59,47,11,6945,71,71,7895,62932,71,12,0
+M0_1322,115,UTF-8,18,Jetty(9.0.z-SNAPSHOT),NaN,America,NY,12 March 1999,16 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_135,115,UTF-8,20,Apache,10315,America,NY,18 January 1994,21 October 2016,13,3,3,1984,18,19,2484,2183,19,6,0
+M0_411,115,ISO-8859-1,19,nginx,NaN,America,NY,16 June 2000,11 August 2015,47,10,10,4284,41,53,4772,28130,53,6,0
+M0_1014,116,ISO-8859-1,19,NaN,NaN,France,Paris,27 February 1995,28 January 2017,0,0,0,0,0,0,0,0,0,0,0
+M0_257,116,us-ascii,18,Microsoft-HTTPAPI/2.0,324,Canada,ON,13 February 1999,10 May 2016,24,0,4,2314,38,28,2616,43123,28,4,0
+M0_605,116,UTF-8,18,Apache,NaN,America,MO,12 June 2001,10 June 2016,23,17,8,1970,26,27,2262,2183,27,4,0
+M0_166,117,UTF-8,22,nginx,NaN,NaN,NaN,23 May 1995,21 May 2015,21,6,5,2278,25,27,2758,2847,27,6,0
+M0_452,117,UTF-8,19,Apache/2.2.15 (CentOS),6804,NaN,NaN,16 January 2008,02 March 2017,20,0,1,4317,22,24,4637,21620,24,4,0
+M0_35,118,UTF-8,28,nginx,NaN,America,CA,03 March 2000,12 January 2017,10,2,6,970,11,14,1298,1484,14,4,0
+M0_561,118,utf-8,23,ebay server,NaN,America,CA,04 August 1995,26 January 2017,30,3,6,2624,33,34,2904,30904,34,4,0
+M0_398,120,us-ascii,20,Microsoft-HTTPAPI/2.0,324,America,NJ,31 July 1997,12 November 2015,73,0,3,5466,78,77,5774,97306,77,4,0
+M0_529,120,UTF-8,20,Apache,100163,America,MA,26 June 1995,13 November 2013,15,2,6,1692,18,19,2012,1627,19,4,0
+M4_29,122,UTF-8,22,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M4_38,122,UTF-8,23,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M0_2149,122,UTF-8,23,My Arse,6121,America,Arizona,04 March 2006,14 January 2012,23,18,8,2126,20,23,2126,1272,23,0,0
+M0_425,122,ISO-8859-1,21,Apache,892,NaN,NaN,01 November 2000,27 January 2017,21,2,7,3425,16,23,3591,12391,23,2,0
+M4_31,123,UTF-8,24,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,3,0,0,186,0,0,1
+M4_42,123,UTF-8,25,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M0_1015,123,UTF-8,18,Apache,73927,America,MA,23 March 1999,19 March 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_143,123,UTF-8,24,nginx,NaN,America,NJ,26 May 1994,21 May 2016,95,89,9,7556,157,99,7848,244958,99,4,0
+M0_422,123,UTF-8,21,Apache,20,America,CA,18 December 2008,19 December 2016,11,0,2,1344,13,15,1652,1927,15,4,0
+M0_54,123,utf-8,21,Apache/2.4.7 (Ubuntu),5268,NaN,NaN,31 August 2003,31 March 2016,20,0,4,1675,6,22,1823,456,22,2,0
+M4_53,124,UTF-8,23,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,3,0,0,186,0,0,1
+M4_59,124,UTF-8,24,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M0_103,125,utf-8,20,nginx,NaN,America,California,24 September 2006,26 August 2015,46,37,6,4871,56,50,5159,81223,50,4,0
+M4_33,126,UTF-8,25,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M4_36,126,UTF-8,24,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M4_51,126,UTF-8,23,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M4_58,126,UTF-8,25,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,3,0,0,186,0,0,1
+M0_145,126,utf-8,22,IdeaWebServer/v0.80,NaN,America,IL,03 June 1997,01 June 2016,7,0,2,985,12,13,1433,1496,13,6,0
+M0_2080,126,utf-8,22,Microsoft-IIS/7.5,9032,NaN,NaN,29 April 1999,29 March 2017,2,2,1,356,4,2,356,246,2,0,0
+M0_719,126,utf-8,19,Apache/2.4.17 (Unix) OpenSSL/1.0.1e-fips PHP/5.6.19,6244,China,Zug,22 June 1998,20 May 2016,10,0,4,1368,15,16,1850,3046,16,6,0
+M0_2226,128,UTF-8,25,Apache,29840,United Kingdom,NaN,18 April 1995,14 November 2016,4,3,2,432,7,4,432,432,4,0,0
+M4_37,129,UTF-8,25,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M0_2072,129,UTF-8,18,Apache,52552,America,MA,23 March 1999,19 March 2016,9,3,5,702,4,9,702,244,9,0,0
+A0_118,131,ISO-8859-1,36,cloudflare-nginx,NaN,America,WA,11 January 1999,04 April 2017,16,5,6,1020,8,16,1020,508,16,0,1
+M4_52,132,UTF-8,26,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,3,0,0,186,0,0,1
+M4_60,132,UTF-8,27,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,1,1,1,90,4,1,90,354,1,0,1
+M4_55,134,UTF-8,24,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M4_30,135,UTF-8,26,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,3,0,0,186,0,0,1
+M4_44,135,UTF-8,27,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M4_46,135,UTF-8,26,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,3,0,0,186,0,0,1
+M0_834,136,utf-8,43,NaN,649263,NaN,NaN,14 December 1999,27 May 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_1215,137,iso-8859-1,25,Apache/2,345,America,Arizona,28 January 2004,08 December 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_84,139,utf-8,21,Apache/2.2.15 (Red Hat),35170,NaN,NaN,NaN,NaN,47,3,8,3718,47,51,4064,44519,51,4,0
+M4_50,140,UTF-8,26,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,3,0,0,186,0,0,1
+M4_34,141,UTF-8,27,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,3,0,0,186,0,0,1
+M0_583,141,UTF-8,24,ATS,NaN,America,CA,18 January 1995,26 August 2015,31,7,6,3925,35,39,4535,21489,39,8,0
+M0_744,141,UTF-8,30,openresty,NaN,America,Arizona,28 March 2007,02 April 2016,14,2,6,1649,19,16,1789,14395,16,2,0
+M0_531,142,ISO-8859-1,22,Apache/2.2.15 (CentOS) DAV/2 mod_ssl/2.2.15 OpenSSL/1.0.1e-fips PHP/5.3.3,3929,America,IL,27 July 1995,08 June 2015,70,2,6,5398,68,74,5740,137144,74,4,0
+M4_32,143,UTF-8,26,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M4_47,143,UTF-8,27,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M0_2233,143,ISO-8859-1,22,AkamaiGHost,374,America,DC,15 June 2006,22 June 2016,6,5,2,564,7,6,564,442,6,0,0
+M0_412,144,utf-8,21,Apache,14060,NaN,NaN,27 September 2000,26 July 2016,21,0,4,2854,17,25,3146,3490,25,4,0
+M4_28,145,UTF-8,26,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M4_40,145,UTF-8,27,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,3,0,0,186,0,0,1
+M4_56,145,UTF-8,29,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M0_216,145,UTF-8,31,NaN,38361,America,NY,10 August 1995,05 August 2016,10,3,3,1354,19,18,2010,2517,18,8,0
+M4_49,146,UTF-8,27,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,3,0,0,186,0,0,1
+M4_57,146,UTF-8,28,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M0_221,146,UTF-8,24,nginx,11833,America,Arizona,13 July 1998,28 March 2017,29,20,8,4167,33,33,4499,3181,33,4,0
+M0_1361,149,ISO-8859-1,23,NaN,6748,Canada,Quebec,08 January 1997,02 June 2009,0,0,0,0,0,0,0,0,0,0,0
+M4_35,150,UTF-8,26,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,3,0,0,186,0,0,1
+M4_54,151,UTF-8,29,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,3,0,0,186,0,0,1
+M0_755,154,UTF-8,21,NaN,11104,America,UT,29 July 1998,17 March 2016,33,10,8,3764,23,41,4412,7356,41,8,0
+M4_62,156,UTF-8,31,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,1,1,1,90,5,1,90,416,1,0,1
+M0_62,160,UTF-8,29,NaN,36829,America,CA,14 August 1997,14 June 2016,19,3,7,2402,22,25,2900,4491,25,6,0
+M0_2237,161,iso-8859-1,23,Apache/2.4.18 (Ubuntu),417,NaN,NaN,23 November 2010,20 November 2015,7,7,2,582,11,7,582,752,7,0,0
+M0_2099,169,utf-8,25,cloudflare-nginx,NaN,BS,New Providence,20 December 2008,11 December 2015,6,3,4,552,9,6,552,564,6,0,0
+M4_43,170,UTF-8,17,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M4_61,173,UTF-8,34,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,1,1,1,90,5,1,90,416,1,0,1
+M4_39,178,UTF-8,16,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,3,0,0,186,0,0,1
+M0_156,183,ISO-8859-1,29,Microsoft-IIS/7.5; litigation_essentials.lexisnexis.com  9999,4890,America,NY,26 June 1997,18 November 2014,22,2,7,2062,26,30,2742,8161,30,8,0
+M4_45,194,UTF-8,17,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,3,0,0,186,0,0,1
+M4_48,194,UTF-8,16,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,3,0,0,186,0,0,1
+M4_41,198,UTF-8,17,Apache,NaN,ES,Barcelona,17 September 2008,02 September 2016,0,0,0,0,2,0,0,124,0,0,1
+M0_162,201,utf-8,34,Apache/2.2.16 (Debian),8904,America,FL,15 February 1999,15 July 2015,83,2,6,6631,89,87,6945,132181,87,4,0
+M0_1152,234,ISO-8859-1,34,cloudflare-nginx,NaN,America,CA,01 April 1998,09 December 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_676,249,utf-8,40,Microsoft-IIS/8.5,24435,America,Wisconsin,14 November 2008,20 November 2013,19,6,11,2314,28,25,2776,3039,25,6,0
+A0_109,16,iso-8859-1,7,nginx,263,NaN,NaN,10 October 2015,NaN,7,0,2,700,10,9,832,1153,9,2,1
+M0_2314,16,UTF-8,6,Apache/2.4.10,15087,NaN,NaN,NaN,NaN,17,7,4,1230,19,17,1230,1265,17,0,0
+M0_911,16,us-ascii,6,Microsoft-HTTPAPI/2.0,324,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0
+M0_113,17,ISO-8859-1,6,nginx,162,America,AK,07 October 1997,12 September 2013,31,22,3,3812,37,39,4380,18784,39,8,0
+M0_403,17,UTF-8,6,NaN,124140,America,TX,12 May 1996,11 April 2017,57,2,5,4278,62,61,4586,129889,61,4,0
+M0_2064,18,UTF-8,7,nginx,NaN,SC,Mahe,03 August 2016,03 October 2016,11,6,9,894,13,11,894,838,11,0,0
+M0_462,18,iso-8859-1,6,Apache/2,345,America,CO,29 July 2002,01 July 2016,12,0,3,1189,13,14,1327,8559,14,2,0
+M0_1128,19,us-ascii,6,Microsoft-HTTPAPI/2.0,324,America,FL,18 March 1997,19 March 2017,0,0,0,0,0,0,0,0,0,0,0
+M2_17,20,utf-8,5,nginx/1.10.1,NaN,NaN,NaN,08 November 2014,NaN,0,0,0,0,3,2,146,213,2,2,1
+M3_75,20,utf-8,5,nginx/1.10.1,NaN,NaN,NaN,08 November 2014,NaN,0,0,0,0,1,2,146,62,2,2,1
+M0_1013,20,utf-8,6,Apache,NaN,America,Kansas,14 September 2007,09 September 2015,0,0,0,0,0,0,0,0,0,0,0
+M0_1102,20,us-ascii,6,Microsoft-HTTPAPI/2.0,324,America,CO,22 November 2016,23 November 2016,0,0,0,0,0,0,0,0,0,0,0
+M0_22,20,utf-8,7,NaN,13716,GB,NaN,11 October 2002,06 October 2016,16,6,8,1492,20,20,1784,2334,20,4,0
+M0_482,20,ISO-8859-1,6,nginx,3692,NaN,NaN,14 November 2002,19 April 2015,25,19,4,3946,29,35,4746,16408,35,10,0
+M0_584,21,utf-8,6,nginx,15025,NaN,NaN,NaN,NaN,13,1,5,1099,17,15,1243,15476,15,2,0
+A0_69,22,us-ascii,7,Microsoft-HTTPAPI/2.0,324,America,CO,15 September 2013,25 February 2017,9,0,4,850,9,11,994,1354,11,2,1
+M0_161,22,utf-8,6,openresty/1.11.2.1,NaN,America,CA,03 July 1999,07 August 2015,39,29,6,3833,42,43,4125,22495,43,4,0
+M0_2122,22,iso-8859-1,6,nginx,318,America,Tennessee,02 November 2003,29 June 2015,8,6,6,696,10,8,696,636,8,0,0
+M0_2176,22,iso-8859-1,6,Apache/2.2.22,224,NaN,NaN,12 August 2008,13 July 2016,4,3,2,420,6,4,420,372,4,0,0
